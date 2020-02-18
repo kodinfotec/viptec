@@ -5,12 +5,14 @@
 <title>John Wick (2014)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:faad7a4f358901f56c74b31a7f1d672c4af32784</link>
 <thumbnail>https://fanart.tv/fanart/movies/245891/movieposter/john-wick-5d42b3e629d6a.jpg</thumbnail>
+<genre>Ação, Drama, Suspense</genre>
 </item>
 
 <item>
 <title>John Wick: Chapter 2 (2017)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e6934fe997d25c7143e3d87bc51013d07bbf02b</link>
 <thumbnail>https://fanart.tv/fanart/movies/324552/movieposter/john-wick-chapter-two-5960c5ca53f66.jpg</thumbnail>
+<genre>Ação, Drama, Suspense</genre>
 </item>
 
 <item>
@@ -18,6 +20,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8af5bedd19001bd37329f9587c9f28afce0e4831</link>
 <thumbnail>https://fanart.tv/fanart/movies/458156/movieposter/john-wick-chapter-3--parabellum-5cd7e0816e46b.jpg</thumbnail>
 <fanart>https://fanart.tv/fanart/movies/458156/moviebackground/john-wick-chapter-3--parabellum-5d16f44570b9e.jpg</fanart>
+<genre>Ação, Drama, Suspense</genre>
 </item>
 
 
@@ -26,7 +29,6 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cc1c258c2673089df2a47ed3017bb6cf23336e8</link>
 <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/tNMAhvD6IvEQk6xUn1qweyvmt00.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg</fanart>
-<info>Sinopse: Coringa é uma história original do vilão nunca antes vista no cinema. Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante. A versão de Phillips sobre Arthur Fleck, um homem desprezado pela sociedade, não é só uma visão realista do personagem, mas também uma lição de vida.</info>
 <genre>Crime, Drama, Suspense</genre>
 </item>
 </items>
