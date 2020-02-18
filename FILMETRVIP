@@ -3,13 +3,13 @@
 <items>
 <item>
 <title>John Wick (2014)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:faad7a4f358901f56c74b31a7f1d672c4af32784&dn=John.Wick.2014.1080p.BluRay.AVC.TrueHD.7.1.Atmos-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:faad7a4f358901f56c74b31a7f1d672c4af32784</link>
 <thumbnail>https://fanart.tv/fanart/movies/245891/movieposter/john-wick-5d42b3e629d6a.jpg</thumbnail>
 </item>
 
 <item>
 <title>John Wick: Chapter 2 (2017)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e6934fe997d25c7143e3d87bc51013d07bbf02b&dn=John.Wick.Chapter.2.2017.1080p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e6934fe997d25c7143e3d87bc51013d07bbf02b</link>
 <thumbnail>https://fanart.tv/fanart/movies/324552/movieposter/john-wick-chapter-two-5960c5ca53f66.jpg</thumbnail>
 </item>
 
@@ -22,7 +22,7 @@
 
 
 <item>
-<title>[COLOR silver]CORINGA[/COLOR] | [COLOR yellow](IMDB 8.9)[/COLOR]</title>
+<title>Coringa (2019)[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cc1c258c2673089df2a47ed3017bb6cf23336e8</link>
 <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/tNMAhvD6IvEQk6xUn1qweyvmt00.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg</fanart>
