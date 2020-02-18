@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<channels>
+<channel>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white] SEJAM BEM-VINDOS [/COLOR] [COLOR yellow]|||[/COLOR]</name>
+<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/sejabemvindo.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+<info>[COLOR yellow]||[/COLOR] - ADDON -[COLOR springgreen][B]INFOTEC[/B] - [/COLOR][COLOR yellow][B]IPTV[/B] - [COLOR yellow]||[/COLOR][COLOR white] Agradecimentos aos Colaboradores  JM SERVIÇOS[/COLOR]</info>
+</channel>
+
+
+<channel>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white]PARCERIA JM SERVIÇOS[/COLOR] [COLOR yellow]|||[/COLOR]</name>
+<thumbnail>https://ia801502.us.archive.org/14/items/infotec/logojm.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JMP2PVIP</externallink>
+<fanart>https://ia801406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+<info>Contatos pelos WHATSAPP OU TELEGRAM 12982190306</info>
+<info2>[COLOR yellow]||[/COLOR] JM SERVIÇOS - FAÇA SEU TESTE - Infotec-IPTV  [COLOR yellow] WHATSAPP OU TELEGRAM **12982190306**[/COLOR] [COLOR yellow]||[/COLOR]</info2>
+</channel>
+
+
+<channel>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR yellow]|||[/COLOR]</name>
+<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/entreaqui.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CATEGORIAS</externallink>
+<fanart>https://ia801406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+<info>[COLOR yellow]||[/COLOR] - INFOTEC-IPTV - [COLOR yellow]||[/COLOR]</info>
+</channel>
+
+</channels>
