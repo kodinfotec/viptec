@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
+<items>
 <item>
 <title>John Wick (2014)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:faad7a4f358901f56c74b31a7f1d672c4af32784&dn=John.Wick.2014.1080p.BluRay.AVC.TrueHD.7.1.Atmos-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce</link>
@@ -14,7 +15,18 @@
 
 <item>
 <title>John Wick: Chapter 3 - Parabellum (2019)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8af5bedd19001bd37329f9587c9f28afce0e4831&dn=John.Wick.Chapter.3.Parabellum.2019.1080p.WEBRip.x264-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8af5bedd19001bd37329f9587c9f28afce0e4831</link>
 <thumbnail>https://fanart.tv/fanart/movies/458156/movieposter/john-wick-chapter-3--parabellum-5cd7e0816e46b.jpg</thumbnail>
 <fanart>https://fanart.tv/fanart/movies/458156/moviebackground/john-wick-chapter-3--parabellum-5d16f44570b9e.jpg</fanart>
 </item>
+
+
+<item>
+<title>[COLOR silver]CORINGA[/COLOR] | [COLOR yellow](IMDB 8.9)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cc1c258c2673089df2a47ed3017bb6cf23336e8</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/tNMAhvD6IvEQk6xUn1qweyvmt00.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg</fanart>
+<info>Sinopse: Coringa é uma história original do vilão nunca antes vista no cinema. Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante. A versão de Phillips sobre Arthur Fleck, um homem desprezado pela sociedade, não é só uma visão realista do personagem, mas também uma lição de vida.</info>
+<genre>Crime, Drama, Suspense</genre>
+</item>
+</items>
