@@ -1,12 +1,7 @@
 #EXTM3U
-#EXTINF:-1, TESTE VIP
+#EXTINF:-1, TESTE BBB 20
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW", BBB HD MOSAICO
-http://cloud-nany.cc:80/jmservicos00/jmservicos0/59300
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA", SBT
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-
-#EXTINF:-0 tvg-id="BBB2020" tvg-name="BBB HD MOSAICO" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB HD MOSAICO
 http://cloud-nany.cc:80/jmservicos00/jmservicos0/59300
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW", BBB 20 FHD
 http://cloud-nany.cc:80/jmservicos00/jmservicos0/59197
@@ -16,3 +11,21 @@ http://cloud-nany.cc:80/jmservicos00/jmservicos0/59196
 http://cloud-nany.cc:80/jmservicos00/jmservicos0/59289
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW", BBB - CAM02
 http://cloud-nany.cc:80/jmservicos00/jmservicos0/59290
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW", BBB - CAM03
+http://cloud-nany.cc:80/jmservicos00/jmservicos0/59291
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW", BBB - CAM04
+http://cloud-nany.cc:80/jmservicos00/jmservicos0/59292
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW", BBB - CAM05
+http://cloud-nany.cc:80/jmservicos00/jmservicos0/59293
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW", BBB - CAM06
+http://cloud-nany.cc:80/jmservicos00/jmservicos0/59294
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW", BBB - CAM07
+http://cloud-nany.cc:80/jmservicos00/jmservicos0/59295
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW", BBB - CAM08
+http://cloud-nany.cc:80/jmservicos00/jmservicos0/59296
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW", BBB - CAM09 
+http://cloud-nany.cc:80/jmservicos00/jmservicos0/59297
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW", BBB - CAM10
+http://cloud-nany.cc:80/jmservicos00/jmservicos0/59432
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA", SBT
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
