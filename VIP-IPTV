@@ -5,3 +5,14 @@
 http://cloud-nany.cc:80/jmservicos00/jmservicos0/59300
 #EXTINF:-1 tvg-logo="" group-title="TV ABERTA", SBT
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-0 tvg-id="BBB2020" tvg-name="BBB HD MOSAICO" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB HD MOSAICO
+http://cloud-nany.cc:80/jmservicos00/jmservicos0/59300
+#EXTINF:0,BBB 20 FHD
+http://cloud-nany.cc:80/jmservicos00/jmservicos0/59197
+#EXTINF:0,BBB 20 HD
+http://cloud-nany.cc:80/jmservicos00/jmservicos0/59196
+#EXTINF:0,BBB - CAM01
+http://cloud-nany.cc:80/jmservicos00/jmservicos0/59289
+#EXTINF:0,BBB - CAM02
+http://cloud-nany.cc:80/jmservicos00/jmservicos0/59290
