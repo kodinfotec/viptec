@@ -33,7 +33,7 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 #EXTINF:-1, Band
 https://player.band.com.br/c5888aff-6b58-483d-9ddf-fd5a77a25188
 #EXTINF:-1, Canção Nova
-https://youtu.be/CUAzYACfa8k
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CUAzYACfa8k
 #EXTINF:-1, TV Brasil
 https://video-rvd-pe-cdc-gw-1-1.rnp.br/live/ocp(t(FfTsppVyqtA)r(TOqkzw)a(imP_lg)p(d(lCo)k(ow4)m(69Htuwudb8p93jiasOe49Q)n(a(CTMG_g)s(GxY)'a(v3DBag)s(9Uw)'a(tx6ijw)s(h-o)'a(ScOA8Q)s(hyU)))s(s(A4o)b(5fqewpDKfRn2ZjoxYwxURQTXH4GlWhR8UQb6HILi2WH3BTqTFOJVIWrEXj-DhmD7XpJBFtWG0qn-ywzULg)'s(248)b(JlvCNnNq0wSOcaNcvfgrzMM-xz5lL3ouhRibCEX3TvwPN-_0u-jUpqGpA_DO1OegQU9CflZdKKPAeuDFG2CpHQxLlYQjBv6gu9qQbcLv)'s(0RE)b(nvF_GpV2))m(0))/25_index.m3u8
 #EXTINF:-1, Multi Cultura
