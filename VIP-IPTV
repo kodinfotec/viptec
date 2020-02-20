@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1:PT:,Fox Life FHD 
 plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://list.deeplist.nl/live/dry3571/novasenha321/52659.ts
+#EXTINF:-1:PT:,Fox SD
 plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://list.deeplist.nl/live/dry3571/novasenha321/52659.m3u8
 #EXTINF:-1:PT:,Fox HD 
 plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://list.deeplist.nl/live/dry3571/novasenha321/52659.m3u8
