@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1:PT:,Fox Life FHD 
-plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7514.m3u8
-#EXTINF:-1:PT:,Fox FHD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://list.deeplist.nl/live/dry3571/novasenha321/52659.ts
 plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://list.deeplist.nl/live/dry3571/novasenha321/52659.m3u8
 #EXTINF:-1:PT:,Fox HD 
 plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://list.deeplist.nl/live/dry3571/novasenha321/52659.m3u8
