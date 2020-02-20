@@ -5,3 +5,214 @@ plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=ht
 plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://list.deeplist.nl/live/dry3571/novasenha321/52659.m3u8
 #EXTINF:-1:PT:,Fox HD 
 plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://list.deeplist.nl/live/dry3571/novasenha321/52659.m3u8
+#EXTINF:-1:PT:,RTP 1 FHD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7459.m3u8
+#EXTINF:-1:PT:,RTP 1 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7496.m3u8
+#EXTINF:-1:PT:,RTP 2 FHD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7458.m3u8
+#EXTINF:-1:PT:,RTP 2 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7495.m3u8
+#EXTINF:-1:PT:,RTP 3 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7494.m3u8
+#EXTINF:-1:PT:,SIC HD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7488.m3u8
+#EXTINF:-1:PT:,TVI FHD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7464.m3u8
+#EXTINF:-1:PT:,TVI HD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7455.m3u8
+#EXTINF:-1:PT:,TVI 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/13456.m3u8
+#EXTINF:-1:PT:,TVI 24 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7463.m3u8
+#EXTINF:-1:PT:,TVI Reality 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7462.m3u8
+#EXTINF:-1:PT:,CM TV 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7524.m3u8
+#EXTINF:-1:PT:,Globo TV 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/8794.m3u8
+#EXTINF:-1:PT:,SIC Mulher 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7485.m3u8
+#EXTINF:-1:PT:,SIC Caras 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7487.m3u8
+#EXTINF:-1:PT:,SIC Noticias 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7484.m3u8
+#EXTINF:-1:PT:,SIC Radical 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7483.m3u8
+#EXTINF:-1:PT:,Porto Canal 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7499.m3u8
+#EXTINF:-1:PT:,RTP Memoria 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7489.m3u8
+#EXTINF:-1:PT:,CMTV HD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/12536.m3u8
+#EXTINF:-1:PT:,AXN FHD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7538.m3u8
+#EXTINF:-1:PT:,AXN White FHD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7536.m3u8
+#EXTINF:-1:PT:,AXN White HD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/667464.m3u8
+#EXTINF:-1:PT:,AXN Black 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7537.m3u8
+#EXTINF:-1:PT:,AMC 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7539.m3u8
+#EXTINF:-1:PT:,Fox Crime FHD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/8810.m3u8
+#EXTINF:-1:PT:,Fox Comedy 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7515.m3u8
+#EXTINF:-1:PT:,Canal Q 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7528.m3u8
+#EXTINF:-1:PT:,TLC 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7474.m3u8
+#EXTINF:-1:PT:,Fox Life FHD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7514.m3u8
+#EXTINF:-1:PT:,Fox FHD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7456.m3u8
+#EXTINF:-1:PT:,Fox HD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7516.m3u8
+#EXTINF:-1:PT:,Syfy HD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7454.m3u8
+#EXTINF:-1:PT:,Fox Movies FHD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7513.m3u8
+#EXTINF:-1:PT:,Sundance FHD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/12504.m3u8
+#EXTINF:-1:PT:,24 Kitchen FHD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7542.m3u8
+#EXTINF:-1:PT:,Food Network HD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/12510.m3u8
+#EXTINF:-1:PT:,Fine Living Network FHD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/12509.m3u8
+#EXTINF:-1:PT:,Dog TV FHD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/12528.m3u8
+#EXTINF:-1:PT:,Eleven Sport 1 HD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/51927.m3u8
+#EXTINF:-1:PT:,Eleven Sport 2 HD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/51926.m3u8
+#EXTINF:-1:PT:,Eleven Sport 3 HD 
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/51925.m3u8
+#EXTINF:-1:PT:,Eleven Sport 4 HD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/51924.m3u8
+
+#EXTINF:-1:PT:,Eleven Sport 5 HD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/51923.m3u8
+
+#EXTINF:-1:PT:,Eleven Sport 6 HD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/51922.m3u8
+
+#EXTINF:-1:PT:,Sport TV + FHD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7477.m3u8
+
+#EXTINF:-1:PT:,Sport TV 1 FHD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/8818.m3u8
+
+#EXTINF:-1:PT:,Sport TV 1 HD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/13096.m3u8
+
+#EXTINF:-1:PT:,Sport TV 1 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/13097.m3u8
+
+#EXTINF:-1:PT:,Sport TV 2 FHD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7481.m3u8
+
+#EXTINF:-1:PT:,Sport TV 2 HD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/8814.m3u8
+
+#EXTINF:-1:PT:,Sport TV 2 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/13093.m3u8
+
+#EXTINF:-1:PT:,Sport TV 3 FHD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/8817.m3u8
+
+#EXTINF:-1:PT:,Sport TV 3 HD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/8813.m3u8
+
+#EXTINF:-1:PT:,Sport TV 3 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/13091.m3u8
+
+#EXTINF:-1:PT:,Sport TV3 (Backup) 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7480.m3u8
+
+#EXTINF:-1:PT:,Sport TV 4 FHD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/8816.m3u8
+
+#EXTINF:-1:PT:,Sport TV 4 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/13089.m3u8
+
+#EXTINF:-1:PT:,Sport TV 4 HD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7479.m3u8
+
+#EXTINF:-1:PT:,Sport TV 5 FHD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7478.m3u8
+
+#EXTINF:-1:PT:,Sport TV 5 HD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/8812.m3u8
+
+#EXTINF:-1:PT:,Sport TV 5 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/13087.m3u8
+
+#EXTINF:-1:PT:,BTV 1 FHD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/12521.m3u8
+
+#EXTINF:-1:PT:,BTV 1 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/12524.m3u8
+
+#EXTINF:-1:PT:,Sporting TV FHD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7476.m3u8
+
+#EXTINF:-1:PT:,NBA TV 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/8799.m3u8
+
+#EXTINF:-1:PT:,Kombat Sports 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/8793.m3u8
+
+#EXTINF:-1:PT:,Real Madrid TV 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7497.m3u8
+
+#EXTINF:-1:PT:,Discovery Channel 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7523.m3u8
+
+#EXTINF:-1:PT:,Discovery Showcase FHD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7522.m3u8
+
+#EXTINF:-1:PT:,National Geographic FHD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7503.m3u8
+
+#EXTINF:-1:PT:,Nat Geo Wild FHD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7504.m3u8
+
+#EXTINF:-1:PT:,Travel Channel FHD 
+
+plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7472.m3u8
+
+#EXTINF:-1:PT:,Odisseia 
+
+plugin://plugin.video.f4mTester/?name=
