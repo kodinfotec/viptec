@@ -1,7 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
-http://list.deeplist.nl/live/diogosantus/diogo0211/1120.ts
-#EXTINF:-1 tvg-id="" tvg-name="A&E FULL HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E FULL HD
-http://list.deeplist.nl/live/diogosantus/diogo0211/52645.ts
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E HD
-http://list.deeplist.nl/live/diogosantus/diogo0211/5078.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT SANTA CATARINA HD" tvg-logo="https://i.imgur.com/h4T7JvI.png" group-title="ABERTOS",SBT SANTA CATARINA HD
+http://cloud-nany.cc:80/jmservicos00/jmservicos1988/59022
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS SC HD" tvg-logo="https://i.imgur.com/C0pJvtV.png" group-title="NOTICIAS",RECORD NEWS SC HD
+http://cloud-nany.cc:80/jmservicos00/jmservicos1988/59023
+#EXTINF:-1 tvg-id="" tvg-name="SBT PARANA HD" tvg-logo="https://i.imgur.com/uMUV0Bw.png" group-title="ABERTOS",SBT PARANA HD
+http://cloud-nany.cc:80/jmservicos00/jmservicos1988/59025
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV PARANA HD" tvg-logo="https://i.imgur.com/rK4Bwzs.png" group-title="REDE RECORD",RECORD TV PARANA HD
+http://cloud-nany.cc:80/jmservicos00/jmservicos1988/59026
+#EXTINF:-1 tvg-id="" tvg-name="RCI SD" tvg-logo="https://i.imgur.com/6Tu3Zco.png" group-title="ABERTOS",RCI SD
+http://cloud-nany.cc:80/jmservicos00/jmservicos1988/55690
+#EXTINF:-1 tvg-id="" tvg-name="CATARINENSE 1" tvg-logo="https://i.imgur.com/vODNdGa.png" group-title="ESPORTES - PAY PER VIEW",CATARINENSE 1
+http://cloud-nany.cc:80/jmservicos00/jmservicos1988/59298
+#EXTINF:-1 tvg-id="" tvg-name="CATARINENSE 2" tvg-logo="https://i.imgur.com/vODNdGa.png" group-title="ESPORTES - PAY PER VIEW",CATARINENSE 2
+http://cloud-nany.cc:80/jmservicos00/jmservicos1988/59299
