@@ -1,19 +1,757 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="INFOTEC" tvg-logo="https://i.imgur.com/zhqq5sS.png" group-title="", [B][COLOR gold]TODOS OS CANAIS[/COLOR][/B]
 
-#EXTINF:-1,
-
-#EXTINF:-1 tvg-id="" tvg-name="SBT SANTA CATARINA HD" tvg-logo="https://i.imgur.com/h4T7JvI.png" group-title="ABERTOS",SBT SANTA CATARINA HD
-http://cloud-nany.cc:80/jmservicos00/jmservicos1988/59022
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS SC HD" tvg-logo="https://i.imgur.com/C0pJvtV.png" group-title="NOTICIAS",RECORD NEWS SC HD
-http://cloud-nany.cc:80/jmservicos00/jmservicos1988/59023
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARANA HD" tvg-logo="https://i.imgur.com/uMUV0Bw.png" group-title="ABERTOS",SBT PARANA HD
-http://cloud-nany.cc:80/jmservicos00/jmservicos1988/59025
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV PARANA HD" tvg-logo="https://i.imgur.com/rK4Bwzs.png" group-title="REDE RECORD",RECORD TV PARANA HD
-http://cloud-nany.cc:80/jmservicos00/jmservicos1988/59026
-#EXTINF:-1 tvg-id="" tvg-name="RCI SD" tvg-logo="https://i.imgur.com/6Tu3Zco.png" group-title="ABERTOS",RCI SD
-http://cloud-nany.cc:80/jmservicos00/jmservicos1988/55690
-#EXTINF:-1 tvg-id="" tvg-name="CATARINENSE 1" tvg-logo="https://i.imgur.com/vODNdGa.png" group-title="ESPORTES - PAY PER VIEW",CATARINENSE 1
-http://cloud-nany.cc:80/jmservicos00/jmservicos1988/59298
-#EXTINF:-1 tvg-id="" tvg-name="CATARINENSE 2" tvg-logo="https://i.imgur.com/vODNdGa.png" group-title="ESPORTES - PAY PER VIEW",CATARINENSE 2
-http://cloud-nany.cc:80/jmservicos00/jmservicos1988/59299
+#EXTINF: -1 tvg-id = "Animalplanet.br" tvg-name = "FHD DO PLANETA ANIMAL" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title = "DOCUMENTÁRIOS", PLANETA ANIMAL FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85399.m3u8
+#EXTINF: -1 tvg-id = "Animalplanet.br" tvg-name = "PLANETA ANIMAL FHD²" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title = "DOCUMENTÁRIOS", PLANETA ANIMAL FHD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85400.m3u8
+#EXTINF: -1 tvg-id = "DiscoveryCivilization.br" tvg-name = "HGTV SD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg /800px-HGTV_US_Logo_2015.svg.png "group-title =" DOCUMENTARIOS ", HGTV SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85406.m3u8
+#EXTINF: -1 tvg-id = "DiscoveryCivilization.br" tvg-name = "HGTV HD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg /800px-HGTV_US_Logo_2015.svg.png "group-title =" DOCUMENTARIOS ", HGTV HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85407.m3u8
+#EXTINF: -1 tvg-id = "DiscoveryCivilization.br" tvg-name = "HGTV HD²" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg /800px-HGTV_US_Logo_2015.svg.png "group-title =" DOCUMENTARIOS ", HGTV HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85408.m3u8
+#EXTINF: -1 tvg-id = "H2.br" tvg-name = "H2 SD" tvg-logo = "https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png "group-title =" DOCUMENTARIOS ", H2 SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85430.m3u8
+#EXTINF: -1 tvg-id = "H2.br" tvg-name = "H2 SD²" tvg-logo = "https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png "título do grupo =" DOCUMENTÁRIOS ", H2 SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85431.m3u8
+#EXTINF: -1 tvg-id = "H2.br" tvg-name = "H2 HD" tvg-logo = "https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png "título do grupo =" DOCUMENTÁRIOS ", H2 HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85432.m3u8
+#EXTINF: -1 tvg-id = "H2.br" tvg-name = "H2 HD²" tvg-logo = "https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png "group-title =" DOCUMENTARIOS ", H2 HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85433.m3u8
+#EXTINF: -1 tvg-id = "H2.br" tvg-name = "H2 FHD" tvg-logo = "https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png "group-title =" DOCUMENTARIOS ", H2 FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85434.m3u8
+#EXTINF: -1 tvg-id = "Historychannel.br" tvg-name = "SD HISTÓRICO" tvg-logo = "https://www.stickpng.com/assets/images/585ac9444f6ae202fedf2947.png" group-title = " DOCUMENTÁRIOS ", HISTÓRIA SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85435.m3u8
+#EXTINF: -1 tvg-id = "Historychannel.br" tvg-name = "HISTORY SD²" tvg-logo = "https://www.stickpng.com/assets/images/585ac9444f6ae202fedf2947.png" group-title = " DOCUMENTÁRIOS ", HISTÓRICO SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85436.m3u8
+#EXTINF: -1 tvg-id = "Historychannel.br" tvg-name = "HISTORY FHD" tvg-logo = "https://www.stickpng.com/assets/images/585ac9444f6ae202fedf2947.png" group-title = " DOCUMENTÁRIOS ", HISTÓRIA FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85437.m3u8
+#EXTINF: -1 tvg-id = "Nationalgeographic.br" tvg-name = "SD NAT GEO" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title = "DOCUMENTARIOS", NAT GEO SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85443.m3u8
+#EXTINF: -1 tvg-id = "Nationalgeographic.br" tvg-name = "NAT GEO HD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title = "DOCUMENTÁRIOS", NAT GEO HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85444.m3u8
+#EXTINF: -1 tvg-id = "Nationalgeographic.br" tvg-name = "NAT GEO FHD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title = "DOCUMENTÁRIOS", NAT GEO FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85445.m3u8
+#EXTINF: -1 tvg-id = "Natgeowildhd.br" tvg-name = "SD NAT SELVAGEM GEO" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/04/nat-geo -wild-logo.png "group-title =" DOCUMENTÁRIOS ", NAT GEO WILD SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85446.m3u8
+#EXTINF: -1 tvg-id = "Natgeowildhd.br" tvg-name = "NAT GEO WILD SD²" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/04/nat-geo -wild-logo.png "group-title =" DOCUMENTÁRIOS ", NAT GEO WILD SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85447.m3u8
+#EXTINF: -1 tvg-id = "Natgeowildhd.br" tvg-name = "NAT GEO SELVAGEM HD" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/04/nat-geo -wild-logo.png "group-title =" DOCUMENTÁRIOS ", NAT GEO WILD HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85448.m3u8
+#EXTINF: -1 tvg-id = "Natgeowildhd.br" tvg-name = "NAT GEO SELVAGEM FHD" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/04/nat-geo -wild-logo.png "group-title =" DOCUMENTÁRIOS ", NAT GEO WILD FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85449.m3u8
+#EXTINF: -1 tvg-id = "Smithsonianchannel.br" tvg-name = "SMITHSONIAN CHANNEL SD" tvg-logo = "https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/ 7c11e5cb-74bb-424f-995d-8b27bee18a31 / smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png "group-title =" DOCUMENTARIOS ", SMITHSONIAN CHANNEL SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85450.m3u8
+#EXTINF: -1 tvg-id = "Smithsonianchannel.br" tvg-name = "CANAL SMITHSONIAN HD" tvg-logo = "https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/ 7c11e5cb-74bb-424f-995d-8b27bee18a31 / smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png "group-title =" DOCUMENTARIOS ", SMITHSONIAN CHANNEL HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85451.m3u8
+#EXTINF: -1 tvg-id = "Smithsonianchannel.br" tvg-name = "SMITHSONIAN CHANNEL FHD" tvg-logo = "https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/ 7c11e5cb-74bb-424f-995d-8b27bee18a31 / smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png "group-title =" DOCUMENTARIOS ", SMITHSONIAN CHANNEL FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85452.m3u8
+#EXTINF: -1 tvg-id = "Smithsonianchannel.br" tvg-name = "SMITHSONIAN CHANNEL FHD²" tvg-logo = "https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/ 7c11e5cb-74bb-424f-995d-8b27bee18a31 / smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png "group-title =" DOCUMENTARIOS ", CANAL SMITHSONIAN FHD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85453.m3u8
+#EXTINF: -1 tvg-id = "Investigacaodiscoveryid.br" tvg-name = "DESCOBERTA DE INVESTIGAÇÃO SD" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title = "CANAIS DESCOBERTA", INVESTIGAÇÃO DESCOBERTA SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85438.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="CANAIS DISCOVERY",INVESTIGATION DISCOVERY SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85439.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="CANAIS DISCOVERY",INVESTIGATION DISCOVERY HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85440.m3u8
+#EXTINF: -1 tvg-id = "Investigacaodiscoveryid.br" tvg-name = "DESCOBERTA DE INVESTIGAÇÃO HD²" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title = "CANAIS DESCOBERTA", INVESTIGAÇÃO DESCOBERTA HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85441.m3u8
+#EXTINF: -1 tvg-id = "Investigacaodiscoveryid.br" tvg-name = "INVESTIGAÇÃO DESCOBERTA FHD" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title = "CANAIS DESCOBERTA", INVESTIGAÇÃO DESCOBERTA FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85442.m3u8
+#EXTINF: -1 tvg-id = "Discoveryworldhd.br" tvg-name = "DESCOBRE O MUNDO SD" tvg-logo = "https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World- Concept-3.png "group-title =" CANAIS DESCOBERTA ", DISCOVERY WORLD SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85425.m3u8
+#EXTINF: -1 tvg-id = "Discoveryworldhd.br" tvg-name = "DESCOBRE O MUNDO SD²" tvg-logo = "https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World- Concept-3.png "group-title =" CANAIS DESCOBERTA ", DISCOVERY WORLD SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85426.m3u8
+#EXTINF: -1 tvg-id = "Discoveryworldhd.br" tvg-name = "DESCOBRE O MUNDO HD²" tvg-logo = "https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World- Concept-3.png "group-title =" CANAIS DESCOBERTA ", DISCOVERY WORLD HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85428.m3u8
+#EXTINF: -1 tvg-id = "Discoveryworldhd.br" tvg-name = "DESCOBRE O MUNDO HD" tvg-logo = "https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World- Concept-3.png "group-title =" CANAIS DESCOBERTA ", DISCOVERY WORLD HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85427.m3u8
+#EXTINF: -1 tvg-id = "Discoveryworldhd.br" tvg-name = "DESCOBRE O MUNDO FHD" tvg-logo = "https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World- Concept-3.png "group-title =" CANAIS DESCOBERTA ", DESCOBERTA MUNDIAL FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85429.m3u8
+#EXTINF: -1 tvg-id = "Discovery.br" tvg-name = "DISCOVERY CHANNEL SD" tvg-logo = "https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo. png "group-title =" CANAIS DISCOVERY ", DISCOVERY CHANNEL SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85401.m3u8
+#EXTINF: -1 tvg-id = "Discovery.br" tvg-name = "DISCOVERY CHANNEL SD²" tvg-logo = "https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo. png "group-title =" CANAIS DISCOVERY ", DISCOVERY CHANNEL SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85402.m3u8
+#EXTINF: -1 tvg-id = "Discovery.br" tvg-name = "DISCOVERY CHANNEL HD" tvg-logo = "https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo. png "group-title =" CANAIS DISCOVERY ", DISCOVERY CHANNEL HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85403.m3u8
+#EXTINF: -1 tvg-id = "Discovery.br" tvg-name = "DISCOVERY CHANNEL HD²" tvg-logo = "https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo. png "group-title =" CANAIS DISCOVERY ", DISCOVERY CHANNEL HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85404.m3u8
+#EXTINF: -1 tvg-id = "Discovery.br" tvg-name = "DISCOVERY CHANNEL FHD" tvg-logo = "https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo. png "group-title =" CANAIS DISCOVERY ", DISCOVERY CHANNEL FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85405.m3u8
+#EXTINF: -1 tvg-id = "Homehealth.br" tvg-name = "DESCOBERTA CASA E SAÚDE SD" tvg-logo = "https://discovery-latam-prod.imgix.net/files/logos/HH- Logo-white_0.png "group-title =" CANAIS DESCOBERTA ", DESCOBERTA CASA E SAÚDE SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85409.m3u8
+#EXTINF: -1 tvg-id = "Homehealth.br" tvg-name = "DESCOBERTA CASA E SAÚDE HD" tvg-logo = "https://discovery-latam-prod.imgix.net/files/logos/HH- Logo-white_0.png "group-title =" CANAIS DESCOBERTA ", DESCOBERTA CASA E SAÚDE HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85410.m3u8
+#EXTINF: -1 tvg-id = "Homehealth.br" tvg-name = "DESCOBERTA CASA E SAÚDE HD²" tvg-logo = "https://discovery-latam-prod.imgix.net/files/logos/HH- Logo-white_0.png "group-title =" CANAIS DESCOBERTA ", DESCOBERTA CASA E SAÚDE HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85411.m3u8
+#EXTINF: -1 tvg-id = "Homehealth.br" tvg-name = "DESCOBERTA CASA E SAÚDE FHD" tvg-logo = "https://discovery-latam-prod.imgix.net/files/logos/HH- Logo-white_0.png "group-title =" CANAIS DESCOBERTA ", DESCOBERTA CASA E SAÚDE FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85412.m3u8
+#EXTINF: -1 tvg-id = "Hdtheater.br" tvg-name = "DESCOBRE O TEATRO SD" tvg-logo = "https://seeklogo.net/wp-content/uploads/2013/08/discovery-hd- theatre-vector-logo.png "group-title =" CANAIS DESCOBERTA ", DISCOVERY THEATER SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85413.m3u8
+#EXTINF: -1 tvg-id = "Hdtheater.br" tvg-name = "DISCOVERY THEATER SD²" tvg-logo = "https://seeklogo.net/wp-content/uploads/2013/08/discovery-hd- theatre-vector-logo.png "group-title =" CANAIS DESCOBERTA ", DISCOVERY THEATER SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85414.m3u8
+#EXTINF: -1 tvg-id = "Hdtheater.br" tvg-name = "DESCOBRE O TEATRO HD" tvg-logo = "https://seeklogo.net/wp-content/uploads/2013/08/discovery-hd- theatre-vector-logo.png "group-title =" CANAIS DESCOBERTA ", DISCOVERY THEATER HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85415.m3u8
+#EXTINF: -1 tvg-id = "Hdtheater.br" tvg-name = "DESCOBRE O TEATRO HD²" tvg-logo = "https://seeklogo.net/wp-content/uploads/2013/08/discovery-hd- theatre-vector-logo.png "group-title =" CANAIS DESCOBERTA ", DISCOVERY THEATER HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85416.m3u8
+#EXTINF: -1 tvg-id = "DiscoveryScience.br" tvg-name = "DISCOVERY SCIENCE SD" tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title = "CANAIS DESCOBERTA", DISCOVERY SCIENCE SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85417.m3u8
+#EXTINF: -1 tvg-id = "DiscoveryScience.br" tvg-name = "DISCOVERY SCIENCE HD" tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title = "CANAIS DISCOVERY", DESCOBERTA CIÊNCIA HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85418.m3u8
+#EXTINF: -1 tvg-id = "DiscoveryScience.br" tvg-name = "CIÊNCIA DA DESCOBERTA HD²" tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title = "CANAIS DISCOVERY", DISCOVERY CIÊNCIA HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85419.m3u8
+#EXTINF: -1 tvg-id = "DiscoveryScience.br" tvg-name = "DISCOVERY SCIENCE FHD" tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title = "CANAIS DESCOBERTA", DESCOBERTA CIÊNCIA FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85420.m3u8
+#EXTINF: -1 tvg-id = "Discturbohd.br" tvg-name = "DISCOVERY TURBO SD" tvg-logo = "https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group- title = "CANAIS DISCOVERY", DISCOVERY TURBO SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85421.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85422.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85423.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85424.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES",COMEDY CENTRAL SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85663.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES",COMEDY CENTRAL SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85664.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES",COMEDY CENTRAL HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85665.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES",COMEDY CENTRAL HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85666.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES",COMEDY CENTRAL FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85667.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES",TLC SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85668.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES",TLC SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85669.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES",TLC HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85670.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES",TLC HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85671.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES",TLC FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OFF FHD" tvg-logo="" group-title="VARIEDADES",OFF FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/86095.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD²" tvg-logo="" group-title="VARIEDADES",OFF HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/86094.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="" group-title="VARIEDADES",OFF HD
+http://new.lista.red:80/live/Lucas3453/lp197114/86093.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD²" tvg-logo="" group-title="VARIEDADES",OFF SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/86092.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="" group-title="VARIEDADES",OFF SD
+http://new.lista.red:80/live/Lucas3453/lp197114/86091.m3u8
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="[+18] - PLAYBOY HD" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - PLAYBOY HD
+http://new.lista.red:80/live/Lucas3453/lp197114/33949.m3u8
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="[+18] - PLAYBOY FHD" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - PLAYBOY FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/34249.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="[+18] - SEXTREME" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - SEXTREME
+http://new.lista.red:80/live/Lucas3453/lp197114/33948.m3u8
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="[+18] - SEXY HOT HD" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - SEXY HOT HD
+http://new.lista.red:80/live/Lucas3453/lp197114/33947.m3u8
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="[+18] - SEXY HOT HD" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - SEXY HOT HD
+http://new.lista.red:80/live/Lucas3453/lp197114/50764.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="[+18] - VENUS" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - VENUS
+http://new.lista.red:80/live/Lucas3453/lp197114/33946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] - SEXY HOT HD*" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - SEXY HOT HD*
+http://new.lista.red:80/live/Lucas3453/lp197114/72646.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="[+18] PLAYBOY" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] PLAYBOY
+http://new.lista.red:80/live/Lucas3453/lp197114/74948.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="[+18] - BrazzersTV EUR" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - BrazzersTV EUR
+http://new.lista.red:80/live/Lucas3453/lp197114/80090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] - EROTIC CHANNEL 1" tvg-logo="https://tinyurl.com/y4ercrej" group-title="ADULTOS",[+18] - EROTIC CHANNEL 1
+http://new.lista.red:80/live/Lucas3453/lp197114/80091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] - RED LIGHT HD" tvg-logo="https://tinyurl.com/y5b2y76l" group-title="ADULTOS",[+18] - RED LIGHT HD
+http://new.lista.red:80/live/Lucas3453/lp197114/80092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] - SIRINA CHANNEL" tvg-logo="https://tinyurl.com/y5zfgweh" group-title="ADULTOS",[+18] - SIRINA CHANNEL
+http://new.lista.red:80/live/Lucas3453/lp197114/80093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23: EU A PATROA E AS CRIANÇAS " tvg-logo="https://2.bp.blogspot.com/--2bS5EI0LBM/XJBl2A_F5iI/AAAAAAAABNs/OTGDARFv9Y8Z5s6VYA5I1fPpcybNj2axQCLcBGAs/s1600/EU-A-PATROA-CRIAN%25C3%2587AS-GEEK-RESENHAS.png" group-title="ESPECIAIS 24H",23: EU A PATROA E AS CRIANÇAS
+http://new.lista.red:80/live/Lucas3453/lp197114/80138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: GALINHA PINTADINHA" tvg-logo="https://2.bp.blogspot.com/-n3qoyeDxpJA/V6jwOb32QjI/AAAAAAAAM1s/NUVE907V2U4f78fyejrkeBagX77a4tFXQCLcB/s1600/a%2Bgalinha%2Bpintadinha%2B%25C3%25A9%2Bum%2Bfenomeno.png" group-title="ESPECIAIS 24H",24: GALINHA PINTADINHA
+http://new.lista.red:80/live/Lucas3453/lp197114/80142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="https://3palavrinhas.com.br/wp-content/uploads/2019/09/shows-3palavrinhas-1-1.png" group-title="ESPECIAIS 24H",3 PALAVRINHAS
+http://new.lista.red:80/live/Lucas3453/lp197114/80189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: APENAS UM SHOW*" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/apenas-um-show-png-3.png" group-title="ESPECIAIS 24H",24: APENAS UM SHOW*
+http://new.lista.red:80/live/Lucas3453/lp197114/80181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: CHAVES" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/nome-chaves-png.png" group-title="ESPECIAIS 24H",24: CHAVES
+http://new.lista.red:80/live/Lucas3453/lp197114/80160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: TODO MUNDO ODEIA O CRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Everybody_Hates_Chris_Logo.png" group-title="ESPECIAIS 24H",24: TODO MUNDO ODEIA O CRIS
+http://new.lista.red:80/live/Lucas3453/lp197114/80183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: Pica-Pau" tvg-logo="https://www.epgrupo.com.br/wp-content/uploads/pica-pau-300x251-1.png" group-title="ESPECIAIS 24H",24: Pica-Pau
+http://new.lista.red:80/live/Lucas3453/lp197114/80194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: Patrulha Canina" tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2018/10/patrulha-canina-14-978x1024.png" group-title="ESPECIAIS 24H",24: Patrulha Canina
+http://new.lista.red:80/live/Lucas3453/lp197114/80197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: Vai QUE Cola" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9a/Vai_Que_Cola.png" group-title="ESPECIAIS 24H",24: Vai QUE Cola
+http://new.lista.red:80/live/Lucas3453/lp197114/80203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: Chapolin Colorado" tvg-logo="https://3.bp.blogspot.com/-E3pgwfnqe1U/UAs__HuofxI/AAAAAAAAA5s/hRd6K3e2FFo/s280/chapolin+logo.png" group-title="ESPECIAIS 24H",24: Chapolin Colorado
+http://new.lista.red:80/live/Lucas3453/lp197114/80215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24:Os Simpsons" tvg-logo="https://www.nicepng.com/png/full/531-5311008_os-simpsons-logo-png-simpsons-words.png" group-title="ESPECIAIS 24H",24:Os Simpsons
+http://new.lista.red:80/live/Lucas3453/lp197114/80217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: REPORTAGEN POLICIA" tvg-logo="https://images.vexels.com/media/users/3/158398/isolated/preview/13adf46d954beb393caa1e82b7d9db3d-silhueta-de-estrela-de-pol--cia-de-distintivo-by-vexels.png" group-title="ESPECIAIS 24H",24: REPORTAGEN POLICIA
+http://new.lista.red:80/live/Lucas3453/lp197114/80221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="ESPECIAIS 24H",Bob Esponja 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiacos 24H Saga Doze Casas" tvg-logo="https://i.pinimg.com/originals/9c/23/ae/9c23aec16cc1b0e5bc8e688b8c1a7304.png" group-title="ESPECIAIS 24H",Cavaleiros dos Zodiacos 24H Saga Doze Casas
+http://new.lista.red:80/live/Lucas3453/lp197114/85313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classicos Disney 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Walt_Disney_Animation_Studios_logo.svg/500px-Walt_Disney_Animation_Studios_logo.svg.png" group-title="ESPECIAIS 24H",Classicos Disney 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Coragem o Cão Covarde 24H" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2018/02/Coragem-o-C%C3%A3o-Covarde-vetorizado-04.png" group-title="ESPECIAIS 24H",Coragem o Cão Covarde 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio 24H" tvg-logo="https://download.seaicons.com/icons/atti12/tv-series-folder/512/Two-and-a-Half-Men-icon.png" group-title="ESPECIAIS 24H",Dois Homens e Meio 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball 24H" tvg-logo="https://static3.tcdn.com.br/img/editor/up/408990/dragonball.png" group-title="ESPECIAIS 24H",Dragon Ball 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Familia da Pesada (Family Guy) 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3a/Family_Guy_Logo.svg.png" group-title="ESPECIAIS 24H",Familia da Pesada (Family Guy) 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Formiga Atomica 24H" tvg-logo="https://ap.imagensbrasil.org/images/2018/06/11/formiga-atomica.png" group-title="ESPECIAIS 24H",Formiga Atomica 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA 24H" tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG44.png" group-title="ESPECIAIS 24H",FUTURAMA 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24H" tvg-logo="https://2.bp.blogspot.com/-n3qoyeDxpJA/V6jwOb32QjI/AAAAAAAAM1s/NUVE907V2U4f78fyejrkeBagX77a4tFXQCLcB/s1600/a%2Bgalinha%2Bpintadinha%2B%25C3%25A9%2Bum%2Bfenomeno.png" group-title="ESPECIAIS 24H",Galinha Pintadinha 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Luluzinha 24H" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/luluzinha-png.png" group-title="ESPECIAIS 24H",Luluzinha 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mickey e Donald 24H" tvg-logo="https://pngimg.com/uploads/goofy/goofy_PNG34.png" group-title="ESPECIAIS 24H",Mickey e Donald 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões 24H" tvg-logo="https://images.uncyc.org/pt/thumb/4/42/OsTrapalh%C3%B5es.png/200px-OsTrapalh%C3%B5es.png" group-title="ESPECIAIS 24H",Os Trapalhões 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24H" tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2020/01/peppa_pig_capa_galeria_2020.png" group-title="ESPECIAIS 24H",Peppa Pig 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Parks 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/South_Park_main_characters.png/250px-South_Park_main_characters.png" group-title="ESPECIAIS 24H",South Parks 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats 24H" tvg-logo="https://www.freepnglogos.com/uploads/thundercats-png-logo/thundercats-movies-png-logo-17.png" group-title="ESPECIAIS 24H",Thundercats 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Cris 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Everybody_Hates_Chris_Logo.png" group-title="ESPECIAIS 24H",Todo Mundo Odeia o Cris 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço 24H" tvg-logo="https://occ-0-2433-999.1.nflxso.net/art/2af9f/149ac7f103f618fbc78e8756f915e850e822af9f.png" group-title="ESPECIAIS 24H",Um Maluco no Pedaço 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As aventuras de Jackie Chan 24H" tvg-logo="https://vignette.wikia.nocookie.net/jackiechanadventures/images/1/16/Jackie.1.png" group-title="ESPECIAIS 24H",As aventuras de Jackie Chan 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca 24H" tvg-logo="https://images.habbo.com/web_images/habbo-web-articles/fansite_habbid_corrida-maluca-logo1.png" group-title="ESPECIAIS 24H",Corrida Maluca 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" group-title="ESPECIAIS 24H",Kenan e Kel 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Mascara 24H" tvg-logo="https://i.imgur.com/DJIk958.pnghttp://www.officialpsds.com/images/thumbs/The-Mask-psd85195.png" group-title="ESPECIAIS 24H",O Mascara 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory 24H" tvg-logo="https://lh3.googleusercontent.com/proxy/i2VrS4dK5FsmAzUGs-emBnJS5Rq8bcCiMeILrG6XC12KOkWk1JngGw65vh6_MBeflc8X-HCwks6nrncQ746u44Dot6ouYLx1qHe06IGWbw7mOgKnadj-tA" group-title="ESPECIAIS 24H",The Big Bang Theory 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tico e Teco 24H" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tico-e-teco-png-1.png" group-title="ESPECIAIS 24H",Tico e Teco 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85335.m3u8
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="RED BULL TV  FHD" tvg-logo="https://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redbulltv.png" group-title="VARIEDADES",RED BULL TV  FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/84788.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES",BIS SD
+http://new.lista.red:80/live/Lucas3453/lp197114/84789.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES",BIS SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/84790.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES",BIS HD
+http://new.lista.red:80/live/Lucas3453/lp197114/84791.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES",BIS HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/84792.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES",BIS FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/84793.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES",BIS FHD²
+http://new.lista.red:80/live/Lucas3453/lp197114/84794.m3u8
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television-png-logo-7.png" group-title="VARIEDADES",MTV SD
+http://new.lista.red:80/live/Lucas3453/lp197114/84795.m3u8#EXTINF:-1 tvg-id = "Animalplanet.br" tvg-name = "FHD DO PLANETA ANIMAL" tvg-logo = "https : //upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png "group-title =" DOCUMENTARIOS ", PLANETA ANIMAL FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85399.m3u8
+#EXTINF: -1 tvg-id = "Animalplanet.br" tvg-name = "PLANETA ANIMAL FHD²" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title = "DOCUMENTÁRIOS", PLANETA ANIMAL FHD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85400.m3u8
+#EXTINF: -1 tvg-id = "DiscoveryCivilization.br" tvg-name = "HGTV SD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg /800px-HGTV_US_Logo_2015.svg.png "group-title =" DOCUMENTARIOS ", HGTV SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85406.m3u8
+#EXTINF: -1 tvg-id = "DiscoveryCivilization.br" tvg-name = "HGTV HD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg /800px-HGTV_US_Logo_2015.svg.png "group-title =" DOCUMENTARIOS ", HGTV HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85407.m3u8
+#EXTINF: -1 tvg-id = "DiscoveryCivilization.br" tvg-name = "HGTV HD²" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg /800px-HGTV_US_Logo_2015.svg.png "group-title =" DOCUMENTARIOS ", HGTV HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85408.m3u8
+#EXTINF: -1 tvg-id = "H2.br" tvg-name = "H2 SD" tvg-logo = "https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png "group-title =" DOCUMENTARIOS ", H2 SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85430.m3u8
+#EXTINF: -1 tvg-id = "H2.br" tvg-name = "H2 SD²" tvg-logo = "https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png "título do grupo =" DOCUMENTÁRIOS ", H2 SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85431.m3u8
+#EXTINF: -1 tvg-id = "H2.br" tvg-name = "H2 HD" tvg-logo = "https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png "título do grupo =" DOCUMENTÁRIOS ", H2 HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85432.m3u8
+#EXTINF: -1 tvg-id = "H2.br" tvg-name = "H2 HD²" tvg-logo = "https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png "group-title =" DOCUMENTARIOS ", H2 HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85433.m3u8
+#EXTINF: -1 tvg-id = "H2.br" tvg-name = "H2 FHD" tvg-logo = "https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png "group-title =" DOCUMENTARIOS ", H2 FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85434.m3u8
+#EXTINF: -1 tvg-id = "Historychannel.br" tvg-name = "SD HISTÓRICO" tvg-logo = "https://www.stickpng.com/assets/images/585ac9444f6ae202fedf2947.png" group-title = " DOCUMENTÁRIOS ", HISTÓRIA SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85435.m3u8
+#EXTINF: -1 tvg-id = "Historychannel.br" tvg-name = "HISTORY SD²" tvg-logo = "https://www.stickpng.com/assets/images/585ac9444f6ae202fedf2947.png" group-title = " DOCUMENTÁRIOS ", HISTÓRICO SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85436.m3u8
+#EXTINF: -1 tvg-id = "Historychannel.br" tvg-name = "HISTORY FHD" tvg-logo = "https://www.stickpng.com/assets/images/585ac9444f6ae202fedf2947.png" group-title = " DOCUMENTÁRIOS ", HISTÓRIA FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85437.m3u8
+#EXTINF: -1 tvg-id = "Nationalgeographic.br" tvg-name = "SD NAT GEO" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title = "DOCUMENTARIOS", NAT GEO SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85443.m3u8
+#EXTINF: -1 tvg-id = "Nationalgeographic.br" tvg-name = "NAT GEO HD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title = "DOCUMENTÁRIOS", NAT GEO HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85444.m3u8
+#EXTINF: -1 tvg-id = "Nationalgeographic.br" tvg-name = "NAT GEO FHD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title = "DOCUMENTÁRIOS", NAT GEO FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85445.m3u8
+#EXTINF: -1 tvg-id = "Natgeowildhd.br" tvg-name = "SD NAT SELVAGEM GEO" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/04/nat-geo -wild-logo.png "group-title =" DOCUMENTÁRIOS ", NAT GEO WILD SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85446.m3u8
+#EXTINF: -1 tvg-id = "Natgeowildhd.br" tvg-name = "NAT GEO WILD SD²" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/04/nat-geo -wild-logo.png "group-title =" DOCUMENTÁRIOS ", NAT GEO WILD SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85447.m3u8
+#EXTINF: -1 tvg-id = "Natgeowildhd.br" tvg-name = "NAT GEO SELVAGEM HD" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/04/nat-geo -wild-logo.png "group-title =" DOCUMENTÁRIOS ", NAT GEO WILD HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85448.m3u8
+#EXTINF: -1 tvg-id = "Natgeowildhd.br" tvg-name = "NAT GEO SELVAGEM FHD" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/04/nat-geo -wild-logo.png "group-title =" DOCUMENTÁRIOS ", NAT GEO WILD FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85449.m3u8
+#EXTINF: -1 tvg-id = "Smithsonianchannel.br" tvg-name = "SMITHSONIAN CHANNEL SD" tvg-logo = "https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/ 7c11e5cb-74bb-424f-995d-8b27bee18a31 / smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png "group-title =" DOCUMENTARIOS ", SMITHSONIAN CHANNEL SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85450.m3u8
+#EXTINF: -1 tvg-id = "Smithsonianchannel.br" tvg-name = "CANAL SMITHSONIAN HD" tvg-logo = "https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/ 7c11e5cb-74bb-424f-995d-8b27bee18a31 / smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png "group-title =" DOCUMENTARIOS ", SMITHSONIAN CHANNEL HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85451.m3u8
+#EXTINF: -1 tvg-id = "Smithsonianchannel.br" tvg-name = "SMITHSONIAN CHANNEL FHD" tvg-logo = "https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/ 7c11e5cb-74bb-424f-995d-8b27bee18a31 / smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png "group-title =" DOCUMENTARIOS ", SMITHSONIAN CHANNEL FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85452.m3u8
+#EXTINF: -1 tvg-id = "Smithsonianchannel.br" tvg-name = "SMITHSONIAN CHANNEL FHD²" tvg-logo = "https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/ 7c11e5cb-74bb-424f-995d-8b27bee18a31 / smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png "group-title =" DOCUMENTARIOS ", CANAL SMITHSONIAN FHD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85453.m3u8
+#EXTINF: -1 tvg-id = "Investigacaodiscoveryid.br" tvg-name = "DESCOBERTA DE INVESTIGAÇÃO SD" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title = "CANAIS DESCOBERTA", INVESTIGAÇÃO DESCOBERTA SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85438.m3u8
+#EXTINF: -1 tvg-id = "Investigacaodiscoveryid.br" tvg-name = "DESCOBERTA DE INVESTIGAÇÃO SD²" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title = "CANAIS DESCOBERTA", INVESTIGAÇÃO DESCOBERTA SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85439.m3u8
+#EXTINF: -1 tvg-id = "Investigacaodiscoveryid.br" tvg-name = "DESCOBERTA DE INVESTIGAÇÃO HD" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title = "CANAIS DESCOBERTA", INVESTIGAÇÃO DESCOBERTA HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85440.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="CANAIS DISCOVERY",INVESTIGATION DISCOVERY HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85441.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="CANAIS DISCOVERY",INVESTIGATION DISCOVERY FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85442.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85425.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD²" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85426.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD²" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85428.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD  HD" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD  HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85427.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85429.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85401.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85402.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85403.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85404.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85405.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="https://discovery-latam-prod.imgix.net/files/logos/HH-Logo-white_0.png" group-title="CANAIS DISCOVERY",DISCOVERY HOME & HEALTH SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85409.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://discovery-latam-prod.imgix.net/files/logos/HH-Logo-white_0.png" group-title="CANAIS DISCOVERY",DISCOVERY HOME & HEALTH HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85410.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD²" tvg-logo="https://discovery-latam-prod.imgix.net/files/logos/HH-Logo-white_0.png" group-title="CANAIS DISCOVERY",DISCOVERY HOME & HEALTH HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85411.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="https://discovery-latam-prod.imgix.net/files/logos/HH-Logo-white_0.png" group-title="CANAIS DISCOVERY",DISCOVERY HOME & HEALTH FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85412.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://seeklogo.net/wp-content/uploads/2013/08/discovery-hd-theater-vector-logo.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATER SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85413.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD²" tvg-logo="https://seeklogo.net/wp-content/uploads/2013/08/discovery-hd-theater-vector-logo.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATER SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85414.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://seeklogo.net/wp-content/uploads/2013/08/discovery-hd-theater-vector-logo.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATER HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85415.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD²" tvg-logo="https://seeklogo.net/wp-content/uploads/2013/08/discovery-hd-theater-vector-logo.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATER HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85416.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85417.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85418.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85419.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85420.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85421.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85422.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85423.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85424.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES",COMEDY CENTRAL SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85663.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES",COMEDY CENTRAL SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85664.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES",COMEDY CENTRAL HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85665.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES",COMEDY CENTRAL HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85666.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES",COMEDY CENTRAL FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85667.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES",TLC SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85668.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES",TLC SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85669.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES",TLC HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85670.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES",TLC HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85671.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES",TLC FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OFF FHD" tvg-logo="" group-title="VARIEDADES",OFF FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/86095.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD²" tvg-logo="" group-title="VARIEDADES",OFF HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/86094.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="" group-title="VARIEDADES",OFF HD
+http://new.lista.red:80/live/Lucas3453/lp197114/86093.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD²" tvg-logo="" group-title="VARIEDADES",OFF SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/86092.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="" group-title="VARIEDADES",OFF SD
+http://new.lista.red:80/live/Lucas3453/lp197114/86091.m3u8
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="[+18] - PLAYBOY HD" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - PLAYBOY HD
+http://new.lista.red:80/live/Lucas3453/lp197114/33949.m3u8
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="[+18] - PLAYBOY FHD" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - PLAYBOY FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/34249.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="[+18] - SEXTREME" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - SEXTREME
+http://new.lista.red:80/live/Lucas3453/lp197114/33948.m3u8
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="[+18] - SEXY HOT HD" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - SEXY HOT HD
+http://new.lista.red:80/live/Lucas3453/lp197114/33947.m3u8
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="[+18] - SEXY HOT HD" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - SEXY HOT HD
+http://new.lista.red:80/live/Lucas3453/lp197114/50764.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="[+18] - VENUS" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - VENUS
+http://new.lista.red:80/live/Lucas3453/lp197114/33946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] - SEXY HOT HD*" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - SEXY HOT HD*
+http://new.lista.red:80/live/Lucas3453/lp197114/72646.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="[+18] PLAYBOY" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] PLAYBOY
+http://new.lista.red:80/live/Lucas3453/lp197114/74948.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="[+18] - BrazzersTV EUR" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - BrazzersTV EUR
+http://new.lista.red:80/live/Lucas3453/lp197114/80090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] - EROTIC CHANNEL 1" tvg-logo="https://tinyurl.com/y4ercrej" group-title="ADULTOS",[+18] - EROTIC CHANNEL 1
+http://new.lista.red:80/live/Lucas3453/lp197114/80091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] - RED LIGHT HD" tvg-logo="https://tinyurl.com/y5b2y76l" group-title="ADULTOS",[+18] - RED LIGHT HD
+http://new.lista.red:80/live/Lucas3453/lp197114/80092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] - SIRINA CHANNEL" tvg-logo="https://tinyurl.com/y5zfgweh" group-title="ADULTOS",[+18] - SIRINA CHANNEL
+http://new.lista.red:80/live/Lucas3453/lp197114/80093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23: EU A PATROA E AS CRIANÇAS " tvg-logo="https://2.bp.blogspot.com/--2bS5EI0LBM/XJBl2A_F5iI/AAAAAAAABNs/OTGDARFv9Y8Z5s6VYA5I1fPpcybNj2axQCLcBGAs/s1600/EU-A-PATROA-CRIAN%25C3%2587AS-GEEK-RESENHAS.png" group-title="ESPECIAIS 24H",23: EU A PATROA E AS CRIANÇAS
+http://new.lista.red:80/live/Lucas3453/lp197114/80138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: GALINHA PINTADINHA" tvg-logo="https://2.bp.blogspot.com/-n3qoyeDxpJA/V6jwOb32QjI/AAAAAAAAM1s/NUVE907V2U4f78fyejrkeBagX77a4tFXQCLcB/s1600/a%2Bgalinha%2Bpintadinha%2B%25C3%25A9%2Bum%2Bfenomeno.png" group-title="ESPECIAIS 24H",24: GALINHA PINTADINHA
+http://new.lista.red:80/live/Lucas3453/lp197114/80142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="https://3palavrinhas.com.br/wp-content/uploads/2019/09/shows-3palavrinhas-1-1.png" group-title="ESPECIAIS 24H",3 PALAVRINHAS
+http://new.lista.red:80/live/Lucas3453/lp197114/80189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: APENAS UM SHOW*" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/apenas-um-show-png-3.png" group-title="ESPECIAIS 24H",24: APENAS UM SHOW*
+http://new.lista.red:80/live/Lucas3453/lp197114/80181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: CHAVES" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/nome-chaves-png.png" group-title="ESPECIAIS 24H",24: CHAVES
+http://new.lista.red:80/live/Lucas3453/lp197114/80160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: TODO MUNDO ODEIA O CRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Everybody_Hates_Chris_Logo.png" group-title="ESPECIAIS 24H",24: TODO MUNDO ODEIA O CRIS
+http://new.lista.red:80/live/Lucas3453/lp197114/80183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: Pica-Pau" tvg-logo="https://www.epgrupo.com.br/wp-content/uploads/pica-pau-300x251-1.png" group-title="ESPECIAIS 24H",24: Pica-Pau
+http://new.lista.red:80/live/Lucas3453/lp197114/80194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: Patrulha Canina" tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2018/10/patrulha-canina-14-978x1024.png" group-title="ESPECIAIS 24H",24: Patrulha Canina
+http://new.lista.red:80/live/Lucas3453/lp197114/80197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: Vai QUE Cola" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9a/Vai_Que_Cola.png" group-title="ESPECIAIS 24H",24: Vai QUE Cola
+http://new.lista.red:80/live/Lucas3453/lp197114/80203.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "24: Chapolin Colorado" tvg-logo = "https://3.bp.blogspot.com/-E3pgwfnqe1U/UAs__HuofxI/AAAAAAAAA5s/hRd6K3e2FFo/s280/chapolin + logo.png "group-title =" ESPECIAIS 24H ", 24: Chapolin Colorado
+http://new.lista.red:80/live/Lucas3453/lp197114/80215.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "24: Os Simpsons" tvg-logo = "https://www.nicepng.com/png/full/531-5311008_os-simpsons-logo-png- simpsons-words.png "group-title =" ESPECIAIS 24H ", 24: Os Simpsons
+http://new.lista.red:80/live/Lucas3453/lp197114/80217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: REPORTAGEN POLICIA" tvg-logo="https://images.vexels.com/media/users/3/158398/isolated/preview/13adf46d954beb393caa1e82b7d9db3d-silhueta-de-estrela-de-pol--cia-de-distintivo-by-vexels.png" group-title="ESPECIAIS 24H",24: REPORTAGEN POLICIA
+http://new.lista.red:80/live/Lucas3453/lp197114/80221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="ESPECIAIS 24H",Bob Esponja 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiacos 24H Saga Doze Casas" tvg-logo="https://i.pinimg.com/originals/9c/23/ae/9c23aec16cc1b0e5bc8e688b8c1a7304.png" group-title="ESPECIAIS 24H",Cavaleiros dos Zodiacos 24H Saga Doze Casas
+http://new.lista.red:80/live/Lucas3453/lp197114/85313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classicos Disney 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Walt_Disney_Animation_Studios_logo.svg/500px-Walt_Disney_Animation_Studios_logo.svg.png" group-title="ESPECIAIS 24H",Classicos Disney 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Coragem o Cão Covarde 24H" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2018/02/Coragem-o-C%C3%A3o-Covarde-vetorizado-04.png" group-title="ESPECIAIS 24H",Coragem o Cão Covarde 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio 24H" tvg-logo="https://download.seaicons.com/icons/atti12/tv-series-folder/512/Two-and-a-Half-Men-icon.png" group-title="ESPECIAIS 24H",Dois Homens e Meio 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball 24H" tvg-logo="https://static3.tcdn.com.br/img/editor/up/408990/dragonball.png" group-title="ESPECIAIS 24H",Dragon Ball 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Familia da Pesada (Family Guy) 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3a/Family_Guy_Logo.svg.png" group-title="ESPECIAIS 24H",Familia da Pesada (Family Guy) 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Formiga Atomica 24H" tvg-logo="https://ap.imagensbrasil.org/images/2018/06/11/formiga-atomica.png" group-title="ESPECIAIS 24H",Formiga Atomica 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA 24H" tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG44.png" group-title="ESPECIAIS 24H",FUTURAMA 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24H" tvg-logo="https://2.bp.blogspot.com/-n3qoyeDxpJA/V6jwOb32QjI/AAAAAAAAM1s/NUVE907V2U4f78fyejrkeBagX77a4tFXQCLcB/s1600/a%2Bgalinha%2Bpintadinha%2B%25C3%25A9%2Bum%2Bfenomeno.png" group-title="ESPECIAIS 24H",Galinha Pintadinha 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Luluzinha 24H" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/luluzinha-png.png" group-title="ESPECIAIS 24H",Luluzinha 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85322.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Mickey e Donald 24H" tvg-logo = "https://pngimg.com/uploads/goofy/goofy_PNG34.png" group-title = "ESPECIAIS 24H" , Mickey e Donald 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85323.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Os Trapalhões 24H" tvg-logo = "https://images.uncyc.org/pt/thumb/4/42/OsTrapalh%C3%B5es.png /200px-OsTrapalh%C3%B5es.png "group-title =" ESPECIAIS 24H ", Os Trapalhões 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85324.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Peppa Pig 24H" tvg-logo = "https://www.imagenspng.com.br/wp-content/uploads/2020/01/peppa_pig_capa_galeria_2020.png "group-title =" ESPECIAIS 24H ", Peppa Pig 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85325.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "South Parks 24H" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/South_Park_main_characters.png/250px -South_Park_main_characters.png "group-title =" ESPECIAIS 24H ", Parques do Sul 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85326.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Thundercats 24H" tvg-logo = "https://www.freepnglogos.com/uploads/thundercats-png-logo/thundercats-movies-png-logo- 17.png "group-title =" ESPECIAIS 24H ", Thundercats 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85327.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Todo Mundo Odeia o Cris 24H" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/a/af/Everybody_Hates_Chris_Logo.png" group-title = "ESPECIAIS 24H", Todo Mundo Odeia o Cris 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85328.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Um Maluco no Pedaço 24H" tvg-logo = "https://occ-0-2433-999.1.nflxso.net/art/2af9f/149ac7f103f618fbc78e8756f915e850e822af9f.png "group-title =" ESPECIAIS 24H ", Um Maluco no Pedaço 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85329.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Como aventuras de Jackie Chan 24H" tvg-logo = "https://vignette.wikia.nocookie.net/jackiechanadventures/images/1/16/Jackie. 1.png "group-title =" ESPECIAIS 24H ", como aventuras de Jackie Chan 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85330.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Corrida Maluca 24H" tvg-logo = "https://images.habbo.com/web_images/habbo-web-articles/fansite_habbid_corrida-maluca-logo1.png "group-title =" ESPECIAIS 24H ", Corrida Maluca 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85331.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Kenan e Kel 24H" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" group- title = "ESPECIAIS 24H", Kenan e Kel 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85332.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "O Mascara 24H" tvg-logo = "https://i.imgur.com/DJIk958.pnghttp://www.officialpsds.com/images/thumbs / The-Mask-psd85195.png "group-title =" ESPECIAIS 24H ", O Mascara 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85333.m3u8
+#EXTINF: -1 TVG-id = "" TVG-name = "A 24H Big Bang Theory" TVG-logo = "https://lh3.googleusercontent.com/proxy/i2VrS4dK5FsmAzUGs-emBnJS5Rq8bcCiMeILrG6XC12KOkWk1JngGw65vh6_MBeflc8X-HCwks6nrncQ746u44Dot6ouYLx1qHe06IGWbw7mOgKnadj-tA" grupo-título = "ESPECIAIS 24H", Teoria do Big Bang 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85334.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Tico e Teco 24H" tvg-logo = "https://pngimage.net/wp-content/uploads/2018/06/tico-e-teco- png-1.png "group-title =" ESPECIAIS 24H ", Tico e Teco 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85335.m3u8
+#EXTINF: -1 tvg-id = "Mtv.br" tvg-name = "RED BULL TV FHD" tvg-logo = "https://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redbulltv .png "group-title =" VARIEDADES ", RED BULL TV FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/84788.m3u8
+#EXTINF: -1 tvg-id = "Bishd.br" tvg-name = "BIS SD" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo -1.png "group-title =" VARIEDADES ", BIS SD
+http://new.lista.red:80/live/Lucas3453/lp197114/84789.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES",BIS SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/84790.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES",BIS HD
+http://new.lista.red:80/live/Lucas3453/lp197114/84791.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES",BIS HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/84792.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES",BIS FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/84793.m3u8
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES",BIS FHD²
+http://new.lista.red:80/live/Lucas3453/lp197114/84794.m3u8
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television-png-logo-7.png" group-title="VARIEDADES",MTV SD
+http://new.lista.red:80/live/Lucas3453/lp197114/84795.m3u8#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85399.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85400.m3u8
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS",HGTV SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85406.m3u8
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS",HGTV HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85407.m3u8
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS",HGTV HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85408.m3u8
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="DOCUMENTARIOS",H2 SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85430.m3u8
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD²" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="DOCUMENTARIOS",H2 SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85431.m3u8
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="DOCUMENTARIOS",H2 HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85432.m3u8
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD²" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="DOCUMENTARIOS",H2 HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85433.m3u8
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-h2.png" group-title="DOCUMENTARIOS",H2 FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85434.m3u8
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="https://www.stickpng.com/assets/images/585ac9444f6ae202fedf2947.png" group-title="DOCUMENTARIOS",HISTORY SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85435.m3u8
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD²" tvg-logo="https://www.stickpng.com/assets/images/585ac9444f6ae202fedf2947.png" group-title="DOCUMENTARIOS",HISTORY SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85436.m3u8
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD" tvg-logo="https://www.stickpng.com/assets/images/585ac9444f6ae202fedf2947.png" group-title="DOCUMENTARIOS",HISTORY FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85437.m3u8
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="DOCUMENTARIOS",NAT GEO SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85443.m3u8
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="DOCUMENTARIOS",NAT GEO HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85444.m3u8
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="DOCUMENTARIOS",NAT GEO FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85445.m3u8
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="DOCUMENTARIOS",NAT GEO WILD SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85446.m3u8
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="DOCUMENTARIOS",NAT GEO WILD SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85447.m3u8
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="DOCUMENTARIOS",NAT GEO WILD HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85448.m3u8
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="DOCUMENTARIOS",NAT GEO WILD FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85449.m3u8
+#EXTINF:-1 tvg-id="Smithsonianchannel.br" tvg-name="SMITHSONIAN CHANNEL SD" tvg-logo="https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/7c11e5cb-74bb-424f-995d-8b27bee18a31/smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png" group-title="DOCUMENTARIOS",SMITHSONIAN CHANNEL SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85450.m3u8
+#EXTINF:-1 tvg-id="Smithsonianchannel.br" tvg-name="SMITHSONIAN CHANNEL HD" tvg-logo="https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/7c11e5cb-74bb-424f-995d-8b27bee18a31/smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png" group-title="DOCUMENTARIOS",SMITHSONIAN CHANNEL HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85451.m3u8
+#EXTINF:-1 tvg-id="Smithsonianchannel.br" tvg-name="SMITHSONIAN CHANNEL FHD" tvg-logo="https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/7c11e5cb-74bb-424f-995d-8b27bee18a31/smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png" group-title="DOCUMENTARIOS",SMITHSONIAN CHANNEL FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85452.m3u8
+#EXTINF:-1 tvg-id="Smithsonianchannel.br" tvg-name="SMITHSONIAN CHANNEL FHD²" tvg-logo="https://freesat-content.tangentlabs.co.uk/filer_public_thumbnails/filer_public/7c/11/7c11e5cb-74bb-424f-995d-8b27bee18a31/smith_center_k_rgb.png__600x300_q85_subsampling-2_upscale.png" group-title="DOCUMENTARIOS",SMITHSONIAN CHANNEL FHD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85453.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="CANAIS DISCOVERY",INVESTIGATION DISCOVERY SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85438.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="CANAIS DISCOVERY",INVESTIGATION DISCOVERY SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85439.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="CANAIS DISCOVERY",INVESTIGATION DISCOVERY HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85440.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="CANAIS DISCOVERY",INVESTIGATION DISCOVERY HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85441.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="CANAIS DISCOVERY",INVESTIGATION DISCOVERY FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85442.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85425.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD²" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85426.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD²" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85428.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD  HD" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD  HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85427.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://discoveryworlddaycare.ca/wp-content/uploads/2017/09/Discovery-World-Concept-3.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85429.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85401.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85402.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85403.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85404.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85405.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="https://discovery-latam-prod.imgix.net/files/logos/HH-Logo-white_0.png" group-title="CANAIS DISCOVERY",DISCOVERY HOME & HEALTH SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85409.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://discovery-latam-prod.imgix.net/files/logos/HH-Logo-white_0.png" group-title="CANAIS DISCOVERY",DISCOVERY HOME & HEALTH HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85410.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD²" tvg-logo="https://discovery-latam-prod.imgix.net/files/logos/HH-Logo-white_0.png" group-title="CANAIS DISCOVERY",DISCOVERY HOME & HEALTH HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85411.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="https://discovery-latam-prod.imgix.net/files/logos/HH-Logo-white_0.png" group-title="CANAIS DISCOVERY",DISCOVERY HOME & HEALTH FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85412.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://seeklogo.net/wp-content/uploads/2013/08/discovery-hd-theater-vector-logo.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATER SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85413.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD²" tvg-logo="https://seeklogo.net/wp-content/uploads/2013/08/discovery-hd-theater-vector-logo.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATER SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85414.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://seeklogo.net/wp-content/uploads/2013/08/discovery-hd-theater-vector-logo.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATER HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85415.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD²" tvg-logo="https://seeklogo.net/wp-content/uploads/2013/08/discovery-hd-theater-vector-logo.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATER HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85416.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85417.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85418.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85419.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="CANAIS DISCOVERY",DISCOVERY SCIENCE FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85420.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85421.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85422.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD²" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85423.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85424.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES",COMEDY CENTRAL SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85663.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES",COMEDY CENTRAL SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85664.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES",COMEDY CENTRAL HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85665.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES",COMEDY CENTRAL HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85666.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="VARIEDADES",COMEDY CENTRAL FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85667.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES",TLC SD
+http://new.lista.red:80/live/Lucas3453/lp197114/85668.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES",TLC SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85669.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES",TLC HD
+http://new.lista.red:80/live/Lucas3453/lp197114/85670.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES",TLC HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/85671.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="VARIEDADES",TLC FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/85672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OFF FHD" tvg-logo="" group-title="VARIEDADES",OFF FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/86095.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD²" tvg-logo="" group-title="VARIEDADES",OFF HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/86094.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="" group-title="VARIEDADES",OFF HD
+http://new.lista.red:80/live/Lucas3453/lp197114/86093.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD²" tvg-logo="" group-title="VARIEDADES",OFF SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/86092.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="" group-title="VARIEDADES",OFF SD
+http://new.lista.red:80/live/Lucas3453/lp197114/86091.m3u8
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="[+18] - PLAYBOY HD" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - PLAYBOY HD
+http://new.lista.red:80/live/Lucas3453/lp197114/33949.m3u8
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="[+18] - PLAYBOY FHD" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - PLAYBOY FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/34249.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="[+18] - SEXTREME" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - SEXTREME
+http://new.lista.red:80/live/Lucas3453/lp197114/33948.m3u8
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="[+18] - SEXY HOT HD" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - SEXY HOT HD
+http://new.lista.red:80/live/Lucas3453/lp197114/33947.m3u8
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="[+18] - SEXY HOT HD" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - SEXY HOT HD
+http://new.lista.red:80/live/Lucas3453/lp197114/50764.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="[+18] - VENUS" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - VENUS
+http://new.lista.red:80/live/Lucas3453/lp197114/33946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] - SEXY HOT HD*" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - SEXY HOT HD*
+http://new.lista.red:80/live/Lucas3453/lp197114/72646.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="[+18] PLAYBOY" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] PLAYBOY
+http://new.lista.red:80/live/Lucas3453/lp197114/74948.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="[+18] - BrazzersTV EUR" tvg-logo="https://i.imgur.com/S5JRO6P.png" group-title="ADULTOS",[+18] - BrazzersTV EUR
+http://new.lista.red:80/live/Lucas3453/lp197114/80090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] - EROTIC CHANNEL 1" tvg-logo="https://tinyurl.com/y4ercrej" group-title="ADULTOS",[+18] - EROTIC CHANNEL 1
+http://new.lista.red:80/live/Lucas3453/lp197114/80091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] - RED LIGHT HD" tvg-logo="https://tinyurl.com/y5b2y76l" group-title="ADULTOS",[+18] - RED LIGHT HD
+http://new.lista.red:80/live/Lucas3453/lp197114/80092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] - SIRINA CHANNEL" tvg-logo="https://tinyurl.com/y5zfgweh" group-title="ADULTOS",[+18] - SIRINA CHANNEL
+http://new.lista.red:80/live/Lucas3453/lp197114/80093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="23: EU A PATROA E AS CRIANÇAS " tvg-logo="https://2.bp.blogspot.com/--2bS5EI0LBM/XJBl2A_F5iI/AAAAAAAABNs/OTGDARFv9Y8Z5s6VYA5I1fPpcybNj2axQCLcBGAs/s1600/EU-A-PATROA-CRIAN%25C3%2587AS-GEEK-RESENHAS.png" group-title="ESPECIAIS 24H",23: EU A PATROA E AS CRIANÇAS
+http://new.lista.red:80/live/Lucas3453/lp197114/80138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: GALINHA PINTADINHA" tvg-logo="https://2.bp.blogspot.com/-n3qoyeDxpJA/V6jwOb32QjI/AAAAAAAAM1s/NUVE907V2U4f78fyejrkeBagX77a4tFXQCLcB/s1600/a%2Bgalinha%2Bpintadinha%2B%25C3%25A9%2Bum%2Bfenomeno.png" group-title="ESPECIAIS 24H",24: GALINHA PINTADINHA
+http://new.lista.red:80/live/Lucas3453/lp197114/80142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="https://3palavrinhas.com.br/wp-content/uploads/2019/09/shows-3palavrinhas-1-1.png" group-title="ESPECIAIS 24H",3 PALAVRINHAS
+http://new.lista.red:80/live/Lucas3453/lp197114/80189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: APENAS UM SHOW*" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/apenas-um-show-png-3.png" group-title="ESPECIAIS 24H",24: APENAS UM SHOW*
+http://new.lista.red:80/live/Lucas3453/lp197114/80181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: CHAVES" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/nome-chaves-png.png" group-title="ESPECIAIS 24H",24: CHAVES
+http://new.lista.red:80/live/Lucas3453/lp197114/80160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: TODO MUNDO ODEIA O CRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Everybody_Hates_Chris_Logo.png" group-title="ESPECIAIS 24H",24: TODO MUNDO ODEIA O CRIS
+http://new.lista.red:80/live/Lucas3453/lp197114/80183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: Pica-Pau" tvg-logo="https://www.epgrupo.com.br/wp-content/uploads/pica-pau-300x251-1.png" group-title="ESPECIAIS 24H",24: Pica-Pau
+http://new.lista.red:80/live/Lucas3453/lp197114/80194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: Patrulha Canina" tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2018/10/patrulha-canina-14-978x1024.png" group-title="ESPECIAIS 24H",24: Patrulha Canina
+http://new.lista.red:80/live/Lucas3453/lp197114/80197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: Vai QUE Cola" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9a/Vai_Que_Cola.png" group-title="ESPECIAIS 24H",24: Vai QUE Cola
+http://new.lista.red:80/live/Lucas3453/lp197114/80203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: Chapolin Colorado" tvg-logo="https://3.bp.blogspot.com/-E3pgwfnqe1U/UAs__HuofxI/AAAAAAAAA5s/hRd6K3e2FFo/s280/chapolin+logo.png" group-title="ESPECIAIS 24H",24: Chapolin Colorado
+http://new.lista.red:80/live/Lucas3453/lp197114/80215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24:Os Simpsons" tvg-logo="https://www.nicepng.com/png/full/531-5311008_os-simpsons-logo-png-simpsons-words.png" group-title="ESPECIAIS 24H",24:Os Simpsons
+http://new.lista.red:80/live/Lucas3453/lp197114/80217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24: REPORTAGEN POLICIA" tvg-logo="https://images.vexels.com/media/users/3/158398/isolated/preview/13adf46d954beb393caa1e82b7d9db3d-silhueta-de-estrela-de-pol--cia-de-distintivo-by-vexels.png" group-title="ESPECIAIS 24H",24: REPORTAGEN POLICIA
+http://new.lista.red:80/live/Lucas3453/lp197114/80221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="ESPECIAIS 24H",Bob Esponja 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros dos Zodiacos 24H Saga Doze Casas" tvg-logo="https://i.pinimg.com/originals/9c/23/ae/9c23aec16cc1b0e5bc8e688b8c1a7304.png" group-title="ESPECIAIS 24H",Cavaleiros dos Zodiacos 24H Saga Doze Casas
+http://new.lista.red:80/live/Lucas3453/lp197114/85313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classicos Disney 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Walt_Disney_Animation_Studios_logo.svg/500px-Walt_Disney_Animation_Studios_logo.svg.png" group-title="ESPECIAIS 24H",Classicos Disney 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Coragem o Cão Covarde 24H" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2018/02/Coragem-o-C%C3%A3o-Covarde-vetorizado-04.png" group-title="ESPECIAIS 24H",Coragem o Cão Covarde 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio 24H" tvg-logo="https://download.seaicons.com/icons/atti12/tv-series-folder/512/Two-and-a-Half-Men-icon.png" group-title="ESPECIAIS 24H",Dois Homens e Meio 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball 24H" tvg-logo="https://static3.tcdn.com.br/img/editor/up/408990/dragonball.png" group-title="ESPECIAIS 24H",Dragon Ball 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Familia da Pesada (Family Guy) 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3a/Family_Guy_Logo.svg.png" group-title="ESPECIAIS 24H",Familia da Pesada (Family Guy) 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Formiga Atomica 24H" tvg-logo="https://ap.imagensbrasil.org/images/2018/06/11/formiga-atomica.png" group-title="ESPECIAIS 24H",Formiga Atomica 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA 24H" tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG44.png" group-title="ESPECIAIS 24H",FUTURAMA 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24H" tvg-logo="https://2.bp.blogspot.com/-n3qoyeDxpJA/V6jwOb32QjI/AAAAAAAAM1s/NUVE907V2U4f78fyejrkeBagX77a4tFXQCLcB/s1600/a%2Bgalinha%2Bpintadinha%2B%25C3%25A9%2Bum%2Bfenomeno.png" group-title="ESPECIAIS 24H",Galinha Pintadinha 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Luluzinha 24H" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/luluzinha-png.png" group-title="ESPECIAIS 24H",Luluzinha 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mickey e Donald 24H" tvg-logo="https://pngimg.com/uploads/goofy/goofy_PNG34.png" group-title="ESPECIAIS 24H",Mickey e Donald 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões 24H" tvg-logo="https://images.uncyc.org/pt/thumb/4/42/OsTrapalh%C3%B5es.png/200px-OsTrapalh%C3%B5es.png" group-title="ESPECIAIS 24H",Os Trapalhões 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24H" tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2020/01/peppa_pig_capa_galeria_2020.png" group-title="ESPECIAIS 24H",Peppa Pig 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Parks 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/South_Park_main_characters.png/250px-South_Park_main_characters.png" group-title="ESPECIAIS 24H",South Parks 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats 24H" tvg-logo="https://www.freepnglogos.com/uploads/thundercats-png-logo/thundercats-movies-png-logo-17.png" group-title="ESPECIAIS 24H",Thundercats 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Cris 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Everybody_Hates_Chris_Logo.png" group-title="ESPECIAIS 24H",Todo Mundo Odeia o Cris 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço 24H" tvg-logo="https://occ-0-2433-999.1.nflxso.net/art/2af9f/149ac7f103f618fbc78e8756f915e850e822af9f.png" group-title="ESPECIAIS 24H",Um Maluco no Pedaço 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As aventuras de Jackie Chan 24H" tvg-logo="https://vignette.wikia.nocookie.net/jackiechanadventures/images/1/16/Jackie.1.png" group-title="ESPECIAIS 24H",As aventuras de Jackie Chan 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca 24H" tvg-logo="https://images.habbo.com/web_images/habbo-web-articles/fansite_habbid_corrida-maluca-logo1.png" group-title="ESPECIAIS 24H",Corrida Maluca 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png" group-title="ESPECIAIS 24H",Kenan e Kel 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85332.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "O Mascara 24H" tvg-logo = "https://i.imgur.com/DJIk958.pnghttp://www.officialpsds.com/images/thumbs / The-Mask-psd85195.png "group-title =" ESPECIAIS 24H ", O Mascara 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85333.m3u8
+#EXTINF: -1 TVG-id = "" TVG-name = "A 24H Big Bang Theory" TVG-logo = "https://lh3.googleusercontent.com/proxy/i2VrS4dK5FsmAzUGs-emBnJS5Rq8bcCiMeILrG6XC12KOkWk1JngGw65vh6_MBeflc8X-HCwks6nrncQ746u44Dot6ouYLx1qHe06IGWbw7mOgKnadj-tA" grupo-título = "ESPECIAIS 24H", Teoria do Big Bang 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85334.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Tico e Teco 24H" tvg-logo = "https://pngimage.net/wp-content/uploads/2018/06/tico-e-teco- png-1.png "group-title =" ESPECIAIS 24H ", Tico e Teco 24H
+http://new.lista.red:80/live/Lucas3453/lp197114/85335.m3u8
+#EXTINF: -1 tvg-id = "Mtv.br" tvg-name = "RED BULL TV FHD" tvg-logo = "https://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/redbulltv .png "group-title =" VARIEDADES ", RED BULL TV FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/84788.m3u8
+#EXTINF: -1 tvg-id = "Bishd.br" tvg-name = "BIS SD" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo -1.png "group-title =" VARIEDADES ", BIS SD
+http://new.lista.red:80/live/Lucas3453/lp197114/84789.m3u8
+#EXTINF: -1 tvg-id = "Bishd.br" tvg-name = "BIS SD²" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo -1.png "group-title =" VARIEDADES ", BIS SD²
+http://new.lista.red:80/live/Lucas3453/lp197114/84790.m3u8
+#EXTINF: -1 tvg-id = "Bishd.br" tvg-name = "BIS HD" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo -1.png "group-title =" VARIEDADES ", BIS HD
+http://new.lista.red:80/live/Lucas3453/lp197114/84791.m3u8
+#EXTINF: -1 tvg-id = "Bishd.br" tvg-name = "BIS HD²" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo -1.png "group-title =" VARIEDADES ", BIS HD²
+http://new.lista.red:80/live/Lucas3453/lp197114/84792.m3u8
+#EXTINF: -1 tvg-id = "Bishd.br" tvg-name = "BIS FHD" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo -1.png "group-title =" VARIEDADES ", BIS FHD
+http://new.lista.red:80/live/Lucas3453/lp197114/84793.m3u8
+#EXTINF: -1 tvg-id = "Bishd.br" tvg-name = "BIS FHD²" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo -1.png "group-title =" VARIEDADES ", BIS FHD²
+http://new.lista.red:80/live/Lucas3453/lp197114/84794.m3u8
+#EXTINF: -1 tvg-id = "Mtv.br" tvg-name = "MTV SD" tvg-logo = "https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television -png-logo-7.png "group-title =" VARIEDADES ", MTV SD
+http://new.lista.red:80/live/Lucas3453/lp197114/84795.m3u8
