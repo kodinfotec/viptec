@@ -1,18 +1,30 @@
-#EXTM3U
+<?xml version="1.0" encoding="utf-8"?>
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DmHwO9v.jpg" group-title="Filmes", O Encontro
-https://goo.gl/i5kiuN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NuxZt6a.jpg" group-title="Filmes", Jogo da Morte
-https://goo.gl/TGSFGU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WDbYHOt.jpg" group-title="Filmes", Morrendo e Aprendendo 
-https://goo.gl/2QmeGJ
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yVgIZ1R.jpg" group-title="Filmes", Vizinhos Imediatos de 3 Grau
-https://goo.gl/39n1H3
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6kOkj7z.jpg" group-title="Filmes", Ponte dos Espiões
-https://goo.gl/XQ6KS1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hoH1b3K.jpg" group-title="Filmes", Impacto Mortal 
-https://goo.gl/AtwqmL
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1WpadNN.jpg" group-title="Filmes", O Doador de Memórias
-https://goo.gl/MujrkP
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9YmCo9Q.jpg" group-title="Filmes", Samba
-https://goo.gl/eRcnZN
+<channels>
+<channel>
+<name>[COLOR gold]->[/COLOR] | [COLOR lime]CANAIS[/COLOR] [COLOR gold]IPTV[/COLOR] | [COLOR yellow] | [/COLOR]</name>
+<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/canaisonline.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/TVON</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+<info>[COLOR yellow] | [/COLOR]OS MELHORES CANAIS[COLOR yellow] | [/COLOR]</info>
+</channel>
+
+
+<channel>
+<name>[COLOR gold]->[/COLOR]:: [COLOR white]FILMES[/COLOR] ::[COLOR yellow]|[/COLOR]</name>
+<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMES</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+<info>[COLOR yellow] | [/COLOR]OS MELHORES FILMES[COLOR yellow] | [/COLOR]</info>
+</channel>
+
+
+<channel>
+<name>[COLOR gold]->[/COLOR] | [COLOR white]SÉRIES[/COLOR] ::[COLOR yellow]|[/COLOR]</name>
+<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/series.png</thumbnail>
+<externallink>https://VAZA DA QUI</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+<info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
