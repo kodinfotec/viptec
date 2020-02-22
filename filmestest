@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR gold]->[/COLOR][COLOR lime]CANAIS[/COLOR] [COLOR gold]IPTV[/COLOR][COLOR yellow]<-[/COLOR][/B]</name>
+<name>[B][COLOR gold]->[/COLOR] [COLOR lime]CANAIS[/COLOR] [COLOR gold]IPTV[/COLOR][/B]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/canaisonline.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/TVON</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -10,7 +10,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR gold]->[/COLOR] ::[COLOR white]FILMES[/COLOR]:: [COLOR gold]<-[/COLOR][/B]</name>
+<name>[B][COLOR gold]->[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMES</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -18,7 +18,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR gold]->[/COLOR] ::[COLOR white]SÉRIES[/COLOR]:: [COLOR gold]<-[/COLOR][/B]</name>
+<name>[B][COLOR gold]->[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/series.png</thumbnail>
 <externallink>https://VAZA DA QUI</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
