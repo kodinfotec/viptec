@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>CANAIS IPTV</name>
+<name>[B]°[COLOR gold]->[/COLOR][COLOR lime] CANAIS[/COLOR] [COLOR gold]IPTV[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/zhqq5sS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/VIP-IPTV</externallink>
 <fanart>https://i.imgur.com/s25oMKq.png</fanart>
@@ -11,7 +11,7 @@
 
 
 <channel>
-<name>FILMES</name>
+<name>[B]°[COLOR gold]->[/COLOR] [COLOR lime]FILMES[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/FILMESVIP</externallink>
 <fanart>https://i.imgur.com/s25oMKq.png</fanart>
@@ -20,7 +20,7 @@
 
 
 <channel>
-<name>SÉRIES</name>
+<name>[B]°[COLOR gold]-> [COLOR lime]SÉRIES[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/Xisjdcg.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/SERIESVIP</externallink>
 <fanart>https://i.imgur.com/s25oMKq.png</fanart>
