@@ -3,7 +3,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]SEJAM[/COLOR] [COLOR salmon]BEM-VINDOS[/COLOR][/B]</name>
+<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]SEJAM[/COLOR] [COLOR salmon]BEM-VINDOS[/COLOR][COLOR lime]<<<[/COLOR][/B]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/sejabemvindo.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -11,7 +11,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]>>>[/COLOR] [COLOR skyblue]PARCERIA JM SERVIÇOS[/COLOR][/B]</name>
+<name>[B][COLOR lime]>>>[/COLOR] [COLOR skyblue]PARCERIA JM SERVIÇOS[/COLOR][COLOR lime]<<<[/COLOR][/B]</name>
 <thumbnail>https://ia801502.us.archive.org/14/items/infotec/logojm.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JMP2PVIP</externallink>
 <fanart>https://ia801406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
