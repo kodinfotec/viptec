@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>LANÇAMENTOS</name>
+<name>º LANÇAMENTOS</name>
 <thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/filmestest</externallink>
 <fanart>https://i.imgur.com/s25oMKq.png</fanart>
@@ -10,7 +10,7 @@
 </channel>
 
 <channel>
-<name>FILMES TORRENT</name>
+<name>º FILMES TORRENT</name>
 <thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/FILMETRVIP</externallink>
 <fanart>https://i.imgur.com/s25oMKq.png</fanart>
