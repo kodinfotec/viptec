@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1,[COLOR orange]INFOTEC[/COLOR] | [COLOR salmon]IPTV[/COLOR] | [COLOR gold]FILMES[/COLOR] | [COLOR springgreen]JMS[/COLOR]
-plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live
-=======================================================================
  
 #EXTINF:0 type="video" channelId="-1" tvg-logo="", NÓS (2019)
 http://crdp1.azureedge.net/movies/nos-dub-1080p.mp4
