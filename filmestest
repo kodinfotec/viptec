@@ -1,28 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
 
-<channels>
-<channel>
-<name>[B][COLOR gold]$$[/COLOR] [COLOR lime]CANAIS[/COLOR] [COLOR gold]IPTV[/COLOR][/B]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/canaisonline.png</thumbnail>
-<externallink>https://TVON</externallink>
-<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>[COLOR yellow] | [/COLOR]OS MELHORES CANAIS[COLOR yellow] | [/COLOR]</info>
-</channel>
 
-<channel>
-<name>[B][COLOR gold]$$[/COLOR] [COLOR lime]FILMES[/COLOR][/B]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
-<externallink>https://FILMES</externallink>
-<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>[COLOR yellow] | [/COLOR]OS MELHORES FILMES[COLOR yellow] | [/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B][COLOR gold]$$[/COLOR] [COLOR lime]SÉRIES[/COLOR][/B]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/series.png</thumbnail>
-<externallink>https://VAZA DA QUI</externallink>
-<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
-</channel>
-</channels>
-
+<item>
+<title>[COLOR springgreen]FILMES[/COLOR] | [COLOR red]LANÇAMENTOS[/COLOR] | [COLOR gold] 2019 | 2020[/COLOR] | [COLOR springgreen]INFOTEC[/COLOR]</title>
+<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/lan%C3%A7amentos.png</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg</fanart>
+<link>http://</link>
+<info>[COLOR white]1[/COLOR] LANÇAMENTOS 2019 / 2020 INFOTEC-IPTV [COLOR white]1[/COLOR]</info>
+</item>
