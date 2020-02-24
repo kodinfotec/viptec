@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR orange]INFOTEC[/COLOR] | [COLOR salmon]IPTV[/COLOR] | [COLOR gold]FILMES[/COLOR] | [COLOR springgreen]JMS[/COLOR]
+#EXTINF:-1,[COLOR orange]FILMES[/COLOR] | [COLOR salmon]INFOTEC[/COLOR] | [COLOR gold] 2018 / 2020 [/COLOR] | [COLOR springgreen]ZU[/COLOR]
  
 #EXTINF:0 type="video" channelId="-1" tvg-logo="", NÓS (2019)
 http://crdp1.azureedge.net/movies/nos-dub-1080p.mp4
