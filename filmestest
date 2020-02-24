@@ -59,3 +59,12 @@ http://23.237.0.58:25461/prueba/prueba/60
 http://23.237.0.58:25461/prueba/prueba/61
 #EXTINF: -1, DOURADO
 http://23.237.0.58:25461/prueba/prueba/62
+#EXTINF: -1 tvg-logo = "" group-title = "", Fox Prenium
+https://origin.canaismax.com/live/foxpremiumhd/video.m3u8?md5=xmr_yY6j3wqH9gRF1WkfnA&expires=1582411305
+#EXTINF: -1 tvg-logo = "" group-title = "", Flamengo
+https://origin.canaismax.com/live/animalplanethd/video.m3u8?md5=yFPhRstORSKjtP7Xt4n3Lg&expires=1582527144
+#EXTINF: -1 tvg-logo = ""
+group-title = "", manga
+https://animesonline.games/video/a/127384
+#EXTINF: -1 tvg-logo = "" group-title = "", Cinemax
+https://origin.canaismax.com/live/cinemaxhd/video.m3u8?md5=xmr_yY6j3wqH9gRF1WkfnA&expires=1582411305
