@@ -1,1 +1,17 @@
-
+#EXTM3U
+#EXTINF:-1,[COLOR orange]INFOTEC[/COLOR] | [COLOR salmon]IPTV[/COLOR] | [COLOR gold]FILMES[/COLOR] | [COLOR springgreen]JMS[/COLOR]
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live
+=======================================================================
+ 
+#EXTINF:0 type="video" channelId="-1" tvg-logo="", NÓS (2019)
+http://crdp1.azureedge.net/movies/nos-dub-1080p.mp4
+#EXTINF:0 type="video" channelId="-1" tvg-logo="http://webtvcde.com/Filmes/Dublados/Megatubarao.jpg" aspect-ratio="16:9", MEGATUBARAO
+http://webtvcde.com/Filmes/Dublados/Megatubarao.mkv
+#EXTINF:0 type="video" channelId="-1", DE VOLTA PARA O FUTURO
+http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%201.mkv
+#EXTINF:0 type="video" channelId="-1", THOR 3
+http://webtvcde.com/Filmes/Dublados/Thor.Ragnarok.2017.mp4
+#EXTINF:0 type="video" channelId="-1" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW3XEL13UbXzHo3L8VslfTzMgARhD5SiiDhAXVyR_6lOLxunmO\" aspect-ratio="16:9", OS INCRÍVEIS 2
+http://webtvcde.com/Filmes/Dublados/Os.Incriveis.2.mkv
+#EXTINF:0 type="video" channelId="-1", JURASSIC PARK REINO AMEAÇADO
+http://webtvcde.com/Filmes/Dublados/Jurassic.World.mkv
