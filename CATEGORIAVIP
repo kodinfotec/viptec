@@ -30,8 +30,8 @@
 
 <channel>
 <name>[COLOR gold]°[/COLOR] [B][COLOR lime]SERV TESTE[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/Xisjdcg.png</thumbnail>
-<externallink>https://gitlab.com/infosidnei3/kodinfo/-/raw/master/ENTRADA</externallink>
+<thumbnail></thumbnail>
+<link>https://gitlab.com/infosidnei3/kodinfo/-/raw/master/ENTRADA</link>
 <fanart>https://i.imgur.com/s25oMKq.png</fanart>
 <info>[B]EM TESTE[/B]</info>
 </channel>
