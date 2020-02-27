@@ -10,10 +10,3 @@ https://cdn4.canais.ink/hls1/tlc.m3u8?expires=1582751041&token=7cf70d642302553c0
 https://cdn4.canais.ink/hls1/investigacaodiscovery.m3u8?expires=1582751892&token=da833cace3b30bd2bde1ff448969db75
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",THE HISTORY
 https://cdn4.canais.ink/hls1/history.m3u8?expires=1582830343&token=aa53acaaaba2007a469ee69622b21225
-
-#EXTINF:1,BBB 20 MOSAICO 1 HD
-http://new.lista.red:80/Lucas3453/lp197114/84645
-#EXTINF:1,BBB 20 MOSAICO SD
-http://new.lista.red:80/Lucas3453/lp197114/84646
-#EXTINF:1,BBB 20 CAM 2 HD
-http://new.lista.red:80/Lucas3453/lp197114/84647
