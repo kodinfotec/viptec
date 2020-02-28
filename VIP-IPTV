@@ -2,19 +2,6 @@
 #EXTINF:-1,[B]>>>[COLOR orange]INFOTEC[/COLOR] | [COLOR lightcoral]IPTV[/COLOR] | [COLOR gold] 2019 / 2020[/COLOR][/B]
 
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES SERIES",SPACE HD
-https://cdn4.canais.ink/hls1/space.m3u8?expires=1582831070&token=ad38c1af1dfe349e5f184f8f661afaac
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES",TLC HD
-https://cdn4.canais.ink/hls1/tlc.m3u8?expires=1582751041&token=7cf70d642302553c08d202fe821f772e
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",ID DISCOVERY HD
-https://cdn4.canais.ink/hls1/investigacaodiscovery.m3u8?expires=1582751892&token=da833cace3b30bd2bde1ff448969db75
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",THE HISTORY
-https://cdn4.canais.ink/hls1/history.m3u8?expires=1582830343&token=aa53acaaaba2007a469ee69622b21225
-#EXTINF:-1 tvg-id="Discovery Civilization (HD)" tvg-name="Discovery Civilization (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dsciv.png" group-title="DOCUMENTÁRIOS",Discovery Civilization (HD)
-http://br4.2tv.me:80/live/Teste1teste1/Teste1teste1/67.m3u8
-#EXTINF:-1 tvg-id="Discovery Home & Health (HD)" tvg-name="Discovery Home & Health (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dshh.png" group-title="DOCUMENTÁRIOS",Discovery Home & Health (HD)
-http://br4.2tv.me:80/live/Teste1teste1/Teste1teste1/70.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids (HD)" tvg-name="Discovery Kids (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/ds-kids.png" group-title="INFANTIL",Discovery Kids (HD)
-http://br4.2tv.me:80/live/Teste1teste1/Teste1teste1/73.m3u8
-#EXTINF:-1 tvg-id="Discovery Science (HD)" tvg-name="Discovery Science (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/dscience.png" group-title="DOCUMENTÁRIOS",Discovery Science (HD)
-http://br4.2tv.me:80/live/Teste1teste1/Teste1teste1/76.m3u8
+
+#EXTINF:-1, Star Wars: A Ascensão Skywalker Dublado
+https://s-delivery9.mxdcontent.net/v/4648184bcc712b74f1ba657fe06c6dfa.mp4?s=63AZNyFoYuogM5wQVG0L8Q&e=1582902241
