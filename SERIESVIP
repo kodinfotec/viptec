@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<item>
-<title>[B][COLOR orange]SERIES[/COLOR] | [COLOR salmon]Play[/COLOR] | [COLOR gold] 2019 / 2020[/COLOR] | [COLOR springgreen]INFOTEC[/COLOR][/B]</title>
+<channels>
+<channel>
+<name>[B][COLOR orange]SERIES[/COLOR] | [COLOR salmon]Play[/COLOR] | [COLOR gold] 2019 / 2020[/COLOR] | [COLOR springgreen]INFOTEC[/COLOR][/B]</name>
 <link>http://nadaver</link>
 <thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <fanart>https://i.imgur.com/s25oMKq.png</fanart>
-</item>
+</channel>
 
-<item>
-<title>Psi 2014</title>
+<channel>
+<name>Psi 2014</name>
 <externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/PSIEP01</externallink>
 <thumbnail>https://image.tmdb.org/t/p/w1280/7ZRHxUgtaO8rBKj3BfjXanZesy5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/blvmZpYDBI6Be4TLatjf4gfnCUv.jpg</fanart>
 <info>Psicanalista, psicólogo e psiquiatra, Carlo Antonini (Emilio de Mello) atende na cidade de São Paulo. Não bastasse uma ex-mulher, um filho e dois enteados, ele ainda se presta a investigar por conta própria, nas horas vagas, crimes e casos complexos da capital paulista. Seu alívio é discutir os contratempos da vida com sua vizinha e colega de profissão, Valentina (Cláudia Ohana), e o amigo coveiro, Severino (Raul Barreto).</info>
 <genero></genero>
-</item>
+</channel>
+</channels>
 
-<item>
-<title></title>
-<link>?attachment=true</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genero></genero>
-</item>
