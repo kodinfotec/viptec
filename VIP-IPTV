@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1,[B]>>>[COLOR orange]INFOTEC[/COLOR] | [COLOR lightcoral]IPTV[/COLOR] | [COLOR gold] 2019 / 2020[/COLOR][/B]
 
-
-
 #EXTINF:-1, Star Wars: A Ascensão Skywalker Dublado
 https://s-delivery9.mxdcontent.net/v/4648184bcc712b74f1ba657fe06c6dfa.mp4?s=63AZNyFoYuogM5wQVG0L8Q&e=1582902241
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", REDE - TV 
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", REDE - TV 2
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w969012613.m3u8
