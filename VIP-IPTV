@@ -1,12 +1,46 @@
-#EXTM3U
+<?xml version="1.0" encoding="utf-8"?>
+
 #EXTINF:-1,[B]>>>[COLOR orange]INFOTEC[/COLOR] | [COLOR lightcoral]IPTV[/COLOR] | [COLOR gold] 2019 / 2020[/COLOR][/B]
-
-#EXTINF:-1, Star Wars: A Ascensão Skywalker Dublado
-https://s-delivery9.mxdcontent.net/v/4648184bcc712b74f1ba657fe06c6dfa.mp4?s=63AZNyFoYuogM5wQVG0L8Q&e=1582902241
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", REDE - TV 
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", REDE - TV 2
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w210613683.m3u8
-
-#EXTINF:-0, rede tv
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w969012613.m3u8
+#EXTM3U
+#EXTINF: -1, título do grupo = "BBB20", BBB FHD
+http://lista.serverpower.me:80/analucia/analucia/50483
+#EXTINF: -1 tvg-id = "" tvg-name = "BBB HD" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB HD
+http://lista.serverpower.me:80/analucia/analucia/50482
+#EXTINF: -1 tvg-id = "" tvg-name = "BBB SD" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB SD
+http://lista.serverpower.me:80/analucia/analucia/50481
+#EXTINF: -1 tvg-id = "" tvg-name = "BBB 2" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 2
+http://lista.serverpower.me:80/analucia/analucia/50471
+#EXTINF: -1 tvg-id = "" tvg-name = "BBB 3" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 3
+http://lista.serverpower.me:80/analucia/analucia/50477
+#EXTINF: -1 tvg-id = "" tvg-name = "BBB 4" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 4
+http://lista.serverpower.me:80/analucia/analucia/50478
+#EXTINF: -1 tvg-id = "" tvg-name = "BBB 5" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 5
+http://lista.serverpower.me:80/analucia/analucia/50473
+#EXTINF: -1 tvg-id = "" tvg-name = "BBB 6" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 6
+http://lista.serverpower.me:80/analucia/analucia/50474
+#EXTINF: -1 tvg-id = "" tvg-name = "BBB 7" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 7
+http://lista.serverpower.me:80/analucia/analucia/50475
+#EXTINF: -1 tvg-id = "" tvg-name = "BBB 8" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 8
+http://lista.serverpower.me:80/analucia/analucia/50476
+#EXTINF: -1 tvg-id = "" tvg-name = "BBB 9" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 9
+http://lista.serverpower.me:80/analucia/analucia/50479
+#EXTINF: -1 tvg-id = "" tvg-name = "BBB 10" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 10
+http://lista.serverpower.me:80/analucia/analucia/50480
+#EXTINF: -1 tvg-id = "" tvg-name = "FX ¹" tvg-logo = "http://logocanais.ddns.net/Logo/fx1.png" group-title = "FILMES E SERIES", FX ¹
+http://lista.serverpower.me:80/analucia/analucia/37580
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO BRASILIA HD" tvg-logo = "http://logocanais.ddns.net/Logo/Globo1.png" group-title = "GLOBO", GLOBO BRASILIA HD
+http://lista.serverpower.me:80/analucia/analucia/40458
+#EXTINF: -1 tvg-id = "FX HD" tvg-name = "FX HD" tvg-logo = "http://logocanais.ddns.net/Logo/fx1.png" group-title = "FILMES E SÉRIE ", FX HD
+http://lista.serverpower.me:80/analucia/analucia/37165
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO BRASILIA HD" tvg-logo = "http://logocanais.ddns.net/Logo/Globo1.png" group-title = "GLOBO", GLOBO BRASILIA HD
+http://lista.serverpower.me:80/analucia/analucia/37388
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO ES SD" tvg-logo = "http://logocanais.ddns.net/Logo/Globo1.png" group-title = "GLOBO", GLOBO ES SD
+http://lista.serverpower.me:80/analucia/analucia/37706
+#EXTINF: -1 tvg-id = "Globo HD" tvg-name = "GLOBO ES HD" tvg-logo = "http://logocanais.ddns.net/Logo/Globo1.png" group-title = "GLOBO" , GLOBO ES HD
+http://lista.serverpower.me:80/analucia/analucia/27677
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO ES FHD" tvg-logo = "http://logocanais.ddns.net/Logo/Globo1.png" group-title = "GLOBO", GLOBO ES FHD
+http://lista.serverpower.me:80/analucia/analucia/40477
+#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO ES H265" tvg-logo = "http://logocanais.ddns.net/Logo/Globo1.png" group-title = "GLOBO", GLOBO ES H265
+http://lista.serverpower.me:80/analucia/analucia/40478
+#EXTINF: -1 tvg-id = "GloboNews" tvg-name = "GLOBO NEWS" tvg-logo = "http://logocanais.ddns.net/Logo/GloboNews1.png" group-title = "NOTICIAS", GLOBO NOTÍCIA
+http://lista.serverpower.me:80/analucia/ana
