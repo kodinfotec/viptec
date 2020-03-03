@@ -7,5 +7,15 @@
 <fanart>https://i.imgur.com/s25oMKq.png</fanart>
 <info></infot>
 </channel>
+  
+<channels>
+<channel>
+<name>º LANÇAMENTOS</name>
+<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/FILMES8</externallink>
+<fanart>https://i.imgur.com/s25oMKq.png</fanart>
+<info></info>
+</channel>
+
 
 </channels>
