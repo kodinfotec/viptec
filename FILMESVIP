@@ -16,4 +16,12 @@
 <fanart>https://i.imgur.com/s25oMKq.png</fanart>
 <info></info>  
 </channel>
+  
+<channel>
+<name>FILMES TESTE</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/RDCFILMES</externallink>
+<fanart></fanart>
+<info></info>  
+</channel>
 </channels>
