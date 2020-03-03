@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERIES" ,24 HORAS - 01 TEMPORADA - infotec iptv
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/24h1.jpg" group-title="24 Horas", 1T-E01
+https://cdn22.ntcdn.stream/prop/httpdelivery/series/p1/24-horas/1/dub/1104398034temp1ep1.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/24h1.jpg" group-title="24 Horas", 1T-E02
+http://niflheim.lhmtv.gq/play/?contentId=57ebeff16edfd6a&LHMTv
