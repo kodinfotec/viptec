@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<channels>
-<channel>
-<name>[B][COLOR orange]SERIES[/COLOR] | [COLOR salmon]Play[/COLOR] | [COLOR gold] 2019 / 2020[/COLOR] | [COLOR springgreen]INFOTEC[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/24hora</externallink>
-<fanart>https://i.imgur.com/s25oMKq.png</fanart>
-<info></infot>
-</channel>
-  
+ 
 <channels>
 <channel>
 <name>º LANÇAMENTOS</name>
 <thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/FILMES8</externallink>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/24horas</externallink>
 <fanart>https://i.imgur.com/s25oMKq.png</fanart>
 <info></info>
 </channel>
