@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-#EXTINF:-1,[B]>>>[COLOR orange]INFOTEC[/COLOR] | [COLOR lightcoral]IPTV[/COLOR] | [COLOR gold] 2019 / 2020[/COLOR][/B]
 #EXTM3U
 
+#EXTINF:-1,[COLOR lime]>>>[/COLOR] | [COLOR orange]CANAIS[/COLOR] | [COLOR gold]IPTV[/COLOR] | [COLOR springgreen]INFOTEC[/COLOR]
+
+04.03.2020 RDC
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES SERIES",SPACE HD
-https://cdn4.canais.ink/hls1/space.m3u8?expires=1583259414&token=8422a33fb5a5d7217f6364bdd852dd3e
-
+https://cdn4.canais.ink/hls1/space.m3u8?expires=1583359603&token=69fc27a167e1fa37062d2295a3b21b7d
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES",AMC HD
-https://cdn4.canais.ink/hls1/amc.m3u8?expires=1583259689&token=bfbaee3b8ab5e873acb4d0751d5b9123
-
+https://cdn4.canais.ink/hls1/amc.m3u8?expires=1583360158&token=cf77a41a774582c47e56faa6c88204e5
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",Discovery Channel HD
 https://cdn4.canais.ink/hls1/discovery.m3u8?expires=1583259908&token=6a694e153114a61a62d5b0bc1c7c58e1
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",ID DISCOVERY HD
 https://cdn4.canais.ink/hls1/discovery.m3u8?expires=1583076803&token=a1cf7b9428aefaba18e847d17784980e
-
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",THE HISTORY
-https://cdn4.canais.ink/hls1/history.m3u8?expires=1583259537&token=6d9b0304bb01f6ec5b51efa4a0375c03
-
-
+https://cdn4.canais.ink/hls1/history.m3u8?expires=1583359729&token=097eeea998813b0b94bf743dc0660173
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES",TLC HD
 https://cdn4.canais.ink/hls1/tlc.m3u8?expires=1582751041&token=7cf70d642302553c08d202fe821f772e
+#EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",Telecine Action HD
+https://cdn4.canais.ink/hls1/telecineaction.m3u8?expires=1583359832&token=ed56129c81469fef712f562abc1dcbae
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES",Telecine Action HD
-https://cdn4.canais.ink/hls1/telecineaction.m3u8?expires=1583260058&token=fc9d75663b324495086950afa235ad7f
+
 #EXTINF: -1, título do grupo = "BBB20", BBB FHD
 http://lista.serverpower.me:80/analucia/analucia/50483
 #EXTINF: -1 tvg-id = "" tvg-name = "BBB HD" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB HD
