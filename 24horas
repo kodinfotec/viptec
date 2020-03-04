@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
+#EXTINF:-1 tvg-logo="" group-title="FILMES" ,[COLOR orange]TORRENT[/COLOR] | [COLOR salmon]USAR PLUGIN ELEMENTUM UNIVERSAL[/COLOR] | [COLOR gold] (2019)[/COLOR]
 #EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://img.yts.mx/assets/images/movies/spies_in_disguise_2019/medium-cover.jpg" group-title="DESENHOS", Espiões disfarçados (2019)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E3578B84D2C853180EA5601166A972CBFE9080C3
+#EXTINF:-1 tvg-logo="https://img.yts.mx/assets/images/movies/alien_outbreak_2020/medium-cover.jpg" group-title="FILMES", Alien Outbreak
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40D8EEF64665B26B435EEEA6F60D0C67A4495C0F
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg" group-title="FILMES", Entre Facas e Segredos (2019)
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D038825C8B9A85B63C0712F03D68AC0AAC4C103D
 #EXTINF:-1 tvg-logo="https://img.yts.mx/assets/images/movies/the_hunters_prayer_2017/medium-cover.jpg" group-title="THE HUNTER", A Oração do Caçador
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B4839FDF5357CB829A7B0515C7E901F320672E21
+
