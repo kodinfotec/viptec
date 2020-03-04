@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-#EXTINF:-1 tvg-logo="" group-title="SERIES" ,24 HORAS - 01 TEMPORADA - infotec iptv
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/24h1.jpg" group-title="24 Horas", 1T-E01
-https://cdn22.ntcdn.stream/prop/httpdelivery/series/p1/24-horas/1/dub/1104398034temp1ep1.mp4
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/series/24h1.jpg" group-title="24 Horas", 1T-E02
-http://niflheim.lhmtv.gq/play/?contentId=57ebeff16edfd6a&LHMTv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PDuunl.jpg" group-title="COLONY", 1T-E01
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B08C2F7FC575FCD41E519E74569217819D4FA735
+##EXTM3U
+#EXTINF:-1 tvg-logo="https://img.yts.mx/assets/images/movies/the_hunters_prayer_2017/medium-cover.jpg" group-title="THE HUNTER", A Oração do Caçador
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B4839FDF5357CB829A7B0515C7E901F320672E21
