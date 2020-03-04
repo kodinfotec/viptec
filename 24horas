@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-##EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://img.yts.mx/assets/images/movies/the_hunters_prayer_2017/medium-cover.jpg" group-title="THE HUNTER", A Oração do Caçador
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B4839FDF5357CB829A7B0515C7E901F320672E21
