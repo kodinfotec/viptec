@@ -1,113 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-#EXTM3U
-
 #EXTINF:-1,[COLOR lime]>>>[/COLOR] | [COLOR orange]CANAIS[/COLOR] | [COLOR gold]IPTV[/COLOR] | [COLOR springgreen]INFOTEC[/COLOR]
+05.03.2020 RDC
 
-04.03.2020 RDC
-
+#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES SERIES",SPACE HD
-https://cdn4.canais.ink/hls1/space.m3u8?expires=1583359603&token=69fc27a167e1fa37062d2295a3b21b7d
+https://cdn4.canais.ink/hls1/space.m3u8?expires=1583426687&token=9ab2a918d61f8f30252abb8ccf3da82d
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES",AMC HD
-https://cdn4.canais.ink/hls1/amc.m3u8?expires=1583360158&token=cf77a41a774582c47e56faa6c88204e5
+https://cdn4.canais.ink/hls1/amc.m3u8?expires=1583426983&token=8fde1c1ca47ff2cbcc121ecc09038df7
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",Discovery Channel HD
-https://cdn4.canais.ink/hls1/discovery.m3u8?expires=1583259908&token=6a694e153114a61a62d5b0bc1c7c58e1
+https://cdn4.canais.ink/hls1/discovery.m3u8?expires=1583427097&token=457a3a7da3fda3f79241d9c802db4318
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",ID DISCOVERY HD
 https://cdn4.canais.ink/hls1/discovery.m3u8?expires=1583076803&token=a1cf7b9428aefaba18e847d17784980e
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",THE HISTORY
-https://cdn4.canais.ink/hls1/history.m3u8?expires=1583359729&token=097eeea998813b0b94bf743dc0660173
+https://cdn4.canais.ink/hls1/history.m3u8?expires=1583426862&token=2582a70b6a00c4fe5bdb591530e4088f
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES",TLC HD
 https://cdn4.canais.ink/hls1/tlc.m3u8?expires=1582751041&token=7cf70d642302553c08d202fe821f772e
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",Telecine Action HD
-https://cdn4.canais.ink/hls1/telecineaction.m3u8?expires=1583359832&token=ed56129c81469fef712f562abc1dcbae
-
-
-#EXTINF: -1, título do grupo = "BBB20", BBB FHD
-http://lista.serverpower.me:80/analucia/analucia/50483
-#EXTINF: -1 tvg-id = "" tvg-name = "BBB HD" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB HD
-http://lista.serverpower.me:80/analucia/analucia/50482
-#EXTINF: -1 tvg-id = "" tvg-name = "BBB SD" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB SD
-http://lista.serverpower.me:80/analucia/analucia/50481
-#EXTINF: -1 tvg-id = "" tvg-name = "BBB 2" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 2
-http://lista.serverpower.me:80/analucia/analucia/50471
-#EXTINF: -1 tvg-id = "" tvg-name = "BBB 3" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 3
-http://lista.serverpower.me:80/analucia/analucia/50477
-#EXTINF: -1 tvg-id = "" tvg-name = "BBB 4" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 4
-http://lista.serverpower.me:80/analucia/analucia/50478
-#EXTINF: -1 tvg-id = "" tvg-name = "BBB 5" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 5
-http://lista.serverpower.me:80/analucia/analucia/50473
-#EXTINF: -1 tvg-id = "" tvg-name = "BBB 6" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 6
-http://lista.serverpower.me:80/analucia/analucia/50474
-#EXTINF: -1 tvg-id = "" tvg-name = "BBB 7" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 7
-http://lista.serverpower.me:80/analucia/analucia/50475
-#EXTINF: -1 tvg-id = "" tvg-name = "BBB 8" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 8
-http://lista.serverpower.me:80/analucia/analucia/50476
-#EXTINF: -1 tvg-id = "" tvg-name = "BBB 9" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 9
-http://lista.serverpower.me:80/analucia/analucia/50479
-#EXTINF: -1 tvg-id = "" tvg-name = "BBB 10" tvg-logo = "http://srvuhd.top:80/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title = "BBB20", BBB 10
-http://lista.serverpower.me:80/analucia/analucia/50480
-#EXTINF: -1 tvg-id = "" tvg-name = "FX ¹" tvg-logo = "http://logocanais.ddns.net/Logo/fx1.png" group-title = "FILMES E SERIES", FX ¹
-http://lista.serverpower.me:80/analucia/analucia/37580
-#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO BRASILIA HD" tvg-logo = "http://logocanais.ddns.net/Logo/Globo1.png" group-title = "GLOBO", GLOBO BRASILIA HD
-http://lista.serverpower.me:80/analucia/analucia/40458
-#EXTINF: -1 tvg-id = "FX HD" tvg-name = "FX HD" tvg-logo = "http://logocanais.ddns.net/Logo/fx1.png" group-title = "FILMES E SÉRIE ", FX HD
-http://lista.serverpower.me:80/analucia/analucia/37165
-#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO BRASILIA HD" tvg-logo = "http://logocanais.ddns.net/Logo/Globo1.png" group-title = "GLOBO", GLOBO BRASILIA HD
-http://lista.serverpower.me:80/analucia/analucia/37388
-#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO ES SD" tvg-logo = "http://logocanais.ddns.net/Logo/Globo1.png" group-title = "GLOBO", GLOBO ES SD
-http://lista.serverpower.me:80/analucia/analucia/37706
-#EXTINF: -1 tvg-id = "Globo HD" tvg-name = "GLOBO ES HD" tvg-logo = "http://logocanais.ddns.net/Logo/Globo1.png" group-title = "GLOBO" , GLOBO ES HD
-http://lista.serverpower.me:80/analucia/analucia/27677
-#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO ES FHD" tvg-logo = "http://logocanais.ddns.net/Logo/Globo1.png" group-title = "GLOBO", GLOBO ES FHD
-http://lista.serverpower.me:80/analucia/analucia/40477
-#EXTINF: -1 tvg-id = "" tvg-name = "GLOBO ES H265" tvg-logo = "http://logocanais.ddns.net/Logo/Globo1.png" group-title = "GLOBO", GLOBO ES H265
-http://lista.serverpower.me:80/analucia/analucia/40478
-#EXTINF: -1 tvg-id = "GloboNews" tvg-name = "GLOBO NEWS" tvg-logo = "http://logocanais.ddns.net/Logo/GloboNews1.png" group-title = "NOTICIAS", GLOBO NOTÍCIA
-http://lista.serverpower.me:80/analucia/ana
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/bpzzbxrg6q7e7rg/Filmes2019." group-title = "FILMES - 2019", Anna O Perigo Tem Nome
-https://dl.dropbox.com/s/hjqgztzia83sz0w/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/dax7u4nwa9x6q0w/Filmes2019." group-title = "FILMES - 2019", Nada a Perder 2
-https://dl.dropbox.com/s/o9n5t85eagazrvg/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/p9i2u5agktyz7nj/Filmes2019." group-title = "FILMES - 2019", Névoa em Agosto
-https://dl.dropbox.com/s/zoe515cofhkuiwe/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/21a882lxhtekbyl/Filmes2019." group-title = "FILMES - 2019", Um Panda em Apuros
-https://dl.dropbox.com/s/j3cim000bav45h2/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/2q6wslak6ra1grv/Filmes2019." group-title = "FILMES - 2019", Angry Birds 2
-https://dl.dropbox.com/s/jan3pkq0497ayjb/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/bwjsalxrycg0f7s/Filmes2019." group-title = "FILMES - 2019", O Amor Da Trabalho
-https://dl.dropbox.com/s/6txfkanm3bqnxsh/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/e8k9kptfi3rckj4/Filmes2019." group-title = "FILMES - 2019", O Rei
-https://dl.dropbox.com/s/n7bfr9prsetcdwu/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/ok158t9u7zra1a5/Filmes2019." group-title = "FILMES - 2019", A Música da Minha Vida
-https://dl.dropbox.com/s/vt8cb0m9g6j2sp5/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/gyumpwpqd9tdr3g/Filmes2019." group-title = "FILMES - 2019", A Escola da Vida
-https://dl.dropbox.com/s/h03ess666ada8dx/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/in8x3hu26s7hr3u/Filmes2019." group-title = "FILMES - 2019", Agente 00 Gato
-https://dl.dropbox.com/s/pesp4q17x5e1ec3/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/6rp3oxzqvqi4tlo/Filmes2019." group-title = "FILMES - 2019", Grace
-https://dl.dropbox.com/s/nusngyagkiqad0y/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/nb536compuslmag/Filmes2019." group-title = "FILMES - 2019", Paradise Beach
-https://dl.dropbox.com/s/zocy0ehnclxog09/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/nm5ml0k8rphj027/Filmes2019." group-title = "FILMES - 2019", Socorro Virei uma Garota
-https://dl.dropbox.com/s/i5x5vv5xjqp88pk/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/0ax1dkofgczxzka/Filmes2019." group-title = "FILMES - 2019", verão 2003
-https://dl.dropbox.com/s/roej6bpg6mhfuyf/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/apuis7gfrmn9k84/Filmes2019." group-title = "FILMES - 2019", Asilo do Medo
-https://dl.dropbox.com/s/qpdractrgydkzww/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/2v5ouruxj90gct2/Filmes2019." group-title = "FILMES - 2019", Astérix e o Segredo da Poção Mágica
-https://dl.dropbox.com/s/3r8am2bwdj32s8w/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/4li2kzzemq00af2/Filmes2019." group-title = "FILMES - 2019", Mistérios na Rádio
-https://dl.dropbox.com/s/y7ytyngwt6hnkka/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/crnilbx4qrydzir/Filmes2019." group-title = "FILMES - 2019", O Despertar de Motti
-https://dl.dropbox.com/s/bt1nawcioq0dcgm/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/4li2kzzemq00af2/Filmes2019." group-title = "FILMES - 2019", O Primeiro Passo
-https://dl.dropbox.com/s/ebtghje8icgp8il/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/njo6lrm2cbnnsjv/Filmes2019." group-title = "FILMES - 2019", A Pequena Travessa
-https://dl.dropbox.com/s/boqqw4r3eu0457g/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/96xlv7l30a8o3o7/Filmes2019." group-title = "FILMES - 2019", filho americano
-https://dl.dropbox.com/s/kda4x8p71fr24iw/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/vm03l5pu8pcet5c/Filmes2019." group-title = "FILMES - 2019", Brinquedo Assassino
-https://dl.dropbox.com/s/nwnz55hwaw4zjfj/Filmes2019.mp4
-#EXTINF: -1 tvg-logo = "https://dl.dropbox.com/s/o7revyo60f9dv1a/Filmes2019." group-title = "FILMES - 2019", Google Drive
-https://dl.dropbox.com/s/sgduq6qr83z6nkz/Filmes2019.mp4
-#EXTINF: -0, tvg-logo = " ." group-title = "FILMES - 2019", Batman- O Cavaleiro das Trevas 2008 Dublado
-https://s-delivery1.mxdcontent.net/v/31b884ee008e342adeece69df8a1cb79.mp4?s=YtXt_HiqBh3J6WEujERPYQ&e=1583273554
+https://cdn4.canais.ink/hls1/telecineaction.m3u8?expires=1583426927&token=f612c9a6380f317c214de1ae37ec05ab
