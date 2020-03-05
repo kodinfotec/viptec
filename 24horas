@@ -12,3 +12,119 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D038825C8B9A85B63C0
 #EXTINF:-1 tvg-logo="https://img.yts.mx/assets/images/movies/the_hunters_prayer_2017/medium-cover.jpg" group-title="THE HUNTER", A Oração do Caçador
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B4839FDF5357CB829A7B0515C7E901F320672E21
 
+
+#EXTINF:-1 group-title="Testador IPTV", filmes
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", THOR 3
+http://webtvcde.com/Filmes/Dublados/Thor.Ragnarok.2017.mp4
+
+#EXTINF:-1 tvg-logo="http://webtvcde.com/Filmes/Dublados/As.Tartarugas.Ninja.Fora.das.Sombras.jpg" group-title="Sem Categoria", AS TARTARUGAS NINJA FORA DAS SOMBRAS
+http://webtvcde.com/Filmes/Dublados/As.Tartarugas.Ninja.Fora.das.Sombras.mp4
+
+#EXTINF:-1 tvg-logo="http://webtvcde.com/Filmes/Dublados/As.Aventuras.de.Tadeo.2.O.Segredo.do.Rei.Midas.2018.1080p.jpg" group-title="Sem Categoria", AS AVENTURAS DE TADEO 2
+http://webtvcde.com/Filmes/Dublados/As.Aventuras.de.Tadeo.2.O.Segredo.do.Rei.Midas.2018.1080p.mp4
+
+#EXTINF:-1 tvg-logo="http://webtvcde.com/Filmes/Dublados/Thor.2011.jpg" group-title="Sem Categoria", THOR
+http://webtvcde.com/Filmes/Dublados/Thor.2011.mp4
+
+#EXTINF:-1 tvg-logo="http://webtvcde.com/Filmes/Dublados/Thor.O.Mundo.Sombrio.2013.jpg" group-title="Sem Categoria", THOR MUNDO SOMBRIO
+http://webtvcde.com/Filmes/Dublados/Thor.O.Mundo.Sombrio.2013.mp4
+
+#EXTINF:-1 tvg-logo="http://webtvcde.com/Filmes/Dublados/Os.Jovens.Titas.em.Acao.Nos.Cinemas.jpg" group-title="Sem Categoria", OS JOVENS TITÃS
+http://webtvcde.com/Filmes/Dublados/Os.Jovens.Titas.em.Acao.Nos.Cinemas.mp4
+
+#EXTINF:-1 tvg-logo="http://webtvcde.com/Filmes/Dublados/Maze.Runner.The.Death.Cure.2017.1080p.jpg" group-title="Sem Categoria", MAZE RUNNER A CURA MORTAL
+http://webtvcde.com/Filmes/Dublados/Maze.Runner.The.Death.Cure.2017.1080p.mp4
+
+#EXTINF:-1 tvg-logo="http://webtvcde.com/Filmes/Classicos/A%20Hora%20do%20Rush%203%20(2007).jpg" group-title="Sem Categoria", A HORA DO RUSH 3
+http://webtvcde.com/Filmes/Classicos/A%20Hora%20do%20Rush%203%20(2007).mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A HORA DO RUSH
+http://webtvcde.com/Filmes/Classicos/A%20Hora%20do%20Rush%20(1998).mp4
+
+#EXTINF:-1 tvg-logo="http://webtvcde.com/Servidor/capas/crs3087.jpg" group-title="Sem Categoria", CARROS 3
+http://webtvcde.com/Servidor/108/crs3087.mp4
+
+#EXTINF:-1 tvg-logo="http://webtvcde.com/Filmes/Classicos/wall-e_2008.jpg" group-title="Sem Categoria", WALL-E
+http://webtvcde.com/Filmes/Classicos/wall-e_2008.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/P46wOxa.jpg" group-title="Nacional", Amor.com (2016) Nacional
+https://ia800605.us.archive.org/3/items/luaAmor/luaAmor.MP4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jOPJNn3.jpg" group-title="1999 para Trás", Caravana da Coragem A Batalha de Endor DUB 1986
+https://onedrive.live.com/download?resid=63316FA6B036EDC3!108&authkey=!AACs0umSohv95xg
+
+#EXTINF:-1 tvg-logo="https://goo.gl/p2RGG2" group-title="Filmes", O Sétimo Filho
+https://goo.gl/TaECLS
+
+#EXTINF:-1 tvg-logo="https://goo.gl/NCjcqR" group-title="Filmes", O Franco-Atirador
+https://goo.gl/pShqo8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/KmY4Bv" group-title="Filmes", Cavalos Selvagens
+https://goo.gl/FzwxZ1
+
+#EXTINF:-1 tvg-logo="https://goo.gl/hU7Rgq" group-title="Filmes", Onde Está Deus
+https://goo.gl/t3ndGQ
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Zoh5re" group-title="Filmes", Keanu: Cadê Meu Gato?!
+https://goo.gl/VoXU3Z
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UJDArrh.jpg" group-title="Filmes", A Profecia 3 O Conflito Final
+https://goo.gl/JfM899
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9mc2ypX.jpg" group-title="Filmes", Tocados pelo Fogo
+https://goo.gl/am3ohU
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/chE4ifA.jpg" group-title="Filmes", O Arquivo de Berlim
+https://goo.gl/Ku2iDS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HVKJLNu.jpg" group-title="Filmes", Caipira
+https://goo.gl/R7SGT9
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YF7Ei7V.jpg" group-title="Filmes", Beethoven e o Tesouro Secreto
+https://goo.gl/AWBJuB
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FDZ0Ton.jpg" group-title="Filmes", Bad Ass 3
+https://goo.gl/N2mUrh
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vl617yb.jpg" group-title="Filmes", O Destino de Júpiter
+https://goo.gl/Q7nRNm
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/P0HyevW.jpg" group-title="Filmes", O Último Boy Scout
+https://goo.gl/k1rzWu
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4reFirP.jpg" group-title="Filmes", Mapas para as Estrelas
+https://goo.gl/V4DKHw
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Cj7DvPV.jpg" group-title="Filmes", Prazeres Mortais
+https://goo.gl/8eGdM7
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZcbjATh.jpg" group-title="Filmes", Scooby
+https://goo.gl/4o6J6g
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sdZRdVB.jpg" group-title="Filmes", Uma Dupla Genial
+https://goo.gl/h9fN9w
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sWF00Wm.jpg" group-title="Filmes", Esqueceram de Mim
+https://goo.gl/pSMuwo
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hjxVRdF.jpg" group-title="Filmes", Beasts of No Nation
+https://goo.gl/A66rF7
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/e2VN9qL.jpg" group-title="Filmes", Na Toca do Tigre
+https://goo.gl/H6Gnfc
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/P3GPY1C.jpg" group-title="Filmes", Não Tenho Troco
+https://goo.gl/y9X4Vt
+
+#EXTINF:-1 tvg-logo="https://goo.gl/JW2wuS" group-title="Filmes", O Clã
+https://goo.gl/zrCf8K
+
+#EXTINF:-1 tvg-logo="https://goo.gl/eNyNrf" group-title="Filmes", Pânico na Escola
+https://goo.gl/1anAWX
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/R8grGU6.jpg" group-title="Filmes", A Pequena Sereia
+https://goo.gl/WRZ1Kf
+
+#EXTINF:-1 tvg-logo="https://goo.gl/VJUoZk" group-title="Filmes", U.S. Marshals Os Federais 1998
+https://goo.gl/NRHnYo
