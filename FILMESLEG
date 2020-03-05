@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+#EXTINF:-1 tvg-logo="" group-title="FILMES" ,[COLOR orange]MP4[/COLOR] | [COLOR salmon]NOVOS[/COLOR] | [COLOR gold] (2019)[/COLOR]
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="EPJ" group-title="", ALADIN (2019)
+https://fgig.ir/movie/2019/Aladdin-2019_480.mp4
+#EXTINF:-1 tvg-logo="EPJ" group-title="", AMERICAN FACTORY (2019)
+https://fgig.ir/movie/2019/American.Factory.480.mp4
+#EXTINF:-1 tvg-logo="EPJ" group-title="", JOHN WICK 3
+https://fgig.ir/movie/2019/John.Wick.Chapter3.Parabellum.2019.480p.mp4
+#EXTINF:-1 tvg-logo="EPJ" group-title="", INVADER ZIM 
+https://fgig.ir/movie/2019/Invader.ZIM.Enter.the.Florpus_480.mp4
+#EXTINF:-1 tvg-logo="EPJ" group-title="", Godzilla King of MONSTERS
+https://fgig.ir/movie/2019/Godzilla.King.of.the.Monsters_480.mp4
+#EXTINF:-1 tvg-logo="EPJ" group-title="", FREDI
+https://fgig.ir/movie/2019/F.R.E.D.I._480.mp4
+#EXTINF:-1 tvg-logo="EPJ" group-title="", EXTREMELY Wicked-Shockingly-Evil-and-Vile
+https://fgig.ir/movie/2019/Extremely-Wicked-Shockingly-Evil-and-Vile_480.mp4
+#EXTINF:-1 tvg-logo="EPJ" group-title="", Captive-State-2019_480
+https://fgig.ir/movie/2019/Captive-State-2019_480.mp4
+#EXTINF:-1 tvg-logo="EPJ" group-title="", Burn
+https://fgig.ir/movie/2019/Burn.480.mp4
+#EXTINF:-1 tvg-logo="EPJ" group-title="", Assimilate
+https://fgig.ir/movie/2019/Assimilate.2019.480.mp4
+#EXTINF:-1 tvg-logo="EPJ" group-title="", Alit battle angel
+https://fgig.ir/movie/2019/Alit.Battle.Angel.480.mp4
+#EXTINF:-1 tvg-logo="EPJ" group-title="", I Am Mother
+https://fgig.ir/movie/2019/I.Am.Mother.2019.480p.WEB-DL.Farsi.Dubbed.mkv
+#EXTINF:-1 tvg-logo="EPJ" group-title="", Missing
+https://fgig.ir/movie/2019/Missing.Link2019.480.mp4
+#EXTINF:-1 tvg-logo="EPJ" group-title="", The-Seventh-Seal-480
+https://fgig.ir/movie/2019/The-Seventh-Seal-480.mp4
+#EXTINF:-1 tvg-logo="EPJ" group-title="", Manou-the-Swift-2019_480
+https://fgig.ir/movie/2019/Manou-the-Swift-2019_480.mp4
