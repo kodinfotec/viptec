@@ -24,5 +24,12 @@
 <fanart>https://i.imgur.com/s25oMKq.png</fanart>
 <info>[B]AS MELHORES SÉRIES[/B]</info>
 </channel>
-
+  
+<channel>
+<name>[B][COLOR lime]>>>[/COLOR] | [COLOR orange]BBB[/COLOR] | [COLOR salmon]AO VIVO[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/RJpL2TS.png</thumbnail>
+<externallink>https://gitlab.com/infosidneivip3/infotecvip/-/raw/master/jms/bbb20</externallink>
+<fanart></fanart>
+<info>BBB 2020 AO VIVO</info>
+</channel>  
 </channels>
