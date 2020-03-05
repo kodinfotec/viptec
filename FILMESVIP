@@ -24,4 +24,12 @@
 <fanart></fanart>
 <info></info>  
 </channel>
+  
+<channel>
+<name>FILMES LEGENDADOS</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/FILMESLEG</externallink>
+<fanart></fanart>
+<info></info>  
+</channel>
 </channels>
