@@ -27,9 +27,9 @@
   
 <channels>
 <channel>
-<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]BBB[/COLOR] | [COLOR salmon]AO VIVO[/COLOR]</name>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]NOVO TESTE[/COLOR] | [COLOR salmon]OFF[/COLOR]</name>
 <thumbnail>https://i.imgur.com/RJpL2TS.png</thumbnail>
-<externallink>https://gitlab.com/infosidneivip3/infotecvip/-/raw/master/jms/bbb20</externallink>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/teste</externallink>
 <fanart></fanart>
 <info>BBB 2020 AO VIVO</info>
 </channel>
