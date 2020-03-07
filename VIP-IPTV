@@ -23,7 +23,8 @@ https://cdn4.canais.ink/hls1/tlc.m3u8?expires=1582751041&token=7cf70d642302553c0
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",Telecine Action HD
 https://cdn4.canais.ink/hls1/telecineaction.m3u8?expires=1583426927&token=f612c9a6380f317c214de1ae37ec05ab
-
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="" ,[B][COLOR orange]===== BRAZIL 1 =====[/B][/COLOR]
+http://master1.ipfox.onl
 #EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   A&E
 plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8156
 #EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   A&E ²
