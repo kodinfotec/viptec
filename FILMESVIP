@@ -32,4 +32,12 @@
 <fanart></fanart>
 <info></info>  
 </channel>
+
+<channel>
+<name>FILMES em teste</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/filmes</externallink>
+<fanart></fanart>
+<info></info>  
+</channel>
 </channels>
