@@ -23,3 +23,388 @@ https://cdn4.canais.ink/hls1/tlc.m3u8?expires=1582751041&token=7cf70d642302553c0
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",Telecine Action HD
 https://cdn4.canais.ink/hls1/telecineaction.m3u8?expires=1583426927&token=f612c9a6380f317c214de1ae37ec05ab
+
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   A&E
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8156
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   A&E ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12719
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   AMC
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8155
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   AMC ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12717
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8154
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   ARTE 1
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8153
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   AXN
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8151
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   AXN ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12721
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   BAND
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8150
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   BAND SP ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12882
+#EXTINF:-1 group-title="NOTÍCIAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   BAND NEWS
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8149
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   BAND SPORTS
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8147
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   BAND SPORTS ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51958
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   BAND SPORTS H265 ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12725
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   BIS
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8146
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   BIS ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51989
+#EXTINF:-1 group-title="RELIGIOSOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   BOA VONTADE TV ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51988
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   BOOMERANG
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8145
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   BABY TV
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8237
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   BABY TV ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51991
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   CANAL BRASIL
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8143
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   CANAL BRASIL ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51980
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   CANAL SONY
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8142
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8140
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   COMBATE
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8138
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   COMBATE ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51977
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   CURTA!
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8136
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   CINEMAX
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8139
+#EXTINF:-1 group-title="NOTÍCIAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   CBN RADIO ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/47677
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8137
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   COMEDY CENTRAL ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51981
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   DISNEY XD
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8123
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   DISNEY JUNIOR ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12744
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8124
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8134
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   DISCOVERY CHANNEL HD ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12741
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   DISCOVERY CIVILIZATION
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8133
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   DISCOVERY HOME & HEALTH
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8132
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   DISCOVERY HOME & HEALTH ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51954
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8131
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   DISCOVERY KIDS ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51953
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8130
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8127
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   DISCOVERY THEATER
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8128
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8125
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   DISCOVERY WORLD
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8126
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   E!
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8120
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   ESPN
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8119
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   ESPN BRASIL
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8117
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   ESPN EXTRA
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8116
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   FUTURA
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8212
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   FISH TV
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8108
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   FISH TV ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51975
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   FX
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8097
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR] FX ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51973
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   FOOD NETWORK
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8106
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   FOX
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8105
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   FOX LIFE
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8104
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   FOX LIFE ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51974
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   FOX PREMIUM 1
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8103
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   FOX PREMIUM 2
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/15076
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   FOX SPORTS
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8101
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   FOX SPORTS SD ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/75866
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8100
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   FOX SPORTS  HD h265 ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/13052
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   FOX SPORTS 2 ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/13050
+#EXTINF:-1 group-title="CANAIS GLOBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO BRASILIA
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8096
+#EXTINF:-1 group-title="CANAIS GLOBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO EPTV CAMPINAS
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8095
+#EXTINF:-1 group-title="CANAIS GLOBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO EPTV RIBEIRÃO PRETO
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8092
+#EXTINF:-1 group-title="CANAIS GLOBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO MINAS
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8091
+#EXTINF:-1 group-title="NOTÍCIAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO NEWS
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8090
+#EXTINF:-1 group-title="NOTÍCIAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO NEWS HD²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/13045
+#EXTINF:-1 group-title="CANAIS GLOBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO NORDESTE
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8208
+#EXTINF:-1 group-title="CANAIS GLOBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO RJ
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8085
+#EXTINF:-1 group-title="CANAIS FULL HD",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO RJ ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/13032
+#EXTINF:-1 group-title="CANAIS GLOBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO TV BAHIA
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8079
+#EXTINF:-1 group-title="CANAIS GLOBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO TV ANHANGUERA
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8081
+#EXTINF:-1 group-title="CANAIS GLOBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO TV TEM SOROCABA
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8074
+#EXTINF:-1 group-title="CANAIS GLOBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO SP
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8082
+#EXTINF:-1 group-title="CANAIS GLOBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO HD ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/13030
+#EXTINF:-1 group-title="CANAIS GLOBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO TV TEM S. J. DO RIO PRETO
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8075
+#EXTINF:-1 group-title="CANAIS GLOBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO RBS TV PORTO ALEGRE
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8087
+#EXTINF:-1 group-title="CANAIS GLOBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO NSC TV FLORIANOPOLIS
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8089
+#EXTINF:-1 group-title="CANAIS GLOBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBO RPC CURITIBA
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8084
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOOB
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8073
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOOB ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51944
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOOBINHO
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8070
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GNT
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8069
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GNT ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51952
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   GLOBOSAT
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8057
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   H2
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8068
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   H2 ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/13010
+#EXTINF:-1 group-title="REDE HBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   HBO
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8067
+#EXTINF:-1 group-title="REDE HBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   HBO  ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/19039
+#EXTINF:-1 group-title="REDE HBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   HBO 2
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8066
+#EXTINF:-1 group-title="REDE HBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   HBO 2 ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51951
+#EXTINF:-1 group-title="REDE HBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   HBO 2 h265 ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12874
+#EXTINF:-1 group-title="REDE HBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   HBO FAMILY
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8065
+#EXTINF:-1 group-title="REDE HBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   HBO PLUS
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8064
+#EXTINF:-1 group-title="REDE HBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   HBO PLUS ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51950
+#EXTINF:-1 group-title="REDE HBO",[B][COLOR orange][B]ZEUS[/B][/COLOR]   HBO SIGNATURE
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8062
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   HISTORY
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8061
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   HISTORY ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51983
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   HISTORY HD ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/13008
+#EXTINF:-1 group-title="RELIGIOSOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   IDEAL TV ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/4656
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR] LIFETIME
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8058
+#EXTINF:-1 group-title="RELIGIOSOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   IMPD TV
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/4655
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8059
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   INVESTIGATION DISCOVERY HD²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/13005
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   MAX
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8055
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   MAX ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51976
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   MAX HD  ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/13001
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   MAX PRIME
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8054
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   MAX UP
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8052
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   MEGAPIX
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8051
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   MTV
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8050
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   MTV LIVE
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/14089
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   MULTISHOW
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8049
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   MUSIC BOX BRASIL
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8048
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   NAT GEO
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8046
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   NATGEO KIDS
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8188
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   NAT GEO WILD
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8044
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   NICK JR
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8042
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   NICKELODEON
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8040
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   NHK WORLD ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12982
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   OFF
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8038
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8037
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PARAMOUNT CHANNEL ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51949
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PLAY TV ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51972
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PLAYKIDS SD
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/15137
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PRIME BOX BRASIL
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8027
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PRIME BOX ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51960
+#EXTINF:-1 group-title="PREMIERE CLUBES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PREMIERE CLUBES
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8029
+#EXTINF:-1 group-title="PREMIERE CLUBES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PREMIERE CLUBES ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12854
+#EXTINF:-1 group-title="PREMIERE CLUBES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PREMIERE 2
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8184
+#EXTINF:-1 group-title="PREMIERE CLUBES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PREMIERE 3
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8183
+#EXTINF:-1 group-title="PREMIERE CLUBES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PREMIERE 3 HD ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12852
+#EXTINF:-1 group-title="PREMIERE CLUBES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PREMIERE 4
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8182
+#EXTINF:-1 group-title="PREMIERE CLUBES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PREMIERE 4 HD²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12851
+#EXTINF:-1 group-title="PREMIERE CLUBES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PREMIERE 5
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8181
+#EXTINF:-1 group-title="PREMIERE CLUBES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PREMIERE 6
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8180
+#EXTINF:-1 group-title="PREMIERE CLUBES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   PREMIERE 7
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8031
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   RECORD
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8025
+#EXTINF:-1 group-title="NOTÍCIAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   RECORD NEWS
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8023
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   RECORD SP
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8021
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   RECORD HD ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12959
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   RECORDTV MG SD
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/15140
+#EXTINF:-1 group-title="RELIGIOSOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   REDE GOSPEL ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51945
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   REDE TV
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8018
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   REDE VIDA
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8017
+#EXTINF:-1 group-title="RELIGIOSOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   REDE SUPER
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/3131
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   SBT
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8016
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   SBT h265 ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12954
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   SBT SP ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51971
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   SBT SP INTERIOR
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8015
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   SPACE
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8013
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   SPORTV
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8012
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   SPORTV 2
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8011
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   SPORTV 2 ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51970
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   SPORTV 3
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8010
+#EXTINF:-1 group-title="ESPORTES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   SPORTV 3 HD ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12811
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8009
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   STUDIO UNIVERSAL ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51969
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   SYFY
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8014
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   TBS
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8006
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   TCM
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8004
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   TCM ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51965
+#EXTINF:-1 group-title="REDE TELECINE",[B][COLOR orange][B]ZEUS[/B][/COLOR]   TELECINE ACTION
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8003
+#EXTINF:-1 group-title="REDE TELECINE",[B][COLOR orange][B]ZEUS[/B][/COLOR]   TELECINE ACTION ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51964
+#EXTINF:-1 group-title="REDE TELECINE",[B][COLOR orange][B]ZEUS[/B][/COLOR]   TELECINE CULT
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8002
+#EXTINF:-1 group-title="REDE TELECINE",[B][COLOR orange][B]ZEUS[/B][/COLOR]   TELECINE FUN
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8001
+#EXTINF:-1 group-title="REDE TELECINE",[B][COLOR orange][B]ZEUS[/B][/COLOR]   TELECINE FUN ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/51946
+#EXTINF:-1 group-title="REDE TELECINE",[B][COLOR orange][B]ZEUS[/B][/COLOR]   TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8000
+#EXTINF:-1 group-title="REDE TELECINE",[B][COLOR orange][B]ZEUS[/B][/COLOR]   TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/7999
+#EXTINF:-1 group-title="REDE TELECINE",[B][COLOR orange][B]ZEUS[/B][/COLOR]   TELECINE TOUCH
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/7998
+#EXTINF:-1 group-title="REDE TELECINE",[B][COLOR orange][B]ZEUS[/B][/COLOR] TELECINE TOUCH ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12750
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR] TLC
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/7996
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR] TOONCAST
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/7993
+#EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR] TRUTV
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/7984
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR] TNT
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/7995
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR] TNT SERIES
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/7994
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR] TERRA VIVA
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/7997
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR] TV ESCOLA
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/7988
+#EXTINF:-1 group-title="RELIGIOSOS",[B][COLOR orange][B]ZEUS[/B][/COLOR] TV EVANGELIZAR
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/4665
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR] TV JUSTICA
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/7991
+#EXTINF:-1 group-title="INFANTIL",[B][COLOR orange][B]ZEUS[/B][/COLOR] TV RA-TIM-BUM
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/7986
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR] TV SENADO
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/7992
+#EXTINF:-1 group-title="RELIGIOSOS",[B][COLOR orange][B]ZEUS[/B][/COLOR] TV TERCEIRO ANJO
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/3138
+#EXTINF:-1 group-title="CANAIS ABERTOS",[B][COLOR orange][B]ZEUS[/B][/COLOR] TV CÂMARA
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/7989
+#EXTINF:-1 group-title="RELIGIOSOS",[B][COLOR orange][B]ZEUS[/B][/COLOR] TV APARECIDA
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8162
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR] UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/7982
+#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR] UNIVERSAL CHANNEL HD ²
+plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12858
