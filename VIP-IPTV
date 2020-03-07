@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 #EXTINF:-1,[COLOR lime]>>>[/COLOR] | [COLOR orange]CANAIS[/COLOR] | [COLOR gold]IPTV[/COLOR] | [COLOR springgreen]INFOTEC[/COLOR]
+http://master1.ipfox.onl
 07.03.2020 RDC
 
 #EXTM3U
@@ -23,17 +24,16 @@ https://cdn4.canais.ink/hls1/tlc.m3u8?expires=1582751041&token=7cf70d642302553c0
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",Telecine Action HD
 https://cdn4.canais.ink/hls1/telecineaction.m3u8?expires=1583426927&token=f612c9a6380f317c214de1ae37ec05ab
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="" ,[B][COLOR orange]===== BRAZIL 1 =====[/B][/COLOR]
-http://master1.ipfox.onl
-#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   A&E
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", A&E
 plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8156
-#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   A&E ²
+#EXTINF:-1 group-title="FILMES E SÉRIES", A&E ²
 plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12719
-#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   AMC
+#EXTINF:-1 group-title="FILMES E SÉRIES", AMC
 plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8155
-#EXTINF:-1 group-title="FILMES E SÉRIES",[B][COLOR orange][B]ZEUS[/B][/COLOR]   AMC ²
+#EXTINF:-1 group-title="FILMES E SÉRIES", AMC ²
 plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/12717
-#EXTINF:-1 group-title="DOCUMENTÁRIOS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   ANIMAL PLANET
+#EXTINF:-1 group-title="DOCUMENTÁRIOS", ANIMAL PLANET
 plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8154
 #EXTINF:-1 group-title="VARIEDADES E MUSICAS",[B][COLOR orange][B]ZEUS[/B][/COLOR]   ARTE 1
 plugin://plugin.video.f4mTester/?name=ZEUS&streamtype=TSDOWNLOADER&amp;url=http://clienteworld.com:8080/marilda/marilda/8153
