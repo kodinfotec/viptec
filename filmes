@@ -4,14 +4,14 @@
 </item>
 
 <item>
-<title>[B][COLOR white]#HORROR[/COLOR][/B]</title>
-<link>$doregex[BP1]HROR.mp4$doregex[BP2]</link>
+<title>[B][COLOR white](DES)ENCONTRO PERFEITO[/COLOR][/B]</title>
+<link>$doregex[BP1]DESNCTROPRFTO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Horror.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/Horror.jpg</fanart>
-<info>Inspirado em fatos reais, um grupo de garotas de 12 anos de idade enfrenta uma noite de horror quando um vício compulsivo por um jogo online de uma rede social, transforma um momento de cyber-bullying em uma noite de insanidade.</info>
+<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Desencontro%20Perfeito.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Filmes/Desencontro%20Perfeito.jpg</fanart>
+<info>Nancy (Lake Bell) tem 34 anos de idade e leva uma vida fracassada no amor. Quando ela viaja a Londres para o aniversário de casamento de seus pais, conhece Jack (Simon Pegg), que confunde Nancy com a garota que ele está esperando para um encontro às cegas. Sem desfazer a confusão, Nancy assume a identidade da garota que Jack esperava, e passa uma ótima noite ao lado do pretendente. Mas uma hora a mentira vai ser descoberta...</info>
 <date>2015</date>
 </item>
