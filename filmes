@@ -1,0 +1,17 @@
+<item>
+<title>[B][COLOR gold]l[/COLOR] [COLOR white]PRÓXIMA PAGINA: [COLOR gold]2[/COLOR][/COLOR][/B]</title>
+<link>here</link>
+</item>
+
+<item>
+<title>[B][COLOR white]#HORROR[/COLOR][/B]</title>
+<link>$doregex[BP1]HROR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Horror.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Filmes/Horror.jpg</fanart>
+<info>Inspirado em fatos reais, um grupo de garotas de 12 anos de idade enfrenta uma noite de horror quando um vício compulsivo por um jogo online de uma rede social, transforma um momento de cyber-bullying em uma noite de insanidade.</info>
+<date>2015</date>
+</item>
