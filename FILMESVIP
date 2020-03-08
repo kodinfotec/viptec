@@ -34,9 +34,9 @@
 </channel>
 
 <channel>
-<name>FILMES em teste</name>
+<name>FILMES RDC em teste</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/filmes</externallink>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/FILMERDC</externallink>
 <fanart></fanart>
 <info></info>  
 </channel>
