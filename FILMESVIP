@@ -40,4 +40,12 @@
 <fanart></fanart>
 <info></info>  
 </channel>
+  
+<channel>
+<name>FILMES RDC em teste agora</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/rdcteste</externallink>
+<fanart></fanart>
+<info></info>  
+</channel>
 </channels>
