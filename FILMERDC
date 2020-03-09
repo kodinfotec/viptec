@@ -3,3 +3,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES 2019",Jovens Mulheres Dublado Online
 https://www83.o0-1.com/token=wFPETcmWLGMvzKjM6dRwug/1583675205/138.99.0.0/79/e/f9/d2cc1c0a1bf10b696cb97e54a251df9e-480p.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES 2019",Amazon Prime
+https://1s3.lvlt.dash.row.aiv-cdn.net/d/2$goMoAfyMpkld_C3quiZJ0ONuxUs~/prod/ww_gru/6955/460a/892f/4a4a-9e82-5beb2aaf65e4/24e16a9f-b5e7-4a4b-9962-39e113b6f835_video_15.mp4
+
