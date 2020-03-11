@@ -16,9 +16,11 @@ https://nimbleserver.canais.ink/a/hls1/tnt.m3u8?expires=1583945791&token=c1d10ac
 https://nimbleserver.canais.ink/a/hls1/telecineaction.m3u8?expires=1583945485&token=6a013e28ea1cf700436af0d9d51e31cd
 
 #####################################################
-#EXTINF:-1,[COLOR orange]INFOTEC[/COLOR] | [COLOR salmon]IPTV[/COLOR] | [COLOR gold]RDC[/COLOR] | [COLOR springgreen]ON[/COLOR]
-11.03.2020 MULTI CANAIS
 
+
+#EXTINF:-1,[COLOR orange]INFOTEC[/COLOR] | [COLOR salmon]IPTV[/COLOR] | [COLOR gold]MULTI[/COLOR] | [COLOR springgreen]ON[/COLOR]
+11.03.2020 MULTI CANAIS
+#EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",MAX PRIME SD
 https://live.multicanais.com/live/maxprimesd/video.m3u8?md5=4dQM8A3NGle647rfFkX7VA&expires=1583922975
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",UNIVERSAL SD
@@ -26,4 +28,4 @@ https://live.multicanais.com/mylive/universalsd/video.m3u8?md5=xOxVtNUxIo2_OsifE
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",UNIVERSAL FDH
 https://live.multicanais.com/mylive/foxpremiumsd/video.m3u8?md5=URz0zGqMshsuvrZXAwPsMg&expires=1583923304
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",MEGA PIX SD
-https://live.multicanais.com/mylive/megapixsd/video.m3u8?md5=IWw6pujLcfvwzwweo-JVvw&expires=1583923413
+https://live.multicanais.com/mylive/megapixsd/video.m3u8?md5=tlVC1f3bRmKVo4H4xlW4hA&expires=1583956583
