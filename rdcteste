@@ -21,7 +21,7 @@ https://nimbleserver.canais.ink/a/hls1/telecineaction.m3u8?expires=1583945485&to
 #EXTINF:-1,[COLOR orange]INFOTEC[/COLOR] | [COLOR salmon]IPTV[/COLOR] | [COLOR gold]MULTI[/COLOR] | [COLOR springgreen]ON[/COLOR]
 11.03.2020 MULTI CANAIS
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",MAX PRIME HD
+#EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",HBO HD
 https://live.multicanais.com/live/maxprimehd/video.m3u8?md5=EaLaqm7BuS4WKHMe35ZiPw&expires=1584047349
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",UNIVERSAL SD
 https://live.multicanais.com/mylive/universalsd/video.m3u8?md5=xOxVtNUxIo2_OsifEYN_gA&expires=1583923189
