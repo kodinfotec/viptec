@@ -1,30 +1,39 @@
-<channels>
-</channels>
-<channel>
-<name>[B][COLOR white]1ª TEMPORADA[/COLOR][/B]</name>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/12%20Monkeys/thumb.jpg</thumbnail>
-<externallink>https://raw.github.com/skyrisk/brazucaplay/master/outros/series/12%20Monkeys/1</externallink>
-<info>27 anos depois que um vírus aniquila boa parte da humanidade, cientistas enviam um homem de volta para o ano de 2015 para dar fim à praga. A única pista de Cole é uma virologista que conhece a perigosa fonte da epidemia.</info>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/12%20Monkeys/fanart.jpg</fanart>
-</channel>
-<channel>
-<name>[B][COLOR white]2ª TEMPORADA[/COLOR][/B]</name>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/12%20Monkeys/thumb.jpg</thumbnail>
-<externallink>https://raw.github.com/skyrisk/brazucaplay/master/outros/series/12%20Monkeys/2</externallink>
-<info>Cole e Ramsey reparam a amizade enquanto fogem; Railly e Jones navegam por um futuro incerto em 2043.</info>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/12%20Monkeys/fanart.jpg</fanart>
-</channel>
-<channel>
-<name>[B][COLOR white]3ª TEMPORADA[/COLOR][/B]</name>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/12%20Monkeys/thumb.jpg</thumbnail>
-<externallink>https://raw.github.com/skyrisk/brazucaplay/master/outros/series/12%20Monkeys/3</externallink>
-<info>Cole incansavelmente procura por Titan no apocalíptico 2163, na esperança de encontrar Railly, mesmo contra a vontade de Jones que manda Hannah como vigia no que seria uma última busca. Enquanto isso, Railly aprende sobre o futuro da testemunha e tentar tomar uma decisão que parece impossível. Cole consegue encontrar Titan, mas acaba sendo impedido por um viajante do tempo inesperado.</info>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/12%20Monkeys/fanart.jpg</fanart>
-</channel>
-<channel>
-<name>[B][COLOR white]4ª TEMPORADA[/COLOR][/B]</name>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/12%20Monkeys/thumb.jpg</thumbnail>
-<externallink>https://raw.github.com/skyrisk/brazucaplay/master/outros/series/12%20Monkeys/4</externallink>
-<info>Nos tempos medievais,um grupo de primários é queimado vivo pelos guerreiros. O único primário sobrevivente,é uma jovem garota, a quem é confiada um artefato em forma de ouroboros que pronuncia o nome de Cole. Em 2046, Railly revive uma Jones a beira da morte. Titã se fragmenta e ataca a instalação temporal. Deacon retarda as forças de Titã enquanto o grupo de Jones escapa, fragmentando toda a instalação temporal no espaço; no entanto, Deacon é deixado para trás e Whitley e Lasky são mortos. No processo, Jones é exposta a uma dose maciça de radiação. </info>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/12%20Monkeys/fanart.jpg</fanart>
-</channel>
+<?xml version="1.0" encoding="UTF>8"?>
+
+#EXTM3U
+#EXTINF:5455,Absolutely.Fabulous.The.Movie.2016
+http://9092.ultratv100.com:9090/movies/Batch211/Absolutely.Fabulous.The.Movie.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:5120,Addicted.To.Fresno.2015.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/Batch211/Addicted.To.Fresno.2015.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:5504,AmeriGeddon.2016.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/Batch207/AmeriGeddon.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:5878,Being.Charlie.2015.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/Batch211/Being.Charlie.2015.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:7483,Ben-Hur.2016.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/Batch211/Ben-Hur.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:5292,Blood.Father.2016.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/Batch207/Blood.Father.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:8025,Ghostbusters.2016.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/Batch206/Ghostbusters.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:5014,Howard.Lovecraft.&.The.Frozen.Kingdom.2016.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/BATCH217/Howard.Lovecraft.%26.The.Frozen.Kingdom.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:7184,Independence.Day.Resurgence.2016.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/Batch207/Independence.Day.Resurgence.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:7089,Jack.Reacher.Never.Go.Back.2016.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/BATCH217/Jack.Reacher.Never.Go.Back.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:4550,Justice.League.Dark.2017.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/BATCH217/Justice.League.Dark.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:5144,Laid.In.America.2016.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/Batch205/Laid.In.America.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:10176,The.Da.Vinci.Code.2006.720p.EXTENDED.x264.mkv
+http://9092.ultratv100.com:9090/movies/Batch207/The.Da.Vinci.Code.2006.720p.EXTENDED.x264.mkv
+#EXTINF:6655,The.Girl.With.All.The.Gifts.2016.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/BATCH217/The.Girl.With.All.The.Gifts.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:5117,The.Hollow.2015.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/Batch207/The.Hollow.2015.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:7628,The.Infiltrator.2016.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/Batch206/The.Infiltrator.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:5246,The.Mind's.Eye.2015.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/Batch206/The.Mind%27s.Eye.2015.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:6512,We.Are.Many.2014.720p.BluRay.x264-[YTS.AG].mp4
+http://9092.ultratv100.com:9090/movies/Batch207/We.Are.Many.2014.720p.BluRay.x264-%5BYTS.AG%5D.mp4
