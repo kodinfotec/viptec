@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<channels>
+<channel>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR salmon]OPÇÃO 1[/COLOR]</name>
+<thumbnail>https://i.imgur.com/G3UhMIC.jpg</thumbnail>
+<externallink>C:\IPTV-JMS\iptv\RDCIPTV.xml</externallink>
+<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
+<info>SERVIDOR DE CANAIS OPÇÃO 1</info>
+</channel>
+
+<channel>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR salmon]OPÇÃO 2[/COLOR]</name>
+<thumbnail>https://i.imgur.com/G3UhMIC.jpg</thumbnail>
+<externallink>C:\IPTV-JMS\iptv\CANAISIPTV02.XML</externallink>
+<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
+<info>SERVIDOR DE CANAIS OPÇÃO 2</info>
+</channel>
+
+<channel>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR salmon]OPÇÃO 3[/COLOR]</name>
+<thumbnail>https://i.imgur.com/G3UhMIC.jpg</thumbnail>
+<externallink>C:\IPTV-JMS\iptv\CANAISIPTV03.XML</externallink>
+<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
+<info>SERVIDOR DE CANAIS OPÇÃO 3</info>
+</channel>
+
+<channel>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR salmon]OPÇÃO 4[/COLOR]</name>
+<thumbnail>https://i.imgur.com/G3UhMIC.jpg</thumbnail>
+<externallink>C:\IPTV-JMS\iptv\CANAISIPTV04.XML</externallink>
+<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
+<info>SERVIDOR DE CANAIS OPÇÃO 4</info>
+</channel>
+
+<channel>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR salmon]OPÇÃO 5[/COLOR]</name>
+<thumbnail>https://i.imgur.com/G3UhMIC.jpg</thumbnail>
+<externallink>C:\IPTV-JMS\iptv\CANAISIPTV05.XML</externallink>
+<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
+<info>SERVIDOR DE CANAIS OPÇÃO 5</info>
+</channel>
+</channels>
