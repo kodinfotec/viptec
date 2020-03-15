@@ -4,7 +4,7 @@
 <channel>
 <name>[COLOR lime]>>>[/COLOR] | [COLOR orange]CANAIS[/COLOR] | IPTV </name>
 <thumbnail>https://i.imgur.com/7YTOfAP.png</thumbnail>
-<externallink>C:\IPTV-JMS\iptv\SERVIDORESIPTV.xml</externallink>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/SERVIDORES</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
 <info>ESTAMOS EM DESENVOLVIMENTO</info>
 </channel>
