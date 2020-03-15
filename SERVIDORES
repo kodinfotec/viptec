@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR salmon]OPÇÃO 1[/COLOR]</name>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR darkseagreen]OPÇÃO[/COLOR] | 1</name>
 <thumbnail>https://i.imgur.com/G3UhMIC.jpg</thumbnail>
 <externallink>C:\IPTV-JMS\iptv\RDCIPTV.xml</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
@@ -10,7 +10,7 @@
 </channel>
 
 <channel>
-<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR salmon]OPÇÃO 2[/COLOR]</name>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR darkseagreen]OPÇÃO[/COLOR] | 2</name>
 <thumbnail>https://i.imgur.com/G3UhMIC.jpg</thumbnail>
 <externallink>C:\IPTV-JMS\iptv\CANAISIPTV02.XML</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
@@ -18,7 +18,7 @@
 </channel>
 
 <channel>
-<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR salmon]OPÇÃO 3[/COLOR]</name>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR darkseagreen]OPÇÃO[/COLOR] | 3</name>
 <thumbnail>https://i.imgur.com/G3UhMIC.jpg</thumbnail>
 <externallink>C:\IPTV-JMS\iptv\CANAISIPTV03.XML</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
@@ -26,7 +26,7 @@
 </channel>
 
 <channel>
-<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR salmon]OPÇÃO 4[/COLOR]</name>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR darkseagreen]OPÇÃO[/COLOR] | 4</name>
 <thumbnail>https://i.imgur.com/G3UhMIC.jpg</thumbnail>
 <externallink>C:\IPTV-JMS\iptv\CANAISIPTV04.XML</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
@@ -34,7 +34,7 @@
 </channel>
 
 <channel>
-<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR salmon]OPÇÃO 5[/COLOR]</name>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR darkseagreen]OPÇÃO[/COLOR] | 5</name>
 <thumbnail>https://i.imgur.com/G3UhMIC.jpg</thumbnail>
 <externallink>C:\IPTV-JMS\iptv\CANAISIPTV05.XML</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
