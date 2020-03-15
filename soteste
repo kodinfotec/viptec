@@ -2,15 +2,15 @@
 12.03.2020
 <channels>
 <channel>
-<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]CANAIS[/COLOR] | IPTV </name>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]CANAIS[/COLOR] | IPTV | Manutenção</name>
 <thumbnail>https://i.imgur.com/7YTOfAP.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/SERVIDORES</externallink>
+<externallink>C:\IPTV-JMS\iptv\SERVIDORESIPTV.xml</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
 <info>ESTAMOS EM DESENVOLVIMENTO</info>
 </channel>
 
 <channel>
-<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]FILMES[/COLOR] | </name>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]FILMES[/COLOR] | [COLOR lime]ONLINE[/COLOR] </name>
 <thumbnail>https://i.imgur.com/7YTOfAP.png</thumbnail>
 <externallink>C:\IPTV-JMS\filmes\FILMES.XML</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
@@ -18,7 +18,7 @@
 </channel>
 
 <channel>
-<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SÉRIES[/COLOR] | </name>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SÉRIES[/COLOR] | Manutenção</name>
 <thumbnail>https://i.imgur.com/7YTOfAP.png</thumbnail>
 <externallink>http://teste</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
