@@ -2,25 +2,25 @@
 12.03.2020
 <channels>
 <channel>
-<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]CANAIS[/COLOR] | </name>
-<thumbnail></thumbnail>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]CANAIS[/COLOR] | IPTV </name>
+<thumbnail>https://i.imgur.com/7YTOfAP.png</thumbnail>
 <externallink>C:\IPTV-JMS\iptv\SERVIDORESIPTV.xml</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
 <info>ESTAMOS EM DESENVOLVIMENTO</info>
 </channel>
 
 <channel>
-<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]FILMES[/COLOR]</name>
-<thumbnail></thumbnail>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]FILMES[/COLOR] | </name>
+<thumbnail>https://i.imgur.com/7YTOfAP.png</thumbnail>
 <externallink>C:\IPTV-JMS\filmes\FILMES.XML</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
 <info>OS MELHORES FILMES</info>
 </channel>
 
 <channel>
-<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SÉRIES[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
+<name>[COLOR lime]>>>[/COLOR] | [COLOR orange]SÉRIES[/COLOR] | </name>
+<thumbnail>https://i.imgur.com/7YTOfAP.png</thumbnail>
+<externallink>http://teste</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
 <info>AS MELHORES SÉRIES</info>
 </channel>
