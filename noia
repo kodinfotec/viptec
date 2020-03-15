@@ -1,39 +1,20 @@
-<?xml version="1.0" encoding="UTF>8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
-#EXTM3U
-#EXTINF:5455,Absolutely.Fabulous.The.Movie.2016
-http://9092.ultratv100.com:9090/movies/Batch211/Absolutely.Fabulous.The.Movie.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:5120,Addicted.To.Fresno.2015.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/Batch211/Addicted.To.Fresno.2015.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:5504,AmeriGeddon.2016.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/Batch207/AmeriGeddon.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:5878,Being.Charlie.2015.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/Batch211/Being.Charlie.2015.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:7483,Ben-Hur.2016.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/Batch211/Ben-Hur.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:5292,Blood.Father.2016.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/Batch207/Blood.Father.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:8025,Ghostbusters.2016.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/Batch206/Ghostbusters.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:5014,Howard.Lovecraft.&.The.Frozen.Kingdom.2016.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/BATCH217/Howard.Lovecraft.%26.The.Frozen.Kingdom.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:7184,Independence.Day.Resurgence.2016.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/Batch207/Independence.Day.Resurgence.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:7089,Jack.Reacher.Never.Go.Back.2016.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/BATCH217/Jack.Reacher.Never.Go.Back.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:4550,Justice.League.Dark.2017.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/BATCH217/Justice.League.Dark.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:5144,Laid.In.America.2016.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/Batch205/Laid.In.America.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:10176,The.Da.Vinci.Code.2006.720p.EXTENDED.x264.mkv
-http://9092.ultratv100.com:9090/movies/Batch207/The.Da.Vinci.Code.2006.720p.EXTENDED.x264.mkv
-#EXTINF:6655,The.Girl.With.All.The.Gifts.2016.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/BATCH217/The.Girl.With.All.The.Gifts.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:5117,The.Hollow.2015.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/Batch207/The.Hollow.2015.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:7628,The.Infiltrator.2016.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/Batch206/The.Infiltrator.2016.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:5246,The.Mind's.Eye.2015.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/Batch206/The.Mind%27s.Eye.2015.720p.BluRay.x264-%5BYTS.AG%5D.mp4
-#EXTINF:6512,We.Are.Many.2014.720p.BluRay.x264-[YTS.AG].mp4
-http://9092.ultratv100.com:9090/movies/Batch207/We.Are.Many.2014.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+<channels>
+<channel>
+<name>AJUDE ESTE PROJETO</name>
+<thumbnail>https://i.imgur.com/5jkkiDV.png</thumbnail>
+<externallink>http:// vaza da qui</externallink>
+<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
+<info>ESTAMOS EM DESENVOLVIMENTO</info>
+</channel>
+
+<channel>
+<name>[COLOR gold]ENTRE[/COLOR] [COLOR lime]AQUI[/COLOR]</name>
+<thumbnail>https://i.imgur.com/5jkkiDV.png</thumbnail>
+<externallink>C:\IPTV-JMS\vipiptv\categarias</externallink>
+<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
+<info>SEJAM BEM VIDOS</info>
+</channel>
+
+</channels>
