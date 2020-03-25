@@ -3,15 +3,9 @@
 <layoutype>fuckOFF</layoutype>
 
 <item>
-<title>Birds of Prey 2020</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd944978cbc75f9b345920f765b6e66f14f155c0</link>
-<thumbnail>https://image.tmdb.org/t/p/original/odXDkjR5DoumqCrGmTQ2n4So2Yc.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/jiqD14fg7UTZOT6qgvzTmfRYpWI.jpg</fanart>
+<title>VIUVA NEGRA 2020</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oNeF6KJCsSY</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/nfiwuRN59pcw3ETIDTThNOm2vai.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
-<item>
-<title>Spenser Confidential 2020</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21736bf06f13394b6fa895044791d88bad6fc63e</link>
-<thumbnail>https://image.tmdb.org/t/p/original/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/khtwuKgKxaBerWeS3DCsXViDvGm.jpg</fanart>
-</item>
