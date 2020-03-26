@@ -5,7 +5,6 @@
 <item>
   <title>Crime Sem Saída (2019)</title>
   <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1299F0F4B1617AED74DDB79E0C5729AE05476191</link>
-  <link>https://www.themoviedb.org/video/play?key=R4T6daai3aY$$lsname=[COLOR orange]Trailer[/COLOR] - LINK 2</Link>
   <thumbnail>https://image.tmdb.org/t/p/original/7kBgrB7LfMRwobWB27qCmgVOBrj.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/5bUExJx4NLXJSaphRxO5VflaKdG.jpg</fanart>
   <info>Um detetive da polícia de Nova Iorque recebe um complexo desafio no trabalho: ele precisa achar e prender um assassino de policiais que está à solta na cidade. Realizar a prisão do criminoso implicaria em recuperar a honra que ele perdeu durante algumas tarefas mal executadas nos últimos anos. No entanto, quanto mais ele avança na investigação mais ele percebe que os assassinatos se tratam de uma conspiração assombrosa entre criminosos e membros de sua própria categoria.</info>
@@ -14,8 +13,14 @@
 
 <item>
 <title>VIUVA NEGRA 2020</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oNeF6KJCsSY</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kZapfwk1PrQ</link>
 <thumbnail>https://image.tmdb.org/t/p/w1280/nfiwuRN59pcw3ETIDTThNOm2vai.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
+<item>
+<title>Crime Sem Saída (2019) Trailer</title>
+<link>https://www.themoviedb.org/video/play?key=R4T6daai3aY</Link>
+<thumbnail>https://image.tmdb.org/t/p/original/7kBgrB7LfMRwobWB27qCmgVOBrj.jpg</thumbnail>
+<fanart></fanart>
+</item>
