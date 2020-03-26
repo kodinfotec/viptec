@@ -13,15 +13,7 @@
 
 <item>
 <title>VIUVA NEGRA 2020</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kZapfwk1PrQ</link>
+<link>plugin://plugin.video.youtube/play/?video_id=kZapfwk1PrQ</link>
 <thumbnail>https://image.tmdb.org/t/p/w1280/nfiwuRN59pcw3ETIDTThNOm2vai.jpg</thumbnail>
 <fanart></fanart>
 </item>
-
-<item>
-<title>Crime Sem Saída (2019) TRAILER</title>
-<link>plugin://plugin.video.youtube/play/?video_id=R4T6daai3aY</Link>
-<thumbnail>https://image.tmdb.org/t/p/original/7kBgrB7LfMRwobWB27qCmgVOBrj.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
