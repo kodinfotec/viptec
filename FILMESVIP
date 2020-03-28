@@ -26,9 +26,9 @@
 </channel>
 
 <channel>
-<name>FILMES RDC em teste</name>
+<name>FILMES TESTE2</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/FILMERDC</externallink>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/python</externallink>
 <fanart></fanart>
 <info></info>  
 </channel>
