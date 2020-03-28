@@ -1,3 +1,4 @@
+<item>
 <movies>
   <movie id="1">
     <title>And Now for Something Completely Different</title>
@@ -20,3 +21,4 @@
     <released>1983</released>
   </movie>
 </movies>
+</item>
