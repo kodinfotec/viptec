@@ -22,3 +22,6 @@ https://nimbleserver.canais.ink/a/hls1/history.m3u8?expires=1583689274&token=55a
 https://nimblestream2.canais.link/hls1/tnt.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",Telecine Action HD
 https://nimbleserver.canais.ink/a/hls1/telecineaction.m3u8?expires=1583688812&token=5d6d1f0ca8f110abf8561b049a3e8a14
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes",O IRLANDES
+https://s-delivery7.mxdcontent.net/v/ae45ea9b96ce095856e53c7218624952.mp4?s=ky-paE51aZUvDveB3a2JwA&e=1585595906
