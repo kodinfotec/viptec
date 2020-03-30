@@ -6,10 +6,10 @@ http://master1.ipfox.onl
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: NOTICIAS",CNN DIGITAL HD
 https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES SERIES",SPACE HD
 https://nimblestream2.canais.link/hls1/space.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES SERIES",SPACE HD
-https://nimbleserver.canais.ink/a/hls1/space.m3u8?expires=1583688099&token=fec195752e89aaa6be616e47c36a83ce
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES",AMC HD
 https://nimbleserver.canais.ink/a/hls1/amc.m3u8?expires=1583689124&token=c4ca5c70934d095eaa2f0e15b09cbb24
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",Discovery Channel HD
