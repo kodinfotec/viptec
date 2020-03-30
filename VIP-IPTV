@@ -19,6 +19,6 @@ https://nimbleserver.canais.ink/a/hls1/discovery.m3u8?expires=1583076803&token=a
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",THE HISTORY
 https://nimbleserver.canais.ink/a/hls1/history.m3u8?expires=1583689274&token=55a1305539c507e6ef00d8916f1005dc
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES",TNT HD
-https://nimbleserver.canais.ink/a/hls1/tnt.m3u8?expires=1583689393&token=4f3754eb0b756f370ea6cef3f5dae077
+https://nimblestream2.canais.link/hls1/tnt.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",Telecine Action HD
 https://nimbleserver.canais.ink/a/hls1/telecineaction.m3u8?expires=1583688812&token=5d6d1f0ca8f110abf8561b049a3e8a14
