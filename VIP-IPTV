@@ -10,6 +10,9 @@ https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES SERIES",SPACE HD
 https://nimblestream2.canais.link/hls1/space.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES SERIES", Discovery Channel
+https://live.multicanais.com/mylive/discoverysd/video.m3u8?md5=1kqmVzChzkLAwDvVhS3M3g&expires=1585664598
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES",AMC HD
 https://nimbleserver.canais.ink/a/hls1/amc.m3u8?expires=1583689124&token=c4ca5c70934d095eaa2f0e15b09cbb24
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",Discovery Channel HD
