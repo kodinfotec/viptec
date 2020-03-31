@@ -10,10 +10,10 @@ https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES SERIES",SPACE HD
 https://nimblestream2.canais.link/hls1/space.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", https://nimblestream.canais.link/d/RCFServer4/ondemand/HMNFRMGEVSPA.mp4/chunk.m3u8
-
-#EXTINF::-1 tvg-logo="https://br.web.img2.acsta.net/pictures/210/571/21057123_20131112192017072.jpg" group-title"AÇÃO", https://nimblestream.canais.link/e/RCFServer1/ondemand/AMRCDMDDUB.mp4/chunk.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="FILMES", HMNFRMGEVSPA
+https://nimblestream.canais.link/d/RCFServer4/ondemand/HMNFRMGEVSPA.mp4/chunk.m3u8
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/210/571/21057123_20131112192017072.jpg" group-title"AÇÃO", AMRCDMDDUB
+https://nimblestream.canais.link/e/RCFServer1/ondemand/AMRCDMDDUB.mp4/chunk.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES",AMC HD
 https://nimbleserver.canais.ink/a/hls1/amc.m3u8?expires=1583689124&token=c4ca5c70934d095eaa2f0e15b09cbb24
