@@ -7,6 +7,9 @@ http://master1.ipfox.onl
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: NOTICIAS",CNN DIGITAL HD
 https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="FILMES", EM BUSCA DE ZOE
+https://user-content-hot-155.molyusercontentstage.me/hls/xqx2pc3fkbokjiqbtgxcnpan4zv7lvjmllzcn3el5do67zqsqmcq73klgpka/index-v1-a1.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES SERIES",SPACE HD
 https://nimblestream2.canais.link/hls1/space.m3u8
 
