@@ -1,0 +1,59 @@
+<items>
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ÚLTIMOS ADICIONADOS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
+<fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
+<info>LANÇAMENTOS DE 2020 ADICIONADOS RECENTEMENTE.<info>
+<date>04/04/2020</date>
+</item>
+
+<item>
+<title>[B][COLOR white]A CASA[/COLOR][/B]</title>
+<link>$doregex[BP1]ACSA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Casa.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Casa.jpg</fanart>
+<info>Em A Casa, Javier Muñoz (Javier Gutiérrez) é um executivo desempregado é forçado a vender seu apartamento. Quando ele descobrir que ainda tem as chaves, ficará obcecado pela família que agora mora lá e decidirá recuperar a vida que perdeu, a qualquer preço.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]A MARCA DO DEMÔNIO[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDEMO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Marca%20do%20Dem%C3%B4nio.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Marca%20do%20Dem%C3%B4nio.jpg</fanart>
+<info>Duas jovens irmãs abrem um livro antigo que traz ao mundo uma criatura diabólica. Sua única salvação é um padre possuído que luta contra seus próprios demônios.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]A VERDADE EM SEGREDO[/COLOR][/B]</title>
+<link>$doregex[BP1]AVRDEMSGRDO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Verdade%20Em%20Segredo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Verdade%20Em%20Segredo.jpg</fanart>
+<info>A ex-consultora de segurança dos EUA Elizabeth "Libby" Lamm (Sumpter) é ameaçada por associados de seu passado sombrio, sob o comando político de Rachel Burke (Curtis), que tem uma habilidade inabalável para alcançar os seus objetivos. Conspirando com Rachel está Adrian, um chefe de gabinete patriótico e inflexível. Martin (Tavassoli) abriga outro tipo de obsessão com Libby nessa história de traição e arrependimento.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]BAD BOYS PARA SEMPRE[/COLOR][/B]</title>
+<link>$doregex[BP1]BDBYSPRSMPR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Bad%20Boys%20para%20Sempre.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Bad%20Boys%20para%20Sempre.jpg</fanart>
+<info>Marcus Burnett (Martin Lawrence) agora é um inspetor e Mike Lowrey (Will Smith) se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.</info>
+<date>2020</date>
+</item>
+</items>
