@@ -1,10 +1,4 @@
 <items>
-<item>
-<title>[B][COLOR salmon]ARANHA NA TEIA[/COLOR] | [COLOR gold] 2019[/COLOR] | [COLOR springgreen]Legendado[/COLOR][/B]</title>
-<link>https://s1.pandafiles.com:183/d/7m32we6k26kwoyapasf3i6gbnzt3ryidlzkddpjb74afi2zgmuplsomi3i3i7zhh7fijqkjb/video.mp4</link>
-<thumbnail>https://i.imgur.com/iYBPbk5.jpg</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>[B][COLOR white]A CASA[/COLOR][/B]</title>
@@ -17,6 +11,26 @@
 <fanart>https://redecanais.top/imgs-videos/Filmes/A%20Casa.jpg</fanart>
 <info>Em A Casa, Javier Muñoz (Javier Gutiérrez) é um executivo desempregado é forçado a vender seu apartamento. Quando ele descobrir que ainda tem as chaves, ficará obcecado pela família que agora mora lá e decidirá recuperar a vida que perdeu, a qualquer preço.</info>
 <date>2020</date>
+</item>
+
+<item>
+<title>[B][COLOR white]A MARCA DO DEMÔNIO[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDEMO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Marca%20do%20Dem%C3%B4nio.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Marca%20do%20Dem%C3%B4nio.jpg</fanart>
+<info>Duas jovens irmãs abrem um livro antigo que traz ao mundo uma criatura diabólica. Sua única salvação é um padre possuído que luta contra seus próprios demônios.</info>
+<date>2020</date>
+</item>
+
+<item>
+<title>[B][COLOR salmon]ARANHA NA TEIA[/COLOR] | [COLOR gold] 2019[/COLOR] | [COLOR springgreen]Legendado[/COLOR][/B]</title>
+<link>https://s1.pandafiles.com:183/d/7m32we6k26kwoyapasf3i6gbnzt3ryidlzkddpjb74afi2zgmuplsomi3i3i7zhh7fijqkjb/video.mp4</link>
+<thumbnail>https://i.imgur.com/iYBPbk5.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
