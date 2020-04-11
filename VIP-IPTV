@@ -7,8 +7,8 @@ http://master1.ipfox.onl
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: NOTICIAS",CNN DIGITAL HD
 https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", MEU FILME TESTE
-https://r1---sn-bg0ezn7e.googlevideo.com/videoplayback?expire=1586361717&ei=VdmNXrTcK8SFwASK8KmADQ&ip=170.238.149.249&id=d51a846e0bd0d41d&itag=15&source=picasa&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&dur=0.000&lmt=1586354211202766&cpn=hkSGffg9eEAcs2SU&c=WEB_EMBEDDED_PLAYER&cver=20200406&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,dur,lmt&sig=AJpPlLswRgIhANHcXChQXoGPWnO_F5g2hHmqEVnWfihlCypDO-GRoBKlAiEA412mC8WkUr2VgVAK6XqBMQaddVP31d1ZiqUEqZNwmwg=&redirect_counter=1&cm2rm=sn-bg0sy7d&req_id=7e9412cb7eda36e2&cms_redirect=yes&mh=wF&mm=34&mn=sn-bg0ezn7e&ms=ltu&mt=1586354495&mv=m&mvi=0&pl=23&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=ALrAebAwRgIhAOkAChE4burPOjnUBJC_STZw5dpM6lAGB8S8YOPARvTzAiEAh3DBaRoh2OkNSZ5h1YpFpvQ6bpaPFSWqKy5BbN7JT88%3D
+#EXTINF:-1 tvg-logo="" group-title="FILMES", VIUVA NEGRA
+https://www.youtube.com/embed/up20hSIyGkU
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES SERIES",SPACE HD
 https://nimblestream2.canais.link/hls1/space.m3u8
