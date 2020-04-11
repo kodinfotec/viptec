@@ -8,7 +8,7 @@ http://master1.ipfox.onl
 https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES", VIUVA NEGRA
-https://www.youtube.com/embed/up20hSIyGkU
+https://www.youtube.com/watch?v=up20hSIyGkU
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES SERIES",SPACE HD
 https://nimblestream2.canais.link/hls1/space.m3u8
