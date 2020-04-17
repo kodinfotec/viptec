@@ -7,11 +7,21 @@ http://master1.ipfox.onl
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: NOTICIAS",CNN DIGITAL HD
 https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x2Nkkk0znwNDtqCdZKFQNA4Ayxg.jpg" group-title="FILMES",O Túnel teste 1
-http://localhost:65220/play?uri=magnet:?xt=urn:btih:5F32DE9CB52165994C732B169185AC0D0A9DEB3E&amp
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x2Nkkk0znwNDtqCdZKFQNA4Ayxg.jpg" group-title="FILMES",O Túnel tete 2
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:5F32DE9CB52165994C732B169185AC0D0A9DEB3E&amp
+#EXTINF:0 type="stream" tvg-logo="http://1.bp.blogspot.com/-sFhEBRhVscI/TpkAUfkrH3I/AAAAAAAAAEc/Pq4OHod0MJI/s1600/teste1.png" , Teste  sportv 1
+#EXTBG: #ff0000
+http://ftv.ftgrm.me:8082/spo124ha/750/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://1.bp.blogspot.com/-sFhEBRhVscI/TpkAUfkrH3I/AAAAAAAAAEc/Pq4OHod0MJI/s1600/teste1.png" , Teste sportv 2
+#EXTBG: #ff0000
+http://ftv.ftgrm.me:8082/spo224ha/750/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://1.bp.blogspot.com/-sFhEBRhVscI/TpkAUfkrH3I/AAAAAAAAAEc/Pq4OHod0MJI/s1600/teste1.png" , Teste sportv 3
+#EXTBG: #ff0000
+http://ftv.ftgrm.me:8082/spo324ha/750/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://1.bp.blogspot.com/-sFhEBRhVscI/TpkAUfkrH3I/AAAAAAAAAEc/Pq4OHod0MJI/s1600/teste1.png" , Teste sportv 9
+#EXTBG: #ff0000
+http://ftv.ftgrm.me:8082/spo924ha/750/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://1.bp.blogspot.com/-sFhEBRhVscI/TpkAUfkrH3I/AAAAAAAAAEc/Pq4OHod0MJI/s1600/teste1.png" , teste sportv 11
+#EXTBG: #ff0000
+http://ftv.ftgrm.me:8082/spo1124ha/750/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES", VIUVA NEGRA
