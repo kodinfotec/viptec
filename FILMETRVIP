@@ -1,11 +1,4 @@
-<item>
-<title>[COLOR orange]KODI 18.6[/COLOR]</title>
-<utube>Xyi7O-wzbgY</utube>
-<thumbnail>http://i.imgur.com/J7tIfaX.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <item>
   <title>O Tunel</title>
   <link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:4AA786E036A91588710F750539445817509EBE8C&amp</link>
