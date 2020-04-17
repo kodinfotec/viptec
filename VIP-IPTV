@@ -7,7 +7,7 @@ http://master1.ipfox.onl
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: NOTICIAS",CNN DIGITAL HD
 https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8
 
-#EXTINF:-1 type="video" description="HD - 720P"  subtitles="https://drive.google.com/file/d/1-rimfM_vVbGGRDoCMYdbDdLeVotRoIz7/view",episodio 1
+#EXTINF:-1 type="video" description="FILMES" subtitles="https://drive.google.com/file/d/1-rimfM_vVbGGRDoCMYdbDdLeVotRoIz7/view",O Túnel (2017)
 #EXTSIZE: Medium
 #EXTBG: #390497
 http://localhost:65220/play?uri=magnet:?xt=urn:btih:4AA786E036A91588710F750539445817509EBE8C&amp
