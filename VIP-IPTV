@@ -7,6 +7,11 @@ http://master1.ipfox.onl
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: NOTICIAS",CNN DIGITAL HD
 https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x2Nkkk0znwNDtqCdZKFQNA4Ayxg.jpg" group-title="FILMES",O Túnel
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:5F32DE9CB52165994C732B169185AC0D0A9DEB3E&amp
+
+
 #EXTINF:-1 tvg-logo="" group-title="FILMES", VIUVA NEGRA
 https://www.youtube.com/watch?v=up20hSIyGkU
 
