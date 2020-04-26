@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <items>
 <item>
+  <title>Heartbreak Ridge 1986 1080p</title>
+  <meta>
+  <content>1080P HD</content>
+  <imdb>tt0091187</imdb>
+  <title>Heartbreak Ridge 1080p</title>
+  <year>1986</year>
+  </meta>
+  <link>
+  <sublink>magnet:?xt=urn:btih:5d67f08e33bf4442b6669f23af9bf8e3307374a2&dn=Heartbreak.Ridge.1986.1080p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce</sublink>
+  <sublink>search</sublink>
+  <sublink>searchsd</sublink>
+</link>
+  <thumbnail>https://image.tmdb.org/t/p/original/hbKkfRpjtoCYabxEmhklM6MhF7g.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/AjE2mqKN5qulD1TOugPiT9kvuZp.jpg</fanart>
+</item>
+  
+  
+<item>
   <title>Air Strik</title>
   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/113DUgeQox-E_eJLu4Tm9nok3JWE2O-nH/view</link>
   <thumbnail></thumbnail>
