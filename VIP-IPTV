@@ -2,13 +2,15 @@
 #EXTINF:-1,[COLOR lime]>>>[/COLOR] | [COLOR orange]CANAIS[/COLOR] | [COLOR gold]IPTV[/COLOR] | [COLOR springgreen]INFOTEC[/COLOR]
 http://master1.ipfox.onl
 21.03.2020 RDC
-
-#EXTINF:-1:PT:,AXN White HD 
+#EXTM3U
+#EXTINF:-1:PT:,AXN HD 
 plugin://plugin.video.f4mTester/?name=INFOTEC-IPTV&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/667464.m3u8
 #EXTINF:-1:PT:,AXN FHD 
-plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7538.m3u8
+plugin://plugin.video.f4mTester/?name=INFOTEC-IPTV&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7538.m3u8
 
-#EXTM3U
+#EXTINF:-1:PT:,AXN HD 
+http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/667464.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS: NOTICIAS",CNN DIGITAL HD
 https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8
 
