@@ -3,8 +3,9 @@
 http://master1.ipfox.onl
 21.03.2020 RDC
 
+#EXTINF:-1:PT:,AXN White HD 
+plugin://plugin.video.f4mTester/?name=INFOTEC-IPTV&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/667464.m3u8
 #EXTINF:-1:PT:,AXN FHD 
-
 plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7538.m3u8
 
 #EXTM3U
