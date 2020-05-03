@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<layoutype>ghost</layoutype>
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<layoutype>ghost</layoutype>
+
 <dir>
 <title>LA CASA DE PAPEL</title>
 <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/lacasa.xml</link>
