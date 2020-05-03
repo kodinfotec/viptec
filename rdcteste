@@ -1,32 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-#EXTINF:-1,[COLOR orange]INFOTEC[/COLOR] | [COLOR salmon]IPTV[/COLOR] | [COLOR gold]RDC[/COLOR] | [COLOR springgreen]ON[/COLOR]
-11.03.2020 RDC
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES SERIES",SPACE HD
-https://nimbleserver.canais.ink/a/hls1/space.m3u8?expires=1583945372&token=806ca41160b58f909e5674da342825ec
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES",AMC HD
-https://nimbleserver.canais.ink/a/hls1/amc.m3u8?expires=1583945715&token=78c7f4f406415bc14e8d74d99ca45c36
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",Discovery Channel HD
-https://nimbleserver.canais.ink/a/hls1/discovery.m3u8?expires=1583945940&token=103561608f8d23b84bbf67d06f2cca2d
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",THE HISTORY
-https://nimbleserver.canais.ink/a/hls1/history.m3u8?expires=1583945846&token=de2107726f115bc2f3a7fd769fd797eb
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES",TNT HD
-https://nimbleserver.canais.ink/a/hls1/tnt.m3u8?expires=1583945791&token=c1d10ac6b795c116d348be176218880c
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",Telecine Action HD
-https://nimbleserver.canais.ink/a/hls1/telecineaction.m3u8?expires=1583945485&token=6a013e28ea1cf700436af0d9d51e31cd
-#EXTINF:-1 tvg-logo="" group-title="FILMES", EM BUSCA DE ZOE
-https://user-content-hot-155.molyusercontentstage.me/hls/xqx2pc3fkbokjiqbtgxcnpan4zv7lvjmllzcn3el5do67zqsqmcq73klgpka/index-v1-a1.m3u8
-#####################################################
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
 
 
-#EXTINF:-1,[COLOR orange]INFOTEC[/COLOR] | [COLOR salmon]IPTV[/COLOR] | [COLOR gold]MULTI[/COLOR] | [COLOR springgreen]ON[/COLOR]
-11.03.2020 MULTI CANAIS
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",HBO HD
-https://live.multicanais.com/live/maxprimehd/video.m3u8?md5=EaLaqm7BuS4WKHMe35ZiPw&expires=1584047349
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",UNIVERSAL SD
-https://live.multicanais.com/mylive/universalsd/video.m3u8?md5=xOxVtNUxIo2_OsifEYN_gA&expires=1583923189
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",UNIVERSAL FDH
-https://live.multicanais.com/mylive/foxpremiumsd/video.m3u8?md5=URz0zGqMshsuvrZXAwPsMg&expires=1583923304
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",MEGA PIX SD
-https://live.multicanais.com/mylive/megapixsd/video.m3u8?md5=tlVC1f3bRmKVo4H4xlW4hA&expires=1583956583
+
+<item>
+<title>[B][COLOR red]ANIMAL PLANET[/COLOR][/B] </title>
+<link>https://geralorigin.eu-central-1.edge.mycdn.live/live/animalplanethd/video.m3u8|Referer=https://topcanais.com/</link>
+<thumbnail>https://cdn.canaismax.com/assistir-animal-planet-ao-vivo-online-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYjZiZGVhYjQyODZjOWExMDBiYjAwMzYyYjE4YTYwZDYucG5n</thumbnail>
+<referer>http://tv-msn.com/</referer>
+</item>
+ 
+<item>
+<title>[B][COLOR red]DISCOVERY CHANNEL [/COLOR][/B] </title>
+<link>https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryhd/video.m3u8|Referer=https://topcanais.com/</link>
+<thumbnail>https://cdn.canaismax.com/assistir-discovery-channel-ao-vivo-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZWZlZjA1NGY5OGUyMGRkOTliZWY3YWFkMmRmMWE1MjIucG5n</thumbnail>
+<referer>http://tv-msn.com/</referer>
+</item>
+ 
+<item>
+<title>[B][COLOR red]DISCOVERY INVESTIGATION [/COLOR][/B] </title>
+<link>https://geralorigin.eu-central-1.edge.mycdn.live/live/idhd/video.m3u8|Referer=https://topcanais.com/</link>
+<thumbnail>https://cdn.canaismax.com/assistir-investigacao-discovery-ao-vivo-discovery-id-gratis-online-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYzNlYzNhMzQ1MDViMzNhNjM0YTZiZWY2NTUwNjViOWMucG5n</thumbnail>
+<referer>http://tv-msn.com/</referer>
+</item>
