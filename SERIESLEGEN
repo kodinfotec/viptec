@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>ghost</layoutype>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+<layoutype>ghost</layoutype>
+<dir>
+<title>LA CASA DE PAPEL</title>
+<link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/lacasa.xml</link>
+<thumbnail>http://www.ezzer-mac.com/frank/artghost/tv.png</thumbnail>
+<fanart>http://www.ezzer-mac.com/frank/artghost/tvshow.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLORwhite]SOUTH PARK[/COLOR]</title>
+<link>plugin://plugin.video.southpark_unofficial</link>
+<thumbnail>http://www.ezzer-mac.com/frank/artghost/tv.png</thumbnail>
+<fanart>http://www.ezzer-mac.com/frank/artghost/tvshow.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLORwhite]COMEDY CENTRAL[/COLOR]</title>
+<link>plugin://plugin.video.comedycentral</link>
+<thumbnail>http://www.ezzer-mac.com/frank/artghost/tv.png</thumbnail>
+<fanart>http://www.ezzer-mac.com/frank/artghost/tvshow.jpg</fanart>
+</dir>
+
+<plugin>
+<title>[COLORwhite]1CLICK TV SHOWS[/COLOR]</title>
+<link>
+<sublink>http://anilist1.ir/Series/(Server 1)</sublink>
+<sublink>http://s1.uploadiha.com/media/Serial/(Server 2)</sublink>
+</link>
+<thumbnail>http://www.ezzer-mac.com/frank/artghost/tv.png</thumbnail>
+<fanart>http://www.ezzer-mac.com/frank/artghost/tvshow.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[COLORwhite]1CLICK ANIME TV SHOWS[/COLOR]</title>
+<link>
+<sublink>http://anilist1.ir/Anime/(Server 1)</sublink>
+<sublink>https://storage.kanzaki.ru/(Server 2)</sublink>
+<sublink>https://storage.kanzaki.ru/ANIME___/(Server 3)</sublink>
+</link>
+<thumbnail>http://www.ezzer-mac.com/frank/artghost/tv.png</thumbnail>
+<fanart>http://www.ezzer-mac.com/frank/artghost/tvshow.jpg</fanart>
+</plugin>
+
+<dir>
+<title>[COLORwhite]TV SHOWS LISTS[/COLOR]</title>
+<link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/tv.xml</link>
+<thumbnail>http://www.ezzer-mac.com/frank/artghost/tv.png</thumbnail>
+<fanart>http://www.ezzer-mac.com/frank/artghost/tvshow.jpg</fanart>
+</dir>
+  
+<dir>
+<title>[COLORwhite]TV SHOWS GENRES[/COLOR]</title>
+<link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/genre_tv.xml</link>
+<thumbnail>http://www.ezzer-mac.com/frank/artghost/tv.png</thumbnail>
+<fanart>http://www.ezzer-mac.com/frank/artghost/tvshow.jpg</fanart>
+</dir> 
+
+<dir>
+<title>[COLORwhite]CATCH UP TV[/COLOR]</title>
+<tvmaze>calendar</tvmaze>
+<thumbnail>http://www.ezzer-mac.com/frank/artghost/tv.png</thumbnail>
+<fanart>http://www.ezzer-mac.com/frank/artghost/tvshow.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLORwhite]WEB CHANNELS[/COLOR]</title>
+<tvmaze>web_channel/1</tvmaze>
+<thumbnail>http://www.ezzer-mac.com/frank/artghost/tv.png</thumbnail>
+<fanart>http://www.ezzer-mac.com/frank/artghost/tvshow.jpg</fanart>
+</dir>
+
+<dir>
+<title>[COLORwhite]ALL NETWORKS[/COLOR]</title>
+<tvmaze>country/all</tvmaze>
+<thumbnail>http://www.ezzer-mac.com/frank/artghost/tv.png</thumbnail>
+<fanart>http://www.ezzer-mac.com/frank/artghost/tvshow.jpg</fanart>
+</dir>
+
+<dir>
+  <title>[COLORwhite]SEARCH TMDB[/COLOR]</title>
+  <tmdb>search</tmdb>
+  <thumbnail>http://www.ezzer-mac.com/frank/artghost/tv.png</thumbnail>
+  <fanart>http://www.ezzer-mac.com/frank/artghost/tvshow.jpg</fanart>
+</dir>
+
+<dir>
+  <title>[COLORwhite]SEARCH TRAKT[/COLOR]</title>
+  <trakt>search</trakt>
+  <thumbnail>http://www.ezzer-mac.com/frank/artghost/tv.png</thumbnail>
+  <fanart>http://www.ezzer-mac.com/frank/artghost/tvshow.jpg</fanart>
+</dir>
+
+<dir>
+  <title>[COLORwhite]SEARCH IMDB[/COLOR]</title>	
+  <imdburl>searchseries</imdburl>
+    <thumbnail>http://www.ezzer-mac.com/frank/artghost/tv.png</thumbnail>
+  <fanart>http://www.ezzer-mac.com/frank/artghost/tvshow.jpg</fanart>
+</dir>
