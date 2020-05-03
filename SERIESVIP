@@ -25,5 +25,13 @@
 <info></info>
 </channel>
  
+<channel>
+<name>SERIES LEGENDADAS</name>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/SERIESLEGEN</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+ 
 
 </channels>
