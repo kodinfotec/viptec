@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <item>
+<title>[COLOR white]Torturado por Cristo[COLOR yellow](2020)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=https://svr3.cloudplayer.online/link/uoYcGbCDME6N5e0/1080/69d981d2a2b641af71aaa76ca95f0f0a/</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjsOC9eSuZiM9Maio7tLxPL8ICB.jpg</thumbnail>
+</item>
+
+
+<item>
 <title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]01[/COLOR][/B]</title>
 <link>$doregex[BP1]ACGNPRFNEP01.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
