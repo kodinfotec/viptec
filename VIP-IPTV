@@ -10,8 +10,7 @@
 <regex><name>CONEXAOTUBE</name><expres>(.*?).rccanais</expres><page>https://gitlab.com/infosidneivip3/infoteonline/-/raw/master/BASE/RDCIPTVOU</page></regex>
 <thumbnail>/imgs-videos/Canais/globo.jpg</thumbnail>
 </item>
-https://geralorigin.eu-central-1.edge.mycdn.live/live/hbohd/video.m3u8
-https://geralorigin.eu-central-1.edge.mycdn.live/live/hbo2hd/video.m3u8
+
 <item>
 <title>[B][COLOR white]SBT[/COLOR] [COLOR gold][/COLOR][/B]</title>
 <link>$doregex[CONEXAOPLAY]sbt.m3u8|Referer=https://blog.canaisgratis.org/contadorcanais/player3/canaishlb.php</link>
@@ -27,7 +26,7 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/hbo2hd/video.m3u8
 	    
 <item>
 <title>[B][COLOR white]RECORD[/COLOR] [COLOR gold][/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]recordsp.m3u8|Referer=https://blog.canaisgratis.org/contadorcanais/player3/canaishlb.php</link>
+<link>$doregex[CONEXAOPLAY]recordsp.m3u8|Referer=https://blog.canaisgratis.org/xmlrpc.php</link>
 <regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://gitlab.com/infosidneivip3/infoteonline/-/raw/master/BASE/RDCIPTVOU</page></regex>
 <thumbnail>/imgs-videos/Canais/record.jpg</thumbnail>
 </item>
