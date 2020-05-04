@@ -1,82 +1,177 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <item>
-<title>The Martian 2015 1080p (Film2serial IR)</title>
-<link>http://dl2.film2serial.ir/film2serial/film/asli/94/10/The%20Martian%202015%201080p%20%28Film2serial.IR%29.mkv</link>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]01[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
 </item>
-
+ 
 <item>
-<title>[COLORred]--(Real Debrid Required)--[/COLOR]</title>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]02[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
 </item>
-
+ 
 <item>
-<title>La Casa de Papel s01 1080p</title>
-<link>
-<sublink>https://1fichier.com/?54fyh2wm6tfhbvgpk7jw(s1e1 | 1080P)</sublink>
-<sublink>https://1fichier.com/?0e6eds9dcq1ha00v78a4(s1e2 | 1080P)</sublink>
-<sublink>https://1fichier.com/?grll6l1d8hqrbyhb0onq(s1e3 | 1080P)</sublink>
-<sublink>https://1fichier.com/?ggkmybj17ozkobvhvy7a(s1e4 | 1080P)</sublink>
-<sublink>https://1fichier.com/?jpmdxqvr0fqfmjwstgnt(s1e5 | 1080P)</sublink>
-<sublink>https://1fichier.com/?l5g38q5f6qabvx2s9qhs(s1e6 | 1080P)</sublink>
-<sublink>https://1fichier.com/?niyw1ojq6cwjlyfssgow(s1e7 | 1080P)</sublink>
-<sublink>https://1fichier.com/?tygu4o7rovwneb8yi34f(s1e8 | 1080P)</sublink>
-<sublink>https://1fichier.com/?w91xto2xtr091uu9ifj2(s1e9 | 1080P)</sublink>
-<sublink>https://1fichier.com/?qrcjkbv1z8cv8ewp1d20(s1e10 | 1080P)</sublink>
-<sublink>https://1fichier.com/?34g1tsx3f1w83xpk3ea9(s1e11 | 1080P)</sublink>
-<sublink>https://1fichier.com/?zbg15jajdah4cdyz1axk(s1e12 | 1080P)</sublink>
-<sublink>https://1fichier.com/?5s44g184nu0ap8yjcakw(s1e13 | 1080P)</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZjAyYTk4ZGYtNzYwYS00Y2NkLWI4MzAtMzM1NWE5NzQzNzlkXkEyXkFqcGdeQXVyMTAyNjg4NjE0._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BYTcwMWE4NDYtZTUyMS00MzEzLWFlMDUtYWMxNjM2ZmVlZjczXkEyXkFqcGdeQXVyODA2OTQwMzk@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]03[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
 </item>
-
+ 
 <item>
-<title>La Casa de Papel s02 1080p</title>
-<link>
-<sublink>https://1fichier.com/?2cgzfpy3widsrynqxmci(s2e1 | 1080P)</sublink>
-<sublink>https://1fichier.com/?yjozc9kdx2sa0gf4n2ov(s2e2 | 1080P)</sublink>
-<sublink>https://1fichier.com/?nipfttkjthapd6je9qdt(s2e3 | 1080P)</sublink>
-<sublink>https://1fichier.com/?2mx4nu8656wwy7wqjsns(s2e4 | 1080P)</sublink>
-<sublink>https://1fichier.com/?r2rddqs1msdx2sx0x0mk(s2e5 | 1080P)</sublink>
-<sublink>https://1fichier.com/?csulmun82tbhh0z9cb23(s2e6 | 1080P)</sublink>
-<sublink>https://1fichier.com/?exelbhj25t67xlfc1s13(s2e7 | 1080P)</sublink>
-<sublink>https://1fichier.com/?93co45fffexx043pcgin(s2e8 | 1080P)</sublink>
-<sublink>https://1fichier.com/?4708owxm1kulmotbjlqd(s2e9 | 1080P)</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZjAyYTk4ZGYtNzYwYS00Y2NkLWI4MzAtMzM1NWE5NzQzNzlkXkEyXkFqcGdeQXVyMTAyNjg4NjE0._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BYTcwMWE4NDYtZTUyMS00MzEzLWFlMDUtYWMxNjM2ZmVlZjczXkEyXkFqcGdeQXVyODA2OTQwMzk@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]04[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
 </item>
-
+ 
 <item>
-<title>La Casa de Papel s03 1080p</title>
-<link>
-<sublink>https://1fichier.com/?zwph3jon63tpo4gwrx0e(s3e1 | 1080P)</sublink>
-<sublink>https://1fichier.com/?23tsbfpwh3o8xf1ccdey(s3e2 | 1080P)</sublink>
-<sublink>https://1fichier.com/?oogv4mrzias401ffohm2(s3e3 | 1080P)</sublink>
-<sublink>https://1fichier.com/?pyfia2dgyau2kdspgead(s3e4 | 1080P)</sublink>
-<sublink>https://1fichier.com/?w8fageqnok5ymop89rrl(s3e5 | 1080P)</sublink>
-<sublink>https://1fichier.com/?l5tukokzu477f9l8y3gz(s3e6 | 1080P)</sublink>
-<sublink>https://1fichier.com/?t0ue3weyo67ag0t6ofsy(s3e7 | 1080P)</sublink>
-<sublink>https://1fichier.com/?w2hbj4d8tqhgweetrvyy(s3e8 | 1080P)</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZjAyYTk4ZGYtNzYwYS00Y2NkLWI4MzAtMzM1NWE5NzQzNzlkXkEyXkFqcGdeQXVyMTAyNjg4NjE0._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BYTcwMWE4NDYtZTUyMS00MzEzLWFlMDUtYWMxNjM2ZmVlZjczXkEyXkFqcGdeQXVyODA2OTQwMzk@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]05[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP05.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
 </item>
-
+ 
 <item>
-<title>La Casa de Papel s04 1080p</title>
-<link>
-<sublink>https://1fichier.com/?hddpk6j0b8ra02d112dj(s4e1 | 1080P)</sublink>
-<sublink>https://1fichier.com/?hf4qff9orsqfg0iyz7gn(s4e2 | 1080P)</sublink>
-<sublink>https://1fichier.com/?43v3vkb8k8c96ygqebhk(s4e3 | 1080P)</sublink>
-<sublink>https://1fichier.com/?lyu8y8aeir2n4zwboxo5(s4e4 | 1080P)</sublink>
-<sublink>https://1fichier.com/?60z89kxr986q53ncud8t(s4e5 | 1080P)</sublink>
-<sublink>https://1fichier.com/?qve2uept0pg3vqyemw2o(s4e6 | 1080P)</sublink>
-<sublink>https://1fichier.com/?r8w0ebpskr3eoog878go(s4e7 | 1080P)</sublink>
-<sublink>https://1fichier.com/?938sa1scd8ke912pcdon(s4e8 | 1080P)</sublink>
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZjAyYTk4ZGYtNzYwYS00Y2NkLWI4MzAtMzM1NWE5NzQzNzlkXkEyXkFqcGdeQXVyMTAyNjg4NjE0._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BYTcwMWE4NDYtZTUyMS00MzEzLWFlMDUtYWMxNjM2ZmVlZjczXkEyXkFqcGdeQXVyODA2OTQwMzk@._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]06[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
 </item>
-
-
+ 
+<item>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]07[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP07.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]08[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]09[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP09.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]10[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]11[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP11.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]12[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP12.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]13[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP13.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]14[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP14.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]15[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP15.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[B][COLOR blue]Episódio[/COLOR] - [COLOR white]16[/COLOR][/B]</title>
+<link>$doregex[BP1]ACGNPRFNEP16.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://pastebin.com/raw/RycM8Zcn</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://ia601404.us.archive.org/7/items/20191114_20191114_1542/Crane-a-Cegonha-Perna-Fina.png</thumbnail>
+<fanart></fanart>
+</item>
