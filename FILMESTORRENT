@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR silver][B] Homem-Aranha: Longe de Casa[/COLOR][/B][COLOR yellow][B](IMDB 7.7)[/COLOR][/B]</title>
-<link>$doregex[vida]HMEMARNHLNGDCSA.mp4|Referer=$doregex[vidar]$$lsname=[COLOR silver][B]REDECANAIS[/COLOR][/B]</link>
-<regex><name>vida</name><expres>(.*?).rcf1</expres><page>https://goo.gl/fmBTiU</page></regex>
-<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
-<link>$doregex[mfilm]homemaranhalongedecasa-dub-1080p.mp4|Referer=https://www.mmfilmes.tv.com$$lsname=[COLOR white][B]OPCAO 2[/COLOR][/B]</link>
-<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://goo.gl/fmBTiU</page></regex>
-<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:1f1ea63184998ffb68ef59f469476b57ed6cc91b$$lsname=[COLOR cadetblue][B]TORRENT[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f1ea63184998ffb68ef59f469476b57ed6cc91b$$lsname=[COLOR cadetblue][B]ELEMENTUM[/COLOR][/B]</link>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/6ihyJWRLEngSnlW8HKeDOH3AfSQ.jpg</fanart>
-<info>Peter Parker (Tom Holland) está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury (Samuel L. Jackson). Precisando de ajuda para enfrentar monstros nomeados como Elementais, Fury o convoca para lutar ao lado de Mysterio (Jake Gyllenhaal), um novo herói que afirma ter vindo de uma Terra paralela. Além da nova ameaça, Peter precisa lidar com a lacuna deixada por Tony Stark, que deixou para si seu óculos pessoal, com acesso a um sistema de inteligência artificial associado à Stark Industries.</info>
+<title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME - [COLOR yellow] (2019)[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</Title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HBw2tswd55E3E8Qk3ESplrmTMNfctiHy/view$$lsname=[COLOR orange]HD[/COLOR] G DRIVE - LINK 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2DA913464B4F73E570298A7DE7B8433CE551E8EA$$lsname=[COLOR orange]HD[/COLOR] ELEMENTUM - LINK 2</link>
+<link>http://webtvcde.com/Filmes/Dublados/Megatubarao.mkv$$lsname=[COLOR orange]HD[/COLOR] WEB - link 3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
 </item>
 
 
