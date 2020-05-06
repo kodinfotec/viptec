@@ -25,19 +25,3 @@
 <info></info>  
 </channel>
 
-<channel>
-<name>Parasita</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/parasita</externallink>
-<fanart></fanart>
-<info></info>  
-</channel>
-  
-<channel>
-<name>FILMES TORRENT TESTE</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/FILMESTORRENT</externallink>
-<fanart></fanart>
-<info></info>  
-</channel>
-</channels>
