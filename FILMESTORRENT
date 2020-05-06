@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME - [COLOR yellow] (2019)[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</Title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HBw2tswd55E3E8Qk3ESplrmTMNfctiHy/view$$lsname=[COLOR orange]HD[/COLOR] G DRIVE - LINK 1</link>
+<title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME TESTE # LINK- [COLOR yellow] (2019)[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</Title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HBw2tswd55E3E8Qk3ESplrmTMNfctiHy$$lsname=[COLOR orange]HD[/COLOR] G DRIVE - LINK 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2DA913464B4F73E570298A7DE7B8433CE551E8EA$$lsname=[COLOR orange]HD[/COLOR] ELEMENTUM - LINK 2</link>
 <link>http://webtvcde.com/Filmes/Dublados/Megatubarao.mkv$$lsname=[COLOR orange]HD[/COLOR] WEB - link 3</link>
 <thumbnail></thumbnail>
