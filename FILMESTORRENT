@@ -1,30 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[COLOR silver][B]BUSCA IMPLACAVEL[/COLOR][/B][COLOR yellow][B](IMDB 7.8[/COLOR][/B]</title>
-<vidatvg>0BxLUW-4VLNVbYkt6NU1icnRNdXM<vidatvg>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/mYwZKC2sNcwyA8EazMSwHnHUn53.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/d5vwBiuJI1a2hBcGjhsWhpmAkL7.jpg</fanart>
-<info></info>
-<genre></genre>
-</item>
-
-<item>
-<title>[COLOR silver][B]BUSCA IMPLACAVEL 2[/B][/COLOR][COLOR yellow][B](IMDB 6.3)[/COLOR][/B]</title>
-<vidatvg>0BxLUW-4VLNVbS0laWjNPeDhTVXc<vidatvg>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/T8BSCqbbPZ5VM3rFbj4UqdcLv7.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/tbyT6LIQe6nNjbhFMnGAOHZVc30.jpg</fanart>
-<info></info>
-<genre></genre>
-</item>
-
-<item>
-<title>[COLOR silver][B]BUSCA IMPLACAVEL 3[/COLOR][/B][COLOR yellow][B](IMDB 6.0)[/COLOR][/B]</title>
-<vidatvg>0BzXzR7sWyKw1OEVNZ0JDSFE2dm8<vidatvg>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_bestv2/4HLQHhBlbXqnKvL5xLKHh8M9O9K.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w350_and_h196_bestv2/sf5784pUbeXdX2Fpq0OlMHRWCsJ.jpg</fanart>
-<info></info>
-<genre></genre>
+<title>[B][COLOR white]Ameaça Profunda [/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16bB0RI8biCInQMNfSBIafxzTG3jc85l3/view$$lsname=[COLOR cadetblue][B]G-Drive[/COLOR][/B]
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec151ca1a130315e6a99ea36de5c6d32a2a56b35$$lsname=[COLOR cadetblue][B]ELEMENTUM[/COLOR][/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/original/1ctXU1e6PIWeM6BZRpU61JvVBHh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fYPiQewg7ogbzro2XcCTACSB2KC.jpg</fanart>
+<info>
+[COLOR gold][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2020[/B][/COLOR]
+[COLOR tomato][B]Gênero:[/B][/COLOR] [COLOR white][B]Terror, Ficção científica, Ação, Thriller[/COLOR]
+[COLOR gold][B]Sinopse:[/B][/COLOR] [COLOR white][B]Um grupo de pesquisadores se encontra em um laboratório subaquático a 11 mil metros de profundidade, quando um terremoto causa a destruição do veículo e expõe a equipe ao risco de morte. Eles são obrigados a caminhar nas profundezas marítimas, com quantidade insuficiente de oxigênio, para tentarem sobreviver.[/B][/COLOR]
+</info>
 </item>
 
 <item>
