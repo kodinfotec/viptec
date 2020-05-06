@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME TESTE # LINK- [COLOR yellow] (2019)[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</Title>
+<title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME - [COLOR yellow] (2019)[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</Title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HBw2tswd55E3E8Qk3ESplrmTMNfctiHy$$lsname=[COLOR orange]HD[/COLOR] G DRIVE - LINK 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2DA913464B4F73E570298A7DE7B8433CE551E8EA$$lsname=[COLOR orange]HD[/COLOR] ELEMENTUM - LINK 2</link>
 <link>http://webtvcde.com/Filmes/Dublados/Megatubarao.mkv$$lsname=[COLOR orange]HD[/COLOR] WEB - link 3</link>
@@ -10,20 +10,6 @@
 <info></info>
 </item>
 
-
-<item>
-<title>[B][COLOR white]Ameaça Profunda [/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/uc?id=1HBw2tswd55E3E8Qk3ESplrmTMNfctiHy&export=download$$lsname=[COLOR cadetblue][B]G-Drive[/COLOR][/B]</link>
-<link>http://localhost:65251/play?uri=magnet:?xt=urn:btih:ec151ca1a130315e6a99ea36de5c6d32a2a56b35$$lsname=[COLOR cadetblue][B]Quasar[/COLOR] Dublado[/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec151ca1a130315e6a99ea36de5c6d32a2a56b35$$lsname=[COLOR cadetblue][B]ELEMENTUM[/COLOR] Dublado[/B]</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1ctXU1e6PIWeM6BZRpU61JvVBHh.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/fYPiQewg7ogbzro2XcCTACSB2KC.jpg</fanart>
-<info>
-[COLOR gold][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2020[/B][/COLOR]
-[COLOR tomato][B]Gênero:[/B][/COLOR] [COLOR white][B]Terror, Ficção científica, Ação, Thriller[/COLOR]
-[COLOR gold][B]Sinopse:[/B][/COLOR] [COLOR white][B]Um grupo de pesquisadores se encontra em um laboratório subaquático a 11 mil metros de profundidade, quando um terremoto causa a destruição do veículo e expõe a equipe ao risco de morte. Eles são obrigados a caminhar nas profundezas marítimas, com quantidade insuficiente de oxigênio, para tentarem sobreviver.[/B][/COLOR]
-</info>
-</item>
 
 <item>
 <title>[B]JUMANJI: Próxima Fase [/B]</title>
