@@ -2,8 +2,9 @@
 
 <item>
 <title>[B][COLOR white]Ameaça Profunda [/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16bB0RI8biCInQMNfSBIafxzTG3jc85l3/view$$lsname=[COLOR cadetblue][B]G-Drive[/COLOR][/B]
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec151ca1a130315e6a99ea36de5c6d32a2a56b35$$lsname=[COLOR cadetblue][B]ELEMENTUM[/COLOR][/B]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16bB0RI8biCInQMNfSBIafxzTG3jc85l3/view$$lsname=[COLOR cadetblue][B]G-Drive[/COLOR][/B]</link>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:ec151ca1a130315e6a99ea36de5c6d32a2a56b35$$lsname=[COLOR cadetblue][B]Quasar[/COLOR] Dublado[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec151ca1a130315e6a99ea36de5c6d32a2a56b35$$lsname=[COLOR cadetblue][B]ELEMENTUM[/COLOR] Dublado[/B]</link>
 <thumbnail>https://image.tmdb.org/t/p/original/1ctXU1e6PIWeM6BZRpU61JvVBHh.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fYPiQewg7ogbzro2XcCTACSB2KC.jpg</fanart>
 <info>
