@@ -1,32 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+#EXTINF:-1,[COLOR orange]INFOTEC[/COLOR] | [COLOR salmon]IPTV[/COLOR] | [COLOR gold]RDC[/COLOR] | [COLOR springgreen]ON[/COLOR]
+09.05.2020 RDC
 
-<item>
-<title>[B][COLOR white]GLOBO[/COLOR] [COLOR gold][/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]bobonordeste.m3u8|Referer=https://blog.canaisgratis.org/contadorcanais/player3/canaishlb.php/$nome=[B][COLOR white]GLOBO [B][COLOR lime]NORDESTE[/COLOR] [COLOR gold][/COLOR][/B]</link>
-<link>$doregex[CONEXAOPLAY]boborj.m3u8|Referer=https://blog.canaisgratis.org/contadorcanais/player3/canaishlb.php$nome=[B][COLOR white]GLOBO [B][COLOR lime] RJ[/COLOR] [COLOR gold][/COLOR][/B]</link>
-<link>$doregex[CONEXAOPLAY]bobosp.m3u8|Referer=https://blog.canaisgratis.org/contadorcanais/player3/canaishlb.php$nome=[B][COLOR white]GLOBO [B][COLOR lime] SP[/COLOR] [COLOR gold][/COLOR][/B]</link>
-
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://gitlab.com/infosidneivip3/infoteonline/-/raw/master/BASE/RDCIPTVOU</page></regex>
-<regex><name>CONEXAOTUBE</name><expres>(.*?).rccanais</expres><page>https://gitlab.com/infosidneivip3/infoteonline/-/raw/master/BASE/RDCIPTVOU</page></regex>
-<thumbnail>/imgs-videos/Canais/globo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR white]SBT[/COLOR] [COLOR gold][/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]sbt.m3u8|Referer=https://blog.canaisgratis.org/contadorcanais/player3/canaishlb.php</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://gitlab.com/infosidneivip3/infoteonline/-/raw/master/BASE/RDCIPTVOU</page></regex>
-<thumbnail>/imgs-videos/Canais/sbt.jpg</thumbnail>
-</item>
-<item>
-<title>[B][COLOR white]BAND[/COLOR] [COLOR gold][/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]band.m3u8|Referer=https://lojadebicicleta.com.br/xmlrpc.php</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://gitlab.com/infosidneivip3/infoteonline/-/raw/master/BASE/RDCIPTVOU</page></regex>
-<thumbnail>/imgs-videos/Canais/band.jpg</thumbnail>
-</item>	    
-	    
-<item>
-<title>[B][COLOR white]RECORD[/COLOR] [COLOR gold][/COLOR][/B]</title>
-<link>$doregex[CONEXAOPLAY]recordsp.m3u8|Referer=https://blog.canaisgratis.org/xmlrpc.php</link>
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rccanais</expres><page>https://gitlab.com/infosidneivip3/infoteonline/-/raw/master/BASE/RDCIPTVOU</page></regex>
-<thumbnail>/imgs-videos/Canais/record.jpg</thumbnail>
-</item>
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.0tUhuLWajeMaRK8iRMY58AHaHa?pid=Api&rs=1" group-title="CANAIS:",CNN DIGITAL HD
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/5028/brand.gif?itok=bO-w4Sr7" group-title="CANAIS:",A&E HD
+http://maxptv.net:8080/live/morgana/morgana/236.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/5028/brand.gif?itok=bO-w4Sr7" group-title="CANAIS:",A&E HD
+http://a.srvbr.me:8880/138906/138906%2F4203
