@@ -52,3 +52,730 @@ plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&stre
 plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37570
 #EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CNN BRASIL HD
 plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/58102
+
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] A&E HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37219
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] A&E HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37555
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] A&E
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37029
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] A&E ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37577
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] AMC HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37132
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] AMC HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37557
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] AMC
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37043
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] AMC ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37582
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37133
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] ANIMAL PLANET HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37595
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37076
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] ANIMAL PLANET ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37583
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] ARTE 1 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37134
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] ARTE 1 HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37641
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] ARTE 1
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37075
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] AXN HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37135
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] AXN HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37556
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] AXN
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37077
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] AXN ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37578
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BABY TV ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37598
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37136
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BAND NEWS
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37104
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BAND HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37220
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BAND SP  HD¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37635
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BAND
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37096
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BAND¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37639
+
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BIS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37221
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BIS HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37640
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BIS
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37101
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BIS  ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37658
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37138
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BOOMERANG HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37605
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BOOMERANG
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37056
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BOOMERANG ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37601
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37139
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CANAL BRASIL HD¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37630
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CANAL BRASIL
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37105
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CANAL BRASIL¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37637
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CANAL SONY HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37140
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CANAL SONY HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37554
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CANAL SONY
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37073
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37141
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CARTOON NETWORK HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37612
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37041
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CARTOON NETWORK ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37602
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CINEMAX HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37553
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CINEMAX HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37222
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR]  CINEMAX
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/29705
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CINEMAX ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37575
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] COMBATE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37142
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] COMBATE HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37546
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] COMBATE
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37106
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] COMBATE ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37529
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37143
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] COMEDY CENTRAL HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37643
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37049
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] COMEDY CENTRAL ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37660
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CULTURA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37223
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CULTURA
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37026
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CURTA! HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37144
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CURTA!
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37059
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CURTA ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37661
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37145
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY H&H
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37117
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY CHANNEL HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37589
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37024
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY CHANNEL ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37586
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY CIVILIZATION HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37596
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY CIVILIZATION ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37585
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY H&H HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37590
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY H&H ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37587
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37225
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37226
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY KIDS HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37606
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37102
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY KIDS ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37600
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37227
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY SCIENCE HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37591
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37020
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37146
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY THEATER HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37592
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY THEATER
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37042
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37147
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY TURBO HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37588
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37051
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37148
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY WORLD HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37593
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY WORLD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37036
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37149
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISNEY CHANNEL HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37594
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37047
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISNEY JR HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37150
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISNEY JR HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37607
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISNEY JR ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37599
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISNEY JR
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37044
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISNEY JR ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37603
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISNEY XD HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37611
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] E! HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37151
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] E!
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37107
+
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FASHION TV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37156
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FASHION TV HD  ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37644
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FASHION TV
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37034
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FISH HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37548
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FISH TV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37157
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FISH TV
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37126
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FISH TV  ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37683
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37228
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOOD NETWORK HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37645
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOOD NETWORK
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37115
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOOD NETWORK ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37651
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37158
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37159
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX LIFE HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37563
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX LIFE
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37081
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX LIFE ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37579
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX PREMIUM 1 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37160
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX PREMIUM 1 
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37071
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37161
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX PREMIUM 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37070
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37069
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37573
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37163
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX SPORTS HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37542
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX SPORTS
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37111
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX SPORTS ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37528
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37162
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX SPORTS 2 HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37545
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX SPORTS 2 HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37527
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37114
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FUTURA
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37094
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FX HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37165
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FX
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37080
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FX ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37580
+
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] GNT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37167
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] GNT
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37093
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] GNT  ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37656
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37169
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37119
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO 2 ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37617
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37168
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO FAMILY
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37118
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37170
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO PLUS HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37622
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO PLUS
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37122
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO PLUS ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37618
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37171
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO SIGNATURE HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37623
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO SIGNATURE
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37121
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37172
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37123
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HGTV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37224
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HGTV
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37017
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HISTORY 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37232
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HISTORY 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37031
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HISTORY HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37173
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HISTORY HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37675
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HISTORY
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37072
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HISTORY ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37584
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] ID HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37174
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] ID HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37597
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] ID
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37035
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] IDEAL  ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37652
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] LIFETIME HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37233
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] LIFETIME
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37030
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] LIFETIME ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37568
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37234
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MAIS GLOBOSAT
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37677
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO MUNDI
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37235
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO MUNDI
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37023
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO MUNDI ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37581
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO POP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37176
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO POP
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37120
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO EXTREME HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37236
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO EXTREME HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37562
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO EXTREME
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37095
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO EXTREME ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37572
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37177
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MEGAPIX HD¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37551
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MEGAPIX
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37068
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MEGAPIX  ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37570
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MTV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37178
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MTV HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37648
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MTV LIVE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37179
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MTV LIVE HD  ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37649
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MTV LIVE
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37032
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MTV
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37050
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37180
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MULTISHOW
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37092
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MULTISHOW  ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37655
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MUSIC BOX BRAZIL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37181
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MUSIC BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37057
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MUSIC BOX ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37653
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37182
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NATGEO KIDS
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37091
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NATGEO HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37183
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NATGEO
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37079
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NATGEO KIDS HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37613
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NATGEO WILD HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37184
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NATGEO WILD HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37674
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NATGEO WILD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37065
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NHK
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37131
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NHK  ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37654
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NHK WORLD HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37642
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NICK JR HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37185
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NICK JR HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37609
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NICK JR
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37066
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NICK JR ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37604
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37186
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NICKELODEON
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37058
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] OFF HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37237
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] OFF
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37098
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] PARAMOUNT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37187
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] PARAMOUNT
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37052
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] PARAMOUNT ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37574
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] PLAY TV SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37657
+
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] PRIME BOX BRAZIL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37196
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] PRIME BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37054
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] PRIME BOX BRAZIL ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37531
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR]  RECORD SP  HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/40474
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD SP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37704
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD HD¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37627
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/40785
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD DF HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37705
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD CAMPINAS  HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/40471
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD NORDESTE  HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/40473
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] REDE TV  SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37638
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] REDE VIDA
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37061
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SBT SP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37625
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SPACE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37199
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SPACE
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37037
+
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37239
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37019
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] STUDIO UNIVERSAL ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37576
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SYFY HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37240
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SYFY HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37550
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SYFY SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37027
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SYFY SD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37566
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TBS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37203
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TBS
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37040
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TBS ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37567
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TCM ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37569
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37204
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE ACTION HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37402
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE ACTION
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37060
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE ACTION ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37410
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37205
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE CULT HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37409
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE CULT
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37067
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE CULT ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37407
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37206
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE FUN HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37403
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE FUN
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37082
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE FUN  SD¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37408
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37207
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE PIPOCA HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37404
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37064
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37208
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE PREMIUM HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37405
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37116
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37209
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE TOUCH HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37406
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TELECINE TOUCH
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37063
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TLC HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37241
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TLC HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37561
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TNT HD¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37679
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TNT
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37038
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TNT SERIES HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37211
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TNT SERIES HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37559
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TNT SERIES
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37039
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TOONCAST HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37571
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TOONCAST ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37565
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TRAVEL BOX BRAZIL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37212
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TRAVEL BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37033
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TV APARECIDA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/27675
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TV NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37214
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TV NOVO TEMPO  SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37664
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TV RA TIM BUM
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37242
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TV RA TIM BUM
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37028
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TV RATIMBUM HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37615
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37215
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37085
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] VH1 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37216
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] VH1
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37053
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] VIVA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37217
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] VIVA SD¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37084
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] WARNER CHANNEL HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37558
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37218
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] WARNER CHANNEL SD¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37078
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] WOOHOO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37243
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] WOOHOO
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37021
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] ZOOMO HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37614
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] GLOBO  ES SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37706
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TLC
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/38225
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TNT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/38636
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] PLAY TV SD¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/38658
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NATGEO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/38664
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] IDEAL TV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/38675
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] REDE TV  HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/40476
+
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] TVIDEONEWS
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/40803
+
+
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] NSC FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/46872
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CNN BRASIL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/58102
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CNN BRASIL
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/58101
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/57937
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD PARANA HD 
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/57939
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD MANAUS HD*****
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59201
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD SP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59202
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59203
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD DF HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59204
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD BH HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59205
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD TV ITAPOAN HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59206
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD TV PA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59207
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD TV GO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59210
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RECORD TV RS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59211
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] Record RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/65029
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] REDE TV  SD.
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/57769
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SBT SP HD.
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/57772
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SBT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/58852
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SBT RJ SD²
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59709
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SBT RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59710
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SBT RJ FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59711
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RedeTV! SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59712
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RedeTV! HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59713
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] Band RJ SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59714
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] Band RJ FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59715
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] Band RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59716
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] Band SP SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59717
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] Band SP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59718
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BAND SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59719
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BAND HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59720
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BAND RJ SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59721
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BAND RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59722
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BAND SP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59723
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] BAND CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59724
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SBT CIDADE VERDE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59725
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SBT ES HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59726
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SBT SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59727
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SBT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59728
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] Rede TV RJ
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59731
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] Rede TV SP
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59732
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RedeTV HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59733
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] RedeTV SD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59734
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] Sbt HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59735
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] Sbt SD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59736
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SBT PR SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/65024
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] SBT PR HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/65028
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MAPA CORONA VIRUS
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/59450
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] H2 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/69228
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] H2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/69229
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] Pai Eterno Sd
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/69311
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CGTN SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/69333
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CNN Internacional SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/69334
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DW (Deutsch+) Sd
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/69335
+
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] Film & Arts Sd
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/69337
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] Futura Sd¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/69338
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO POP SD¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/69339
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO XTREME SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/69340
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] HBO+ SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/69341
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MAIS GLOBOSAT SD¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/69342
+
