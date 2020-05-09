@@ -8,4 +8,47 @@ https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/5028/brand.gif?itok=bO-w4Sr7" group-title="CANAIS:",A&E HD
 http://maxptv.net:8080/live/morgana/morgana/236.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/5028/brand.gif?itok=bO-w4Sr7" group-title="CANAIS:",A&E HD
-http://a.srvbr.me:8880/138906/138906%2F4203
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://a.srvbr.me:8880/138906/138906%2F4203
+
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] A&E HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37219
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] A&E HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37555
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] A&E
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37029
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] A&E ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37577
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37145
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY H&H
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37117
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY CHANNEL HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37589
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37024
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY CHANNEL ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37586
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY CIVILIZATION HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37596
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY CIVILIZATION ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37585
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY H&H HD ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37590
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] DISCOVERY H&H ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37587
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FX HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37165
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FX
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37080
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] FX ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37580
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37177
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MEGAPIX HD¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37551
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MEGAPIX
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37068
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] MEGAPIX  ¹
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/37570
+#EXTINF:-1,[B][COLOR fuchsia][B][/B][/COLOR] CNN BRASIL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR lime] IPTV-PLAY[/COLOR][/B]&streamtype=TSDOWNLOADER&ampl;url=http://srvuhd.top:80/smart02/smart02/58102
