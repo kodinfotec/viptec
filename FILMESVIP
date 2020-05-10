@@ -24,4 +24,12 @@
 <fanart></fanart>
 <info></info>  
 </channel>
+  
+  <channel>
+<name>FILMES 4K</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/012</externallink>
+<fanart></fanart>
+<info></info>  
+</channel>
 
