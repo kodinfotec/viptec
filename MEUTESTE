@@ -21,3 +21,10 @@
 <genre>TERROR, THRILLER</genre>
 </item>
 </items>
+
+<item>
+<title>[B]EP 01 - [COLOR yellow] [/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OkuK3ZNKKoJfJOmNRKR2A_jZAwBAhO4Y/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8nqFo9medoM5ZlbeGzPHkxnG9ST.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xSiYoOlB78QOPSPXz4vn2GHc6uY.jpg</fanart>
+</item>
