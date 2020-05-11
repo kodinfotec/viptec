@@ -2,34 +2,10 @@
 <layoutype>thumbnail</layoutype>
 06.05.2020
 <items>
-
-  <item>
-<title>[B]EP 01 - [COLOR yellow] [/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OkuK3ZNKKoJfJOmNRKR2A_jZAwBAhO4Y/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8nqFo9medoM5ZlbeGzPHkxnG9ST.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/xSiYoOlB78QOPSPXz4vn2GHc6uY.jpg</fanart>
-</item>
-
+  
 <item>
 <title>[B]EP 02 - [COLOR yellow] [/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B8EX_19MHXcNXp5qk5u9_wAY0b8ZUx7p/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8nqFo9medoM5ZlbeGzPHkxnG9ST.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/xSiYoOlB78QOPSPXz4vn2GHc6uY.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR white]APANHADOR DE PESADELOS [COLOR tomato](2020) [/B][COLOR lime]Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ED6E08FA164172D0ABDC170F71BB5AEF22BCD9E6</link>
-<thumbnail>https://image.tmdb.org/t/p/original/eflBDSsJbe1Zy2CcOwWoK2XdX6r.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rfTeoPGfdN8z2wXCskheq4A4ODg.jpg</fanart>
-<info>Neste aterrorizante thriller de terror, Gail (Radha Mitchell, Silent Hill) é forçada a entrar em acordo com Josh, seu novo enteado, em uma remota casa de campo. Depois de roubar um talismã maligno de um vizinho misterioso, Josh tem sonhos sinistros de sua mãe morta – que ordena que Josh assassine Gail. Quando o pai de Josh (Henry Thomas, “A Assombração da Casa da Colina”) retorna, ele e Gail suspeitam que seu filho tenha sido possuído por um espírito antigo e sedento de sangue. É tarde demais para salvar a vida de Josh – ou a deles?</info>
-<genre>TERROR, THRILLER</genre>
-</item>
-</items>
-
-<item>
-<title>[B]EP 01 - [COLOR yellow] [/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OkuK3ZNKKoJfJOmNRKR2A_jZAwBAhO4Y/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/8nqFo9medoM5ZlbeGzPHkxnG9ST.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xSiYoOlB78QOPSPXz4vn2GHc6uY.jpg</fanart>
 </item>
