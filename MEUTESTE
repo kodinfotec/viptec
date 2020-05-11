@@ -2,15 +2,20 @@
 <layoutype>thumbnail</layoutype>
 06.05.2020
 <items>
+
+  <item>
+<title>[B]EP 01 - [COLOR yellow] [/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OkuK3ZNKKoJfJOmNRKR2A_jZAwBAhO4Y/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8nqFo9medoM5ZlbeGzPHkxnG9ST.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xSiYoOlB78QOPSPXz4vn2GHc6uY.jpg</fanart>
+</item>
+
 <item>
-<title>[B][COLOR gold]FILMES [COLOR lime]TORRENT [COLOR white]LANÇAMENTOS [COLOR tomato]**2020**[COLOR white]Infotec-IPTV[/COLOR][/B]</title>
-<link>http://VAZAJADAQUI</link>
-<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
-<fanart>https://i.imgur.com/s25oMKq.png</fanart>
-<info>Filme Torrent Legendados e Dublados ANO 2020</info>
-<info2>A instalação do Plugin Elementum, Universal. Disponivel no site: https://infotec-kodi-online.webnode.com/ ou https://kodinfonline.weebly.com/ </info2>
-<genre>ALL</genre>
-</title>
+<title>[B]EP 02 - [COLOR yellow] [/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B8EX_19MHXcNXp5qk5u9_wAY0b8ZUx7p/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/8nqFo9medoM5ZlbeGzPHkxnG9ST.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xSiYoOlB78QOPSPXz4vn2GHc6uY.jpg</fanart>
+</item>
 
 <item>
 <title>[B][COLOR white]APANHADOR DE PESADELOS [COLOR tomato](2020) [/B][COLOR lime]Dublado[/COLOR]</title>
