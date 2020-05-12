@@ -3,6 +3,13 @@
 09.05.2020 RDC
 
 #EXTM3U
+#EXTINF:-1,[B][COLOR fuchsia][B]FIME[/B][/COLOR] THE MONTAIN 2
+https://cloudfront.tubi.video/2a8ca277-60cc-42c4-9859-c971ab298ec7/snur6guk/stream.m3u8
+#EXTINF:8061,The Mountain II
+https://cloudfront.tubi.video/2a8ca277-60cc-42c4-9859-c971ab298ec7/snur6guk/stream.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.0tUhuLWajeMaRK8iRMY58AHaHa?pid=Api&rs=1" group-title="CANAIS:",CNN DIGITAL HD
 https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/5028/brand.gif?itok=bO-w4Sr7" group-title="CANAIS:",A&E HD
