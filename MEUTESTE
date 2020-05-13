@@ -1,18 +1,47 @@
-<?xml version="1.0" encoding="UTF8" standalone="no" ?>
-<layoutype>thumbnail</layoutype>
-06.05.2020
+<?xml version="1.0" encoding="utf-8"?>
+13.05.2020
 <items>
-  
+
 <item>
-<title>[COLOR white]THE MOUNTAIN 2[COLOR yellow](2016)[/COLOR]</title>
-<link>https://cloudfront.tubi.video/2a8ca277-60cc-42c4-9859-c971ab298ec7/snur6guk/stream.m3u8</link>
-<thumbnail>https://image.tmdb.org/t/p/w1280/zlUgdj90WoRoOYokRKNWnWYbINV.jpg</thumbnail>
+<title>[B][COLOR gold]FILMES [COLOR lime]ONLINE [COLOR white]ORIGINAIS [COLOR gold]ALL [COLOR white]Infotec-IPTV[/COLOR][/B]</title>
+<link>http://VAZAJADAQUI</link>
+<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
+<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
+<info>
+Filme Online Audios originais legendas apenas con plugin de legendas.
+site:
+https://infotec-kodi-online.webnode.com/
+https://kodinfonline.weebly.com/
+</info>
+<genre>ALL</genre>
 </item>
 
-  
 <item>
-<title>[B]EP 02 - [COLOR yellow] [/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B8EX_19MHXcNXp5qk5u9_wAY0b8ZUx7p/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/8nqFo9medoM5ZlbeGzPHkxnG9ST.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/xSiYoOlB78QOPSPXz4vn2GHc6uY.jpg</fanart>
+<title>[B][COLOR white]THE MOUNTAIN 2 [COLOR yellow](2016) [COLOR lime]Leg. [/B][/COLOR]</title>
+<link>https://cloudfront.tubi.video/2a8ca277-60cc-42c4-9859-c971ab298ec7/snur6guk/stream.m3u8</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/zlUgdj90WoRoOYokRKNWnWYbINV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wTWFp5huVcH9pu8RkVwsn1fZ1pS.jpg</fanart>
+<info>Conta a história de um esquadrão clandestino de forças especiais; indicativo de chamada 'Storm Bringer'. Após os eventos do primeiro filme, Bekir e Oguz, improváveis melhores amigos, se inscreveram no mundialmente famoso treinamento das forças especiais turcas perpetuamente cansativas. Sua primeira missão começa seis anos depois - para se infiltrar na área mais bárbara do Iraque moderno para uma missão de resgate. (e 16 - Estimado 16 Anos)</info>
+<genre>DRAMA, GUERRA</genre>
 </item>
+
+
+<item>
+<title>[B][COLOR white]FORGET ME NOTE [COLOR gold](2009) [COLOR lime]Leg.[/B][/COLOR]</title>
+<link>https://cloudfront.tubi.video/f60b836f-88d2-4eba-a090-88aab8417831/p2337ked/stream.m3u8</link>
+<thumbnail>https://image.tmdb.org/t/p/original/u64KHNZvLImlb3Tm4Ag6sgMJNcu.jpg</thumbnail>
+<fanart></fanart>
+<info>Enquanto sandy popular se prepara para a semana de formatura, seus amigos começam a desaparecer um por um, enquanto um espírito vingativo tenta acertar as contas.</info>
+<genre>HORROR, ROMANCE, THRILLER</genre>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+</items>
