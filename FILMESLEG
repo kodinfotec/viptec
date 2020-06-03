@@ -1,4 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-#EXTINF:-1 tvg-logo="" group-title="FILMES" ,[COLOR orange]MP4[/COLOR] | [COLOR salmon]NOVOS[/COLOR] | [COLOR gold] (2019)[/COLOR]
-#EXTM3U
+
+<item>
+<title>messias teste</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rmKkPnkI4NhdkpmQGS246UcZvgjcxbX9/view</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR white]PRESSAGIO [COLOR gold](2020) [COLOR lime]Dub.[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ubjru_hbo4WIxftoqKAwJz4CR-rRxW1d/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7fI1qeXSOB1j2JTclt5nuEddgXj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/prnq2ONhqo9Tga7dOMZKgFJMofs.jpg</fanart>
+<info>
+Presságio (2020)
+28/05/2020
+Thriller, Crime
+1h 56m
+Sinopse
+Uma policial novata e um detetive investigam o assassinato de uma jovem. A melhor amiga da vítima é a principal suspeita.
+</info>
+</item>
 
