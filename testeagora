@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF8" standalone="no" ?>
 <layoutype>thumbnail</layoutype>
 03.06.2020
-<channels></channels>
-<channel>
+
 <item>
 <title>[B][COLOR gold]FILMES [COLOR lime]TORRENT [COLOR white]LANÇAMENTOS [COLOR gold] 2020 [COLOR white]Infotec-IPTV[/COLOR][/B]</title>
 <link>http://VAZAJADAQUI</link>
@@ -32,7 +31,7 @@ Sinopse
 O filme segue um grupo de médicos, guardas e prisioneiros violentos na ilha de St Leonards, no Atlântico Norte, que devem se unir quando uma doença galopante ameaça as unidades de alta segurança.
 [/B]</info>
 </item>
-</channel>
+<channels>
 <channel>
 <name>[B][COLOR orange]PROXIMA[/COLOR][/B]</name>
 <thumbnail></thumbnail>
