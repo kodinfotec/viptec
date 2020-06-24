@@ -1,37 +1,38 @@
 <?xml version="1.0" encoding="UTF8" standalone="no" ?>
 <layoutype>thumbnail</layoutype>
-03.06.2020
 
-<item>
-<title>[B][COLOR gold]FILMES [COLOR lime]TORRENT [COLOR white]LANÇAMENTOS [COLOR gold] 2020 [COLOR white]Infotec-IPTV[/COLOR][/B]</title>
-<link>http://VAZAJADAQUI</link>
-<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
-<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
-<info>
-Filme Torrent Legendados e Dublados ANO 2020
-A instalação do Plugin Elementum, Universal. Disponivel no 
-site:
-https://infotec-kodi-online.webnode.com/
-https://kodinfonline.weebly.com/
-</info>
-<genre>ALL</genre>
-</item>
+<channels>
+</channels>
+<channel> 
+<name>[B]MANIFEST[/B] -  KING BR </name>****************** <item> 
+<title>[B][COLOR lime]BAIXE O ELEMENTUM PARA RODAR AS SERIES[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title> 
+<link>https://</link> 
+<thumbnail>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2019/10/Manifest-1%C2%AATemporada.jpg</thumbnail> 
+<fanart>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2019/10/Manifest-1%C2%AATemporada.jpg</fanart> 
+<info>[ BY EVERSON SANTOS ]
 
-<item>
-<title>[B][COLOR gold]Abdução[/COLOR] 2019[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50558ecd5d60d83cdae228761640c09b07f7fff9&dn;$texto=ELEMENTUM - Abducao [720p] [DUAL]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ca260e463308999120ecfccfc554d66559c41fb&dn;$texto=ELEMENTUM - Abducao [1080p-FULL] [DUAL]</link>
-<thumbnail>https://image.tmdb.org/t/p/original/oBlOPZnyOzIboyhjs51h2QGpWr8.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/uqAPjBkPn7J5IbhzdahBQymsXiJ.jpg</fanart>
-<info></info>
-</item>
 
-<item>
-<title>[B][COLOR white]ABDUÇÃO 2COLOR gold](2019) [COLOR lime]Dual.[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ca260e463308999120ecfccfc554d66559c41fb</link>
-<thumbnail>https://image.tmdb.org/t/p/original/oBlOPZnyOzIboyhjs51h2QGpWr8.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/uqAPjBkPn7J5IbhzdahBQymsXiJ.jpg</fanart>
-<info>[B]
 
-[/B]</info>
+     [B]SERIE SEM TRAVAMENTO[/B] 
+
+Na série Manifest 1ª Temporada, Um avião desaparece do radar e retorna depois 5 anos, quando o mesmo já era considerado perdido no fundo do mar. O tempo não passou para os passageiros do avião, enquanto que para seus familiares foram os piores anos de suas vidas. A série irá acompanhar a vida pessoal destes passageiros, assim como o mistério que os envolvem.</info> </item> <item>
+
+<title>[B]MANIFEST 1-TEMPORADA  - [COLOR yellow](SERIE COMPLETA-)[/COLOR] - [COLOR lime](720p)[/COLOR] - [/B]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SRFNICB7JJXQ2WNZD7ZYUIKRUITLTMHK&dn=Manifest%201%C2%AA%20Temporada%20Completa%202019%20%5B720p%5D%20%5BWEB-DL%5D%20%5BDUAL%5D</link>
+
+<thumbnail>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2019/10/Manifest-1%C2%AATemporada.jpg</thumbnail>
+
+<fanart>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2019/10/Manifest-1%C2%AATemporada.jpg</fanart>
+
+<info>[ BY EVERSON SANTOS ]
+
+
+
+     [B]SERIE SEM TRAVAMENTO[/B] 
+
+Na série Manifest 1ª Temporada, Um avião desaparece do radar e retorna depois 5 anos, quando o mesmo já era considerado perdido no fundo do mar. O tempo não passou para os passageiros do avião, enquanto que para seus familiares foram os piores anos de suas vidas. A série irá acompanhar a vida pessoal destes passageiros, assim como o mistério que os envolvem.</info>
+
+<genre></genre>
+
 </item>
