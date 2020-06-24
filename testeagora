@@ -15,7 +15,7 @@
 <channel>
 <name>[B]OS 100[/B] -  INFOTEC-IPTV </name>****************** <item>
 <title>[B]1ª TEMPORADA [COLOR yellow]2014[/COLOR][/B]</title>
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:1ee62f1232890ff65323fe8c6eea49da6985ca56&dn=Os%20100%201%C2%AA%20Temporada%20completa%20dublada%20e%20legendada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ee62f1232890ff65323fe8c6eea49da6985ca56&dn=Os%20100%201%C2%AA%20Temporada%20completa%20dublada%20e%20legendada</link>
 <thumbnail>https://image.tmdb.org/t/p/original/1PhrhZgmhSjqATOrJW6eoU0Gqa9.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zvZeHqaN1QH43qM622oDQF10VTi.jpg</fanart>
 <info>Os 100 (2014)
@@ -29,7 +29,7 @@ Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes d
 </item>
 <item>
 <title>[B]2ª TEMPORADA [COLOR yellow]2014[/COLOR][/B]</title>
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:de456341fa8debe24a874252578740a67b4716e7&dn=Os%20100%202%C2%AA%20Temporada%20completa%20dublada%20e%20legendada%20%5B720p%5D%20%5B180p%5D</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de456341fa8debe24a874252578740a67b4716e7&dn=Os%20100%202%C2%AA%20Temporada%20completa%20dublada%20e%20legendada%20%5B720p%5D%20%5B180p%5D</link>
 <thumbnail>https://image.tmdb.org/t/p/original/uYt6XfKSKJsrAdWT23nwjohcHCk.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zvZeHqaN1QH43qM622oDQF10VTi.jpg</fanart>
 <info>Os 100 (2014)
