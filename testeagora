@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF8" standalone="no" ?>
 <layoutype>thumbnail</layoutype>
 16.05.20202
-
-<channels></channels>
-<channel><name>[B]INFOTEC[/B]-IPTV </name>****************** <item>
-<title>[B] [COLOR yellow]SERIES[/COLOR] | [COLOR lime]TORRENT[/COLOR][/B]</title>
-<link>https://</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-<channels></channels>
-
-<channels></channels>
+<channels> </channels>
 <channel>
 <item><name>[B]OS 100[/B] -  INFOTEC-IPTV </name>****************** <item>
 <title>[B]1ª TEMPORADA [COLOR yellow]2014[/COLOR][/B]</title>
