@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF8" standalone="no" ?>
 <layoutype>thumbnail</layoutype>
 16.05.20202
-<?xml version="1.0" encoding="UTF8" standalone="no" ?>
-<layoutype>thumbnail</layoutype>
-16.05.20202
 
-<channels> </channels>
-<channel> <name>[B]INFOTEC[/B]-IPTV </name>****************** <item>
+<channels></channels>
+<channel><name>[B]INFOTEC[/B]-IPTV </name>****************** <item>
 <title>[B] [COLOR yellow]SERIES[/COLOR] | [COLOR lime]TORRENT[/COLOR][/B]</title>
 <link>https://</link>
 <thumbnail></thumbnail>
@@ -14,11 +11,11 @@
 <info></info>
 <genre></genre>
 </item>
-<channels> </channels>
+<channels></channels>
 
-<channels> </channels>
+<channels></channels>
 <channel>
-<item> <name>[B]OS 100[/B] -  INFOTEC-IPTV </name>****************** <item>
+<item><name>[B]OS 100[/B] -  INFOTEC-IPTV </name>****************** <item>
 <title>[B]1ª TEMPORADA [COLOR yellow]2014[/COLOR][/B]</title>
 <link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:1ee62f1232890ff65323fe8c6eea49da6985ca56&dn=Os%20100%201%C2%AA%20Temporada%20completa%20dublada%20e%20legendada </link>
 <thumbnail>https://image.tmdb.org/t/p/original/1PhrhZgmhSjqATOrJW6eoU0Gqa9.jpg</thumbnail>
