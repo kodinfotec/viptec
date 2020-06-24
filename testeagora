@@ -6,8 +6,8 @@
 16.05.20202
 
 <channels> </channels>
-<channel> <item>
-<title>[B] [COLOR yellow]SERIES[/COLOR] | [COLOR lime]TORRENT[/COLOR] | [COLOR white]INFOTEC-IPTV [/COLOR][/B]</title>
+<channel> <name>[B]INFOTEC[/B]-IPTV </name>****************** <item>
+<title>[B] [COLOR yellow]SERIES[/COLOR] | [COLOR lime]TORRENT[/COLOR][/B]</title>
 <link>https://</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -32,6 +32,7 @@ Sinopse
 Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.</info>
 <genre></genre>
 </item>
+  
 <item>
 <name>[B]OS 100[/B] -  INFOTEC-IPTV </name>****************** <item>
 <title>[B]2ª TEMPORADA [COLOR yellow]2014[/COLOR][/B]</title>
@@ -47,4 +48,3 @@ Sinopse
 Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.</info>
 <genre></genre>
 </item>
-<channels> </channels>
