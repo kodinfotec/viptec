@@ -1,44 +1,11 @@
 <?xml version="1.0" encoding="UTF8" standalone="no" ?>
 <layoutype>thumbnail</layoutype>
 
-<channels> </channels><channel> <item>
-<title>        [B] [COLOR yellow] BAIXE O ELEMENTUM PARA RODAR AS SERIES[/COLOR][/B]   </title>
-<link>https://</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item> <name>[B][COLOR yellow]APROVEITE NOSSAS SERIES [/COLOR][/B] -  KING BR </name>****************** <item> <title>[B]       [/B][COLOR yellow][B][/COLOR][/B]</title> <link>https://</link> <thumbnail></thumbnail> <fanart></fanart> <info> INSTALE O ELEMENTUM PARA ODAR NOSSAS SERIES</info> </item> <channels> </channels>
-
-
-<channels> </channels>
-<channel>
-<name>[B]OS 100[/B] -  INFOTEC-IPTV </name>****************** <item>
-<title>[B]1ª TEMPORADA [COLOR yellow]2014[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ee62f1232890ff65323fe8c6eea49da6985ca56&dn=Os%20100%201%C2%AA%20Temporada%20completa%20dublada%20e%20legendada%20%5B720p%5D%20%5B180p%5D</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1PhrhZgmhSjqATOrJW6eoU0Gqa9.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/zvZeHqaN1QH43qM622oDQF10VTi.jpg</fanart>
-<info>Os 100 (2014)
-TV-14
-Sci-Fi & Fantasy, Drama, Action & Adventure
-43m
-A sobrevivência não é quem você é. É quem você se torna.
-Sinopse
-Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.</info>
-<genre></genre>
-</item>
 <item>
-<title>[B]2ª TEMPORADA [COLOR yellow]2014[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de456341fa8debe24a874252578740a67b4716e7&dn=Os%20100%202%C2%AA%20Temporada%20completa%20dublada%20e%20legendada%20%5B720p%5D%20%5B180p%5D</link>
-<thumbnail>https://image.tmdb.org/t/p/original/uYt6XfKSKJsrAdWT23nwjohcHCk.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/zvZeHqaN1QH43qM622oDQF10VTi.jpg</fanart>
-<info>Os 100 (2014)
-TV-14
-Sci-Fi & Fantasy, Drama, Action & Adventure
-43m
-A sobrevivência não é quem você é. É quem você se torna.
-Sinopse
-Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.</info>
-<genre></genre>
+<title>[B][COLOR white]projeto gemini [COLOR gold](2009) [/B][COLOR lime]Dual.[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B247B3F1F9D36A6534A8525C342A6281BF8F0876&amp;dn=Projeto%20Gemini%202019%20(720p%20-%20BluRay)%20Acesse%20o%20ORIGINAL%26amp%3Btr%3Dudp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Fexplodie.org%3A6969%2Fannounce%26amp%3Btr%3Dhttp%3A%2F%2Fglotorrents.pw%3A80%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Ftracker.piratepublic.com%3A1337%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Ftracker.prq.to%2Fannounce%26amp%3Btr%3Dtracker.zerotracker.com%3A2710%2Fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/original/sXwshSzVsMvpJpGxvuPGsRxGzpV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lAz6kaoYCbOLl6cnREVsfqPgrz.jpg</fanart>
+<info>Um vírus mortal se espalhou por todo o planeta, fazendo com que ninguém seja confiável. Danny (Lou Taylor Pucci) e seu irmão Brian (Chris Pine), Bobby (Piper Perabo) e Kate (Emily VanCamp) percorrem as estradas do oeste americano, rumo a uma praia isolada ligada à infância dos irmãos. Eles acreditam que lá estarão seguros. Só que no caminho o carro quebra, o que faz com que fiquem à beira de uma estrada abandonada. Logo eles encontram um carro estacionado, onde um homem precisa de ajuda para conseguir uma cura para sua filha, que está infectada. É o início de uma jornada onde eles precisam enfrentar não apenas o vírus mortal, mas também a desconfiança existente entre eles em uma luta desesperada para sobreviver.</info>
+<genre>AÇÃO, DRAMA, TERROR, FICÇÃO CIENTÍFICA, THRILLER</genre>
 </item>
-<channels> </channel
