@@ -36,16 +36,14 @@ Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes d
 <genre></genre>
 </item>
  <channels> </channels>
- <item>
-<name>[B]7ª TEMPORADA [COLOR yellow]2020[/COLOR][/B]</name>
+ <channel>
+<name>[B]7ª TEMPORADA [COLOR yellow]2020[/COLOR][/B]</name>*************************<item>
 <externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/OS100T07</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/tEUw7zQnFadJ2zwTnoAJe7kvoCZ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zvZeHqaN1QH43qM622oDQF10VTi.jpg</fanart>
- <info></info>
 </item>
 <channels> </channels>
-
-
+  
 <channels> </channels>
 <channel> 
 <name>[B] BREAKING BAD[/B] |  INFOTEC-IPTV </name>****************** <item>
