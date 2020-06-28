@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<channels> </channels><channel> <item>
+<title>        [B] [COLOR yellow] BAIXE O G-DRIVE PARA RODAR AS SERIES[/COLOR][/B]   </title>
+<link>https://</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item> <name>[B][COLOR yellow]AS MELHORES SERIES [/COLOR][/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
+<title>[B]       [/B][COLOR yellow][B][/COLOR][/B]</title> 
+<link>https://</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ <info> INSTALE O G-DRIVE PARA DODAR AS SERIES</info>
+ </item>
+ <channels> </channels>
 
 <channels> </channels>
 <channel> 
 <name>[B]MANIFEST[/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item> 
 <title>[B]1ª TEMPORADA | [COLOR yellow]ANO 2018[/COLOR] | [COLOR lime](HD | HDTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pUrLqzto5WmYAUWiKQqbpv8p8GVZcw-v/view?usp=sharing</limk> link gdrive
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</limk>
 <thumbnail>https://image.tmdb.org/t/p/original/r737IHykLHH2Ixml2egtpH4iMl0.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hQAlCjlTEAfp4iHNepTTa8gyanx.jpg</fanart>
 <info>[ BY [COLOR orange]INFOTEC-IPTV[/COLOR] ]
