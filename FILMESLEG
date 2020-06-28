@@ -1,77 +1,44 @@
 <?xml version="1.0" encoding="UTF8" standalone="no" ?>
 <channels> </channels><channel> <item>
-<title>        [B] [COLOR yellow] BAIXE O G-DRIVE PARA RODAR AS SERIES[/COLOR][/B]   </title>
+<title>        [B] [COLOR yellow] BAIXE O ELEMENTUM PARA RODAR AS SERIES[/COLOR][/B]   </title>
 <link>https://</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 <genre></genre>
-</item> <name>[B][COLOR yellow]AS MELHORES SERIES [/COLOR][/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
+</item> 
+<name>[B][COLOR yellow]APROVEITE NOSSAS SERIES [/COLOR][/B] -  KING BR </name>****************** <item>
 <title>[B]       [/B][COLOR yellow][B][/COLOR][/B]</title> 
-<link>https://</link>
- <thumbnail></thumbnail>
- <fanart></fanart>
- <info> INSTALE O G-DRIVE PARA DODAR AS SERIES</info>
- </item>
+<link>https://</link> <thumbnail></thumbnail> 
+<fanart></fanart>
+<info> INSTALE O ELEMENTUM PARA ODAR NOSSAS SERIES</info>
+</item> <channels> </channels>
+
+
+<channels> </channels><channel> 
+<name>[B] BREAKING BAD[/B] -  KING BR </name>****************** <item>
+<title>[B]1 TEMPORADA[/B][COLOR yellow][B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c1f61689123b32edd923fc86d143bc8100769e4e&dn=Breaking+Bad+2008+-+1%C2%AA+Temporada+Completa+%5B4k%5D+WWW.BLUDV.COM</link>
+<thumbnail>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2019/08/preview_Breaking-Bad.jpg</thumbnail> 
+<fanart>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2019/08/preview_Breaking-Bad.jpg</fanart>
+<info>>[ BY EVERSON SANTOS ]
+    [B]SERIE SEM TRAVAMENTO[/B] 
+ 
+Breaking Bad (A Química do Mal) primeira temporada dublada completa. Bryan Cranston, premiado com o Emmy, é a estrela da série no papel de Walter White, um professor de química que leva uma vida difícil e luta para pagar as contas sustentando a esposa (Anna Gunn) e o filho, que tem dificuldades físicas (RJ Mitte). Sua vida inteira muda diante de um diagnóstico perturbador: câncer do pulmão sem possibilidade de cura. Com poucos anos de vida e nada mais a perder, Walter usa seus conhecimentos de química para fazer e vender metanfetamina com um dos seus ex-alunos (Aaron Paul). Seus negócios crescem e as mentiras também, mas nada detém Walter em sua missão de assegurar o futuro da família após a sua morte, mesmo que ele tenha que arriscar a vida da família toda.</info>
+</item> 
 <item>
- <title>[COLOR gold][B] MANIFEST -1ª Temporada - INFOTEC-IPTV[/B][/COLOR]</title>
- <link>http:// nada ainda=</limk>
- <thumbnail>https://image.tmdb.org/t/p/original/r737IHykLHH2Ixml2egtpH4iMl0.jpg</thumbnail>
- <fanart>https://image.tmdb.org/t/p/original/hQAlCjlTEAfp4iHNepTTa8gyanx.jpg</fanart>
- <info>[ BY [COLOR orange]INFOTEC-IPTV[/COLOR] ] [B]SERIE TOP D +[/B]
- Manifest: O Mistério do Voo 828 (2018)
- TV-14
- Drama, Mistério
- 42m
- Sinopse
- Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.
-</info>
- </item> 
-<item> 
-<title>[COLOR gold][B]2ª Temporada[/B][/COLOR] - [COLOR lime][B]EP. 2[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iNj5pbCOqAtU-mIQgV0fFlGw9U7DIAZg/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
-<info>></info>
-</item>
-<item>
-<title>[COLOR gold][B]2ª Temporada[/B][/COLOR] - [COLOR lime][B]EP. 3[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gTRpKsNoxl0b-z5oVa5GBSEc-HsMQnIm/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
-<info>></info>
-</item>
-<item>
-<title>[COLOR gold][B]2ª Temporada[/B][/COLOR] - [COLOR lime][B]EP. 4[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15cF1TjXPPHUTaKsA8_1ZK3SgDY5r-Eq9/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
-<info>></info>
-</item>
-<item>
-<title>[COLOR gold][B]2ª Temporada[/B][/COLOR] - [COLOR lime][B]EP. 5[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1o3nAOqFTwI0dUy-9gSYDLmsOPsTBzYwY/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
-<info>></info>
-</item>
-</channel>
-<channels> </channels>
-<channels> </channels>
-<channel> 
-<name>[B]TESTE[/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item> 
-<title>[B]1ª TEMPORADA | [COLOR yellow]ANO 2018[/COLOR] | [COLOR lime](HD | HDTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</limk>
-<thumbnail>https://image.tmdb.org/t/p/original/r737IHykLHH2Ixml2egtpH4iMl0.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hQAlCjlTEAfp4iHNepTTa8gyanx.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SB4B-HVxQVL8JsO-3b_9-E8H33i-Cd0H/view$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ee62f1232890ff65323fe8c6eea49da6985ca56&dn=OS%20100%201%C2%AA%20TEPORADA%20amp%3Btr%3Dudp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Fexplodie.org%3A6969%2Fannounce%26amp%3Btr%3Dhttp%3A%2F%2Fglotorrents.pw%3A80%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Ftracker.piratepublic.com%3A1337%2Fannounce%26amp%3Btr%3Dudp%3A%2F%2Ftracker.prq.to%2Fannounce%26amp%3Btr%3Dtracker.zerotracker.com%3A2710%2Fannounce$$lsname=[COLOR orange]HD[/COLOR] - link 3</link>
+<thumbnail>https://image.tmdb.org/t/p/original/1PhrhZgmhSjqATOrJW6eoU0Gqa9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zvZeHqaN1QH43qM622oDQF10VTi.jpg</fanart>
 <info>[ BY [COLOR orange]INFOTEC-IPTV[/COLOR] ]
 [B]SERIE TOP D +[/B]
-Manifest: O Mistério do Voo 828 (2018)
+Os 100 (2014)
 TV-14
-Drama, Mistério
-42m
+Sci-Fi & Fantasy, Drama, Action & Adventure
+43m
+A sobrevivência não é quem você é. É quem você se torna.
 Sinopse
-Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.
-</info>
+Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.</info>
 </item>
 <channels> </channels>
