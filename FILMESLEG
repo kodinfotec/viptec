@@ -1,21 +1,7 @@
 
 <?xml version="1.0" encoding="UTF8" standalone="no" ?>
 
-<channels> </channels>
-<channel> 
-<name>[B]NOMEXXXXXXXXXXX[/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item> 
-<title>[B]TEMPORADA XXXXXXXXXXXXXXXXXXXX| [COLOR yellow]ANO XXXXXXXXX[/COLOR] | [COLOR lime](HD | HDTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93dccd27c0d161cb21b526d4e1af1da7365a0615&dn=Manifest.S02E01.HDTV.x264-SVA%5brarbg%5d&tr=http%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2720&tr=udp%3a%2f%2f9.rarbg.to%3a2780</link> Link elementum
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pUrLqzto5WmYAUWiKQqbpv8p8GVZcw-v/view?usp=sharing</limk> link gdrive
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[ BY [COLOR orange]INFOTEC-IPTV[/COLOR] ]
-[B]SERIE TOP D +[/B]
 
-</info>
-</item>
-</channel>
-<channels> </channels>
 <channels> </channels>
 <name>[B]FILMES[/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
 <title>It – Capítulo Dois Torrent – 2019 Dublado / Dual Áudio (WEB-DL) 720p e 1080p – Download</title>
