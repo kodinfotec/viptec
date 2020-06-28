@@ -1,45 +1,94 @@
-
 <?xml version="1.0" encoding="UTF8" standalone="no" ?>
 
-
 <channels> </channels>
-<name>[B]FILMES[/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
-<title>It – Capítulo Dois Torrent – 2019 Dublado / Dual Áudio (WEB-DL) 720p e 1080p – Download</title>
-<link>
-sublink:magnet:?xt=urn:btih:92A5D79F5D9412CA2F680A508117D0B86D082BF0&dn=%5bWWW.BLUDV.TV%5d%20It%20-%20Cap%c3%adtulo%20Dois%202019%20%28720p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce#
-sublink:magnet:?xt=urn:btih:B37F62A9310EF1D2960C2E1A07E983447C418600&dn=%5bWWW.BLUDV.TV%5d%20It%20-%20Cap%c3%adtulo%20Dois%202019%20%281080p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMGUzM2YxZTMtMTlkNi00OTI0LTljNTEtZDQzYjQ1Y2ZhZWY3XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_SY1000_SX750_AL_.jpg</thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BMGUzM2YxZTMtMTlkNi00OTI0LTljNTEtZDQzYjQ1Y2ZhZWY3XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_SY1000_SX750_AL_.jpg</fanart>
-<info>Porque a cada 27 anos o mal revisita a cidade de Derry, Maine, o capítulo dois traz os perdedores – que há muito tempo seguiram caminhos separados – juntos como adultos, quase três décadas depois dos eventos do primeiro filme.</info>
-<genre>Terror</genre>
+<channel> 
+<name>[B]MANIFEST[/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item> 
+<title>[B]1ª TEMPORADA | [COLOR yellow]ANO 2018[/COLOR] | [COLOR lime](HD | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pUrLqzto5WmYAUWiKQqbpv8p8GVZcw-v/view?usp=sharing</limk> link gdrive
+<thumbnail>https://image.tmdb.org/t/p/original/r737IHykLHH2Ixml2egtpH4iMl0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hQAlCjlTEAfp4iHNepTTa8gyanx.jpg</fanart>
+<info>[ BY [COLOR orange]INFOTEC-IPTV[/COLOR] ]
+[B]SERIE TOP D +[/B]
+Manifest: O Mistério do Voo 828 (2018)
+TV-14
+Drama, Mistério
+42m
+Sinopse
+Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.
+</info>
 </item>
-<channels> </channels>
-<channels> </channels>
+<item> 
+<title>[B]2ª TEMPORADA | [COLOR yellow]ANO 2020[/COLOR] | [COLOR lime](HD | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</limk>
+<thumbnail>https://image.tmdb.org/t/p/original/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+<info>[ BY [COLOR orange]INFOTEC-IPTV[/COLOR] ]
+[B]SERIE TOP D +[/B]
+</info>
+</item>
 <item>
-<title></title>
-<link>
-sublink:#
-sublink:#
-</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
+<title>[B]EP 01 | [COLOR yellow]Apertem os Cintos[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pUrLqzto5WmYAUWiKQqbpv8p8GVZcw-v/view</link>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
 </item>
-<channels> </channels>
-<channels> </channels>
-
 <item>
-<title>Velozes & Furiosos – Hobbs & Shaw Torrent – 2019 Dublado / Dual Áudio (BluRay) 720p e 1080p e 2160p 4K – Download</title>
-<link>
-sublink:magnet:?xt=urn:btih:7588FF46789E670AF15245F35C17091CC767F98C&dn=%5bWWW.BLUDV.TV%5d%20Velozes%20%26%20Furiosos%20-%20Hobbs%20%26%20Shaw%202019%20%281080p%20-%20BluRay%20-%20x265%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce#
-sublink:magnet:?xt=urn:btih:D2EAC111619ECB7DC1B827D9103F4A04C8440EEE&dn=VelozeseFuriosos.Hobbs.Shaw.2019.TODAS%20AS%20QUALIDADES%20DO%20BLUDV.TV.ac3&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,685,1000_AL_.jpg</thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SY1000_CR0,0,685,1000_AL_.jpg</fanart>
-<info>Desde que se conheceram, em “Velozes & Furiosos 7”, Luke Hobbs (Dwayne Johnson) e Deckard Shaw (Jason Statham) constantemente bateram de frente, não só por inicialmente estarem em lados opostos mas, especialmente, pela personalidade de cada um. Agora, a dupla precisa unir forças para enfrentar Brixton (Idris Elba), um anarquista alterado geneticamente que se tornou uma ameaça biológica global. Para tanto, eles contam com a ajuda de Hattie (Vanessa Kirby), irmã de Shaw, que é também agente do MI6, o serviço secreto britânico.</info>
-<genre>Ação, Aventura></genre>
+<title>[B]EP 02 | [COLOR yellow]Aterrado[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iNj5pbCOqAtU-mIQgV0fFlGw9U7DIAZg/view</link>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
 </item>
-<channels> </channels>
-<channels> </channels>
+<item>
+<title>[B]EP 03 | [COLOR yellow]Horizonte Falso[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gTRpKsNoxl0b-z5oVa5GBSEc-HsMQnIm/view</link>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+</item>
+<item>
+<title>[B]EP 04 | [COLOR yellow]Caixa preta[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15cF1TjXPPHUTaKsA8_1ZK3SgDY5r-Eq9/view</link>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+</item>
+<item>
+<title>[B]EP 05 | [COLOR yellow]Voo Coordenado[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1o3nAOqFTwI0dUy-9gSYDLmsOPsTBzYwY/view</link>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+</item>
+<item>
+<title>[B]EP 06 | [COLOR yellow]Viagem de volta[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14lnnAGoXjBqtmfs8jqPWxqncI_Dsmw2b/view</link>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+</item>
+<item>
+<title>[B]EP 07 | [COLOR yellow]Saída de emergência[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mUx9RqSI17jzFKLyDWgFZPPcm7B8jvy5/view</link>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+</item>
+<item>
+<title>[B]EP 08 | [COLOR yellow]Continue[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B2I3BQgEgN3DXb91TXa9B81qK4MDasdl/view</link>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+</item>
+<item>
+<title>[B]EP 09 | [COLOR yellow]Garrafas de avião[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fbxrKdagjdz1As1hi4aDvJ6sgs42MRnH/view</link>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+</item>
+<item>
+<title>[B]EP 10 | [COLOR yellow]Desvio do curso[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fBGnfcXdNv62TzRZ74AFt8atev2keoWk/view</link>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+</item>
+<item>
+<title>[B]EP 11 | [COLOR yellow]Menores desacompanhados[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1U417UVVj8RCgz_FC0h9vjGA9630LybiS/view</link>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+</item>
+<item>
+<title>[B]EP 12 | [COLOR yellow]Indicativo de Chamada[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CD8RkQDQjr434FX99vBVzeTcoSTpEgyi/view</link>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+</item>
+<item>
+<title>[B]EP 13 | [COLOR yellow]Condições de confeiteiro[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VN-k46j1jMaMgYw8wB5z8EQB6-XkgDw-/view</link>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+</item>
+</channel>
