@@ -13,32 +13,20 @@
  <fanart></fanart>
  <info> INSTALE O G-DRIVE PARA DODAR AS SERIES</info>
  </item>
- <channels> </channels>
-<channels> </channels>
-<channel> 
- 
-<name>[B]MANIFEST[/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item> 
-<title>[B]1ª TEMPORADA | [COLOR yellow]ANO 2018[/COLOR] | [COLOR lime](HD | HDTV)[/COLOR][/B]</title>
-<link>http:// nada ainda=</limk>
-<thumbnail>https://image.tmdb.org/t/p/original/r737IHykLHH2Ixml2egtpH4iMl0.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hQAlCjlTEAfp4iHNepTTa8gyanx.jpg</fanart>
-<info>[ BY [COLOR orange]INFOTEC-IPTV[/COLOR] ]
-[B]SERIE TOP D +[/B]
-Manifest: O Mistério do Voo 828 (2018)
-TV-14
-Drama, Mistério
-42m
-Sinopse
-Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.
+<item>
+ <title>[COLOR gold][B] MANIFEST -1ª Temporada - INFOTEC-IPTV[/B][/COLOR]</title>
+ <link>http:// nada ainda=</limk>
+ <thumbnail>https://image.tmdb.org/t/p/original/r737IHykLHH2Ixml2egtpH4iMl0.jpg</thumbnail>
+ <fanart>https://image.tmdb.org/t/p/original/hQAlCjlTEAfp4iHNepTTa8gyanx.jpg</fanart>
+ <info>[ BY [COLOR orange]INFOTEC-IPTV[/COLOR] ] [B]SERIE TOP D +[/B]
+ Manifest: O Mistério do Voo 828 (2018)
+ TV-14
+ Drama, Mistério
+ 42m
+ Sinopse
+ Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.
 </info>
-</item>
-<item> 
-<title>[COLOR gold][B]2ª Temporada[/B][/COLOR] - [COLOR lime][B]EP. 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pUrLqzto5WmYAUWiKQqbpv8p8GVZcw-v/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
-<info>></info>
-</item>
+ </item> 
 <item> 
 <title>[COLOR gold][B]2ª Temporada[/B][/COLOR] - [COLOR lime][B]EP. 2[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iNj5pbCOqAtU-mIQgV0fFlGw9U7DIAZg/view</link>
