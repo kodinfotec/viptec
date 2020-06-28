@@ -16,6 +16,7 @@
  <channels> </channels>
 <channels> </channels>
 <channel> 
+ 
 <name>[B]MANIFEST[/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item> 
 <title>[B]1ª TEMPORADA | [COLOR yellow]ANO 2018[/COLOR] | [COLOR lime](HD | HDTV)[/COLOR][/B]</title>
 <link>http:// nada ainda=</limk>
@@ -32,75 +33,39 @@ Um avião reaparece cinco anos após ter decolado, mas para os passageiros apena
 </info>
 </item>
 <item> 
-<title>[B]2ª TEMPORADA | [COLOR yellow]ANO 2020[/COLOR] | [COLOR lime](HD | HDTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</limk>
+<title>[COLOR gold][B]2ª Temporada[/B][/COLOR] - [COLOR lime][B]EP. 1[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pUrLqzto5WmYAUWiKQqbpv8p8GVZcw-v/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+<info>></info>
 </item>
-<item>
-<title>[B]EP 01 | [COLOR yellow]Apertem os Cintos[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pUrLqzto5WmYAUWiKQqbpv8p8GVZcw-v/view</link>
-<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
-</item>
-<item>
-<title>[B]EP 02 | [COLOR yellow]Aterrado[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<item> 
+<title>[COLOR gold][B]2ª Temporada[/B][/COLOR] - [COLOR lime][B]EP. 2[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iNj5pbCOqAtU-mIQgV0fFlGw9U7DIAZg/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+<info>></info>
 </item>
 <item>
-<title>[B]EP 03 | [COLOR yellow]Horizonte Falso[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<title>[COLOR gold][B]2ª Temporada[/B][/COLOR] - [COLOR lime][B]EP. 3[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gTRpKsNoxl0b-z5oVa5GBSEc-HsMQnIm/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+<info>></info>
 </item>
 <item>
-<title>[B]EP 04 | [COLOR yellow]Caixa preta[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<title>[COLOR gold][B]2ª Temporada[/B][/COLOR] - [COLOR lime][B]EP. 4[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15cF1TjXPPHUTaKsA8_1ZK3SgDY5r-Eq9/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+<info>></info>
 </item>
 <item>
-<title>[B]EP 05 | [COLOR yellow]Voo Coordenado[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
+<title>[COLOR gold][B]2ª Temporada[/B][/COLOR] - [COLOR lime][B]EP. 5[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1o3nAOqFTwI0dUy-9gSYDLmsOPsTBzYwY/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
-</item>
-<item>
-<title>[B]EP 06 | [COLOR yellow]Viagem de volta[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14lnnAGoXjBqtmfs8jqPWxqncI_Dsmw2b/view</link>
-<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
-</item>
-<item>
-<title>[B]EP 07 | [COLOR yellow]Saída de emergência[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mUx9RqSI17jzFKLyDWgFZPPcm7B8jvy5/view</link>
-<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
-</item>
-<item>
-<title>[B]EP 08 | [COLOR yellow]Continue[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B2I3BQgEgN3DXb91TXa9B81qK4MDasdl/view</link>
-<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
-</item>
-<item>
-<title>[B]EP 09 | [COLOR yellow]Garrafas de avião[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fbxrKdagjdz1As1hi4aDvJ6sgs42MRnH/view</link>
-<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
-</item>
-<item>
-<title>[B]EP 10 | [COLOR yellow]Desvio do curso[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fBGnfcXdNv62TzRZ74AFt8atev2keoWk/view</link>
-<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
-</item>
-<item>
-<title>[B]EP 11 | [COLOR yellow]Menores desacompanhados[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1U417UVVj8RCgz_FC0h9vjGA9630LybiS/view</link>
-<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
-</item>
-<item>
-<title>[B]EP 12 | [COLOR yellow]Indicativo de Chamada[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CD8RkQDQjr434FX99vBVzeTcoSTpEgyi/view</link>
-<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
-</item>
-<item>
-<title>[B]EP 13 | [COLOR yellow]Condições de confeiteiro[/COLOR] | [COLOR lime]Legendado | HDTV)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VN-k46j1jMaMgYw8wB5z8EQB6-XkgDw-/view</link>
-<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+<info>></info>
 </item>
 </channel>
 <channels> </channels>
