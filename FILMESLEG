@@ -108,3 +108,20 @@ Um avião reaparece cinco anos após ter decolado, mas para os passageiros apena
 </item>
 </channel>
 <channels> </channels>
+<channels> </channels>
+<channel> 
+<name>[B]TESTE[/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item> 
+<title>[B]1ª TEMPORADA | [COLOR yellow]ANO 2018[/COLOR] | [COLOR lime](HD | HDTV)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</limk>
+<thumbnail>https://image.tmdb.org/t/p/original/r737IHykLHH2Ixml2egtpH4iMl0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hQAlCjlTEAfp4iHNepTTa8gyanx.jpg</fanart>
+<info>[ BY [COLOR orange]INFOTEC-IPTV[/COLOR] ]
+[B]SERIE TOP D +[/B]
+Manifest: O Mistério do Voo 828 (2018)
+TV-14
+Drama, Mistério
+42m
+Sinopse
+Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.
+</info>
+</item>
