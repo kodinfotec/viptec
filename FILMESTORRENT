@@ -2,8 +2,17 @@
 <layoutype>thumbnail</layoutype>
 07.05.20202
 
-
-
+<channels> </channels>
+<channel> 
+<name>[B][/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item> 
+<title>[B]FILMES| [COLOR yellow]TORRENT[/COLOR] | [COLOR lime](HD | HDTV)[/COLOR][/B]</title>
+<link>http://nada</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[ BY [COLOR orange]INFOTEC-IPTV[/COLOR] ]
+ <channels> </channels>
+<channels> </channels>
+  <channel>
 
 <item>
 <title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME - [COLOR yellow] (2019)[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</Title>
@@ -163,9 +172,9 @@ sublink:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B37F62A9310
 <info>Porque a cada 27 anos o mal revisita a cidade de Derry, Maine, o capítulo dois traz os perdedores – que há muito tempo seguiram caminhos separados – juntos como adultos, quase três décadas depois dos eventos do primeiro filme.</info>
 <genre>Terror</genre>
 </item>
-
 <channels> </channels>
-
+    
+<channels> </channels>
 <channel>
 <name>Next Page >></name>
 <thumbnail></thumbnail>
