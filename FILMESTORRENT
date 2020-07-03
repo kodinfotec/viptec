@@ -7,7 +7,6 @@
 <name>[B][/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
 <item>
 <title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME - [COLOR yellow] (2019)[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</Title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NpugiGdP0YVzM_G83aRvgAL4mwyR1Wr9/view$$lsname=[COLOR orange]HD[/COLOR] G DRIVE - LINK 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HBw2tswd55E3E8Qk3ESplrmTMNfctiHy/view$$lsname=[COLOR orange]HD[/COLOR] ELEMENTUM - LINK 2</link>
 <link>http://webtvcde.com/Filmes/Dublados/Megatubarao.mkv$$lsname=[COLOR orange]HD[/COLOR] WEB - link 3</link>
 <thumbnail></thumbnail>
@@ -17,7 +16,6 @@
 
 <item>
 <title>[B][COLOR lime]*EXCLUSIVO  [/COLOR][/B][B]Pinóquio - [COLOR yellow](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLAGEM AMADORA[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qg-rPFaFFN1WsYD-L9KuD5HfDYrVZgkg$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLAGEM AMADORA</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MNse60c6S3ASVCL1qNoxERvQJ3fCQL3a$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLAGEM AMADORA</link>
 <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/pinoHD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/AdqOBPw4PdtzOcfEuQuZ8MNeTKb.jpg</fanart>
@@ -25,144 +23,6 @@
 <genre>Fantasia</genre>
 </item>
 
-<item>
-<a mp-mode="dftl" href="https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=263220215-819063d3-667c-415b-a4c1-0853d26ca189" name="MP-payButton" class='blue-ar-m-rn-bron'>Doações</a>
-<script type="text/javascript">
-(function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
-</script>
-</item>
-
-<item>
-  <title>[B]Curiosa | [COLOR gold](2019)[/COLOR] | [COLOR lime]Dublado[/COLOR][/B]</title>
-  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_OX8Miwc_kNOkcLBIYJeBerUYskIo_vZ/view</link>
-  <thumbnail>https://image.tmdb.org/t/p/original/217eCKJQBzk4FIcqWgP1sT3Gzxt.jpg</thumbnail>
-  <fanart>https://image.tmdb.org/t/p/original/fACXDSYp26FLpXalHn3MzcH3mX0.jpg</fanart>
-  <info>Pierre Louÿs (Niels Schneider) é um poeta parisiense que decide fugir para a Argélia ao descobrir que o amor de sua vida, Marie de Regnier (Noémie Merlant), se casa com o seu melhor amigo, Henri De Régnier, em busca de melhor posição social. Lá, ele conhece Zohar (Camélia Jordana), com quem ele compartilha uma paixão pela fotografia erótica. Ao voltar para Paris com Zohar ele reencontra Marie, que confessa que ainda o ama. Eles iniciam um caso que tem como pano de fundo a fotografia erótica de Paris, em um jogo de gato e rato com as pessoas que envolvem suas vidas e quebrando os códigos estabelecidos pela sociedade.</info>
-  <genre>História, Drama</genre>
-</item>
-
-<item>
-<title>[B][COLOR white]Troco em Dobro [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98D3436D78E173F5D63738D87577B09AE8E420E5</link>
-<thumbnail>https://image.tmdb.org/t/p/original/d41HWbZnf7A4EI89p0dxjp7w3lP.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ftODZXaXpWtV5XFD8gS9n9KwLDr.jpg</fanart>
-<info>
-[COLOR gold][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2020[/B][/COLOR]
-[COLOR tomato][B]Gênero:[/B][/COLOR] [COLOR white][B]Thriller, Ação, Comédia[/COLOR]
-[COLOR gold][B]Sinopse:[/B][/COLOR] [COLOR white][B]Spenser, um ex-policial e ex-presidiário, e o aspirante a lutador Hawk se unem para investigar uma conspiração ligada a morte de dois oficiais de Boston.[/B][/COLOR]
-</info>
-</item>
-
-<item>
-<title>[B]JUMANJI: Próxima Fase [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75670FBB43AEEB43A44EFE793CCC9DAE46D6AC9D</link>
-<thumbnail>https://image.tmdb.org/t/p/original/tmItDhOFsRgFlxX9VaWJEGfstJV.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/zTxHf9iIOCqRbxvl8W5QYKrsMLq.jpg</fanart>
-<info>
-[COLOR gold][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2019[/B][/COLOR]
-[COLOR salmon][B]Gênero:[/B][/COLOR] [COLOR white][B]Ação, Aventura, Comédia, Fantasia[/COLOR]
-[COLOR gold][B]Sinopse:[/B][/COLOR] [COLOR white][B]Tentado em revisitar o mundo de Jumanji, Spencer (Alex Wolff) decide consertar o jogo de videogame que permite que os jogadores sejam transportados ao local. Logo o quarteto formado por Smolder Bravestone (Dwayne Johnson), Moose Finbar (Kevin Hart), Shelly Oberon (Jack Black) e Ruby Roundhouse (Karen Gillan) ressurge, agora comandado por outras pessoas: os avôs de Spencer e Fridge (Danny DeVito e Danny Glover) assumem as personas de Bravestone e Finbar, enquanto o próprio Fridge (Ser'Darius Blain) agora está sob a pele de Oberon.[/B][/COLOR]
-</info>
-</item>
-
-<item>
-<title>[B]Hóspede Indesejado [COLOR lime]Dublado[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a964626c00bc145d772fa77a74fd759f06ac003</link>
-<thumbnail>https://image.tmdb.org/t/p/w1280/iLn0oH716HN23Nzs4giGLk9N76D.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/1Co761nM7uOMuM1XTPgwRTsagdZ.jpg</fanart>
-<info>
-[COLOR gold][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2019[/B][/COLOR]
-[COLOR salmon][B]Gênero:[/B][/COLOR] [COLOR white][B]Thriller, Drama, Mistério[/COLOR]
-[COLOR gold][B]Sinopse:[/B][/COLOR] [COLOR white][B]Scott (Michael Ealy) e Annie Russell (Meagan Good) são um jovem casal que acaba de comprar sua casa dos sonhos em Napa Valley, na Califórnia. Porém, quando Charlie (Dennis Quaid), o solitário viúvo que os vendeu o imóvel, começa a interferir em suas vidas, o casal se vê vítima do comportamento obsessivo e violento de um homem capaz de destruir tudo que eles amam.[/B][/COLOR]
-</info>
-</item>
-
-<item>
-<title>[COLOR white][B]A Troca[/B][/COLOR] (2008)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:398883ad324f7124e929dcac78536738b96dd842&dn=A+Troca+2008+BDRip+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBoFTZmPAYjnNgKB68DbTI0tDMq.jpg</thumbnail>
-<fanart></fanart>
-<info>
-[COLOR gold][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2008[/B][/COLOR]
-[COLOR salmon][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama,Suspense[/B][/COLOR]
-[COLOR gold][B]Sinopse:[/B][/COLOR] [COLOR white][B]Los Angeles, março de 1928. Christine Collins (Angelina Jolie), uma mãe solteira, se despede de Walter (Gattlin Griffith), seu filho de 9 anos, e parte rumo ao trabalho. Ao retornar descobre que Walter desapareceu, o que faz com que inicie uma busca exaustiva. Cinco meses depois a polícia traz uma criança, dizendo ser Walter. Atordoada pela emoção da situação, além da presença de policiais e jornalistas que desejam tirar proveito da repercussão do caso, Christine aceita a criança. Porém, no íntimo, ela sabe que ele não é Walter e, com isso, pressiona as autoridades para que continuem as buscas por ele.[/B][/COLOR]
-</info>
-<genre></genre>
-</item>
-
-<item>
-<title>[COLOR white][B]Um Contratempo[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2DA913464B4F73E570298A7DE7B8433CE551E8EA&dn=Um%20Contratempo%202017%20%28720p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOnbhr6DbPgKjvcNexbRdmR37De.jpg</thumbnail>
-<fanart>https://abrilveja.files.wordpress.com/2017/08/blogib_um-contratempo_feat.jpg</fanart>
-<info>
-[COLOR gold][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2017[/B][/COLOR]
-[COLOR salmon][B]Gênero:[/B][/COLOR] [COLOR white][B]Policial,Suspense[/B][/COLOR]
-[COLOR gold][B]Sinopse:[/B][/COLOR] [COLOR white][B]Esse é um daqueles suspenses policiais de tirar o fôlego. Tudo está indo muito bem para Adrian Doria (Mario Casas). Seu negócio é um sucesso e lhe trouxe riqueza, sua bela esposa teve a criança perfeita, e sua amante está bem com o caso dos dois escondido. Tudo está ótimo até que Doria desperta num quarto de hotel, depois de ser atingido na cabeça, e encontra sua amante morta no banheiro, coberta com um monte de notas em euros.[/B][/COLOR]
-</info>
-<genre></genre>
-</item>
-
-<item>
-<title>[COLOR white][B]Percy Jackson e o Ladrão de Raios[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c260a8ee6ab0eed2e492536f236d575f52e41cfe&dn=Percy+Jackson+e+o+Ladr%26atilde%3Bo+de+Raios+%282010%29+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuQFRVgKAXZNmjJhNuPO0dXcZqn.jpg</thumbnail>
-<fanart>https://4.bp.blogspot.com/-r1tI7kZyhSM/WGqNtjm78PI/AAAAAAAAFiI/wzPOTVqpAfUgZTgiSJMvI3RvxHjkruSiACLcB/s1600/percy_jackson_e_o_ladrao_de_raios_lancamentos_da_netflix.jpg</fanart>
-<info>
-[COLOR gold][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2010[/B][/COLOR]
-[COLOR salmon][B]Gênero:[/B][/COLOR] [COLOR white][B]Aventura[/B][/COLOR]
-[COLOR gold][B]Sinopse:[/B][/COLOR] [COLOR white][B]Ambientado no mundo atual, onde os doze deuses do Olimpo (instalados 600 andares acima do planeta, no edifício Empire State Building, em Nova York) estão vivos e criando uma nova raça de jovens heróis mitológicos que são semideuses metade mortais, metade imortais, Zeus suspeita que Percy, filho adolescente de Poseidon, tenha roubado seu raio, a arma mais poderosa do universo. Para provar sua inocência e evitar uma guerra devastadora entre os deuses, Percy embarca numa odisséia transcontinental com o objetivo de encontrar o verdadeiro ladrão.[/B][/COLOR]
-</info>
-<genre></genre>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.>>>>>>>>>>>>>>>
-<item>
-  <title>Crime Sem Saída (2019)</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1299F0F4B1617AED74DDB79E0C5729AE05476191</link>
-  <thumbnail>https://image.tmdb.org/t/p/original/7kBgrB7LfMRwobWB27qCmgVOBrj.jpg</thumbnail>
-  <fanart>https://image.tmdb.org/t/p/original/5bUExJx4NLXJSaphRxO5VflaKdG.jpg</fanart>
-  <info>Um detetive da polícia de Nova Iorque recebe um complexo desafio no trabalho: ele precisa achar e prender um assassino de policiais que está à solta na cidade. Realizar a prisão do criminoso implicaria em recuperar a honra que ele perdeu durante algumas tarefas mal executadas nos últimos anos. No entanto, quanto mais ele avança na investigação mais ele percebe que os assassinatos se tratam de uma conspiração assombrosa entre criminosos e membros de sua própria categoria.</info>
-  <genre>[COLOR lightblue]Crime, Ação, Drama[/COLOR]</genre>
-</item>
-
-<item>
-<title>VIUVA NEGRA 2020</title>
-<link>plugin://plugin.video.youtube/play/?video_id=kZapfwk1PrQ</link>
-<thumbnail>https://image.tmdb.org/t/p/w1280/nfiwuRN59pcw3ETIDTThNOm2vai.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow] Jogador Nº 1 [/COLOR][COLOR gray] (2018) Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c834f530f0aee993e860bde8793cb3acfc7a3e6e</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BM2U1OWJmNzctNjU4Ni00Yzg5LTgwNWEtNTFiZWQ2YTJiMjU2XkEyXkFqcGdeQXVyNjgxNTAwNjQ@._V1_SX1777_CR0,0,1777,998_AL_.jpg</fanart>
-<info>Num futuro distópico, em 2044, Wade Watts (Tye Sheridan), como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real. Quando o criador do jogo, o excêntrico James Halliday (Mark Rylance) morre, os jogadores devem descobrir a chave de um quebra-cabeça diabólico para conquistar sua fortuna inestimável. Para vencer, porém, Watts terá de abandonar a existência virtual e ceder a uma vida de amor e realidade da qual sempre tentou fugir.</info>
-</item> 
-
-<item>
-<title>[COLOR yellow] Valerian e a Cidade dos Mil Planetas [/COLOR][COLOR gray] (2017) Dublado[/COLOR]</title>
-<link>
-sublink:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8CBD3622DDB19EC8E9C166D9F9B939CC0CA3179C&dn=https://image.tmdb.org/t/p/w1280/x69DC2NnchOhNykhbkjgpuqC2SD.jpgannounce#
-sublink:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EDE5FDF5E046DDE9AF17DE20F6372441F0EB0063&dn=https://image.tmdb.org/t/p/w1280/x69DC2NnchOhNykhbkjgpuqC2SD.jpgannounce#
-</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1OTc4MTQ5MF5BMl5BanBnXkFtZTgwMTQ0MTM4MTI@._V1_.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYjgxNGNiMDEtMjNkNy00NTRkLWI2NzAtNGE4YzM1ZGFkMDk1XkEyXkFqcGdeQXVyNjk2MjI2NTY@._V1_SY1000_CR0,0,1761,1000_AL_.jpg</fanart>
-<info>Século XXVIII. Valérian (Dane DeHaan) é um agente viajante do tempo e do espaço que luta ao lado da parceira Laureline (Cara Delevingne), por quem é apaixonado, em defesa da Terra e seus planetas aliados, continuamente atacados por bandidos intergaláticos. Quando chegam no planeta Alpha, eles precisarão acabar com uma operação comandada por grandes forças que deseja destruir os sonhos e as vidas dos dezessete milhões de habitantes do planeta.</info>
-</item> 
-
-
-<item>
-<title>It – Capítulo Dois Torrent – 2019 Dublado / Dual Áudio (WEB-DL) 720p e 1080p – Download</title>
-<link>
-sublink:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92A5D79F5D9412CA2F680A508117D0B86D082BF0&dn=%5bWWW.BLUDV.TV%5d%20It%20-%20Cap%c3%adtulo%20Dois%202019%20%28720p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce#
-sublink:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B37F62A9310EF1D2960C2E1A07E983447C418600&dn=%5bWWW.BLUDV.TV%5d%20It%20-%20Cap%c3%adtulo%20Dois%202019%20%281080p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMGUzM2YxZTMtMTlkNi00OTI0LTljNTEtZDQzYjQ1Y2ZhZWY3XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_SY1000_SX750_AL_.jpg</thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BMGUzM2YxZTMtMTlkNi00OTI0LTljNTEtZDQzYjQ1Y2ZhZWY3XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_SY1000_SX750_AL_.jpg</fanart>
-<info>Porque a cada 27 anos o mal revisita a cidade de Derry, Maine, o capítulo dois traz os perdedores – que há muito tempo seguiram caminhos separados – juntos como adultos, quase três décadas depois dos eventos do primeiro filme.</info>
-<genre>Terror</genre>
-</item>
    
 <channels> </channels>
 <channel>
