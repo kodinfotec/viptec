@@ -163,3 +163,14 @@ sublink:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B37F62A9310
 <info>Porque a cada 27 anos o mal revisita a cidade de Derry, Maine, o capítulo dois traz os perdedores – que há muito tempo seguiram caminhos separados – juntos como adultos, quase três décadas depois dos eventos do primeiro filme.</info>
 <genre>Terror</genre>
 </item>
+
+<channels> </channels>
+
+<channel>
+<name>Next Page >></name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/COLONYEP01</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+<channels> </channels>
