@@ -17,6 +17,7 @@ https://kodinfonline.weebly.com/
 </info>
 <genre>ALL</genre>
 </item>
+  <items></items>
 <channels> </channels>
 
 <channels> </channels>
@@ -55,13 +56,4 @@ A aeronave de um piloto é roubada por terroristas.[/B]</info>
 <info></info>
   </channel>
 
-<channels> </channels>
-
-<channel>
-<name>Next Page >></name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/COLONYEP01</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
 <channels> </channels>
