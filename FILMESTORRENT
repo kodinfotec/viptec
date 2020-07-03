@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF8" standalone="no" ?>
-<layoutype>thumbnail</layoutype>
 07.05.20202
 
 <channels> </channels>
@@ -14,8 +13,10 @@
 <info></info>
 </item>
  <channels> </channels>
+ 
 <channels> </channels>
-<item>
+ <channel> 
+<name>[B]BATWOMAN[/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
 <title>[B][COLOR lime]*EXCLUSIVO  [/COLOR][/B][B]Pinóquio - [COLOR yellow](2020)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - DUBLAGEM AMADORA[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MNse60c6S3ASVCL1qNoxERvQJ3fCQL3a$$lsname=[COLOR lime](FULLHD)[/COLOR] - DUBLAGEM AMADORA</link>
 <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/pinoHD.jpg</thumbnail>
