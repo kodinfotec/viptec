@@ -1,54 +1,49 @@
 <?xml version="1.0" encoding="UTF8" standalone="no" ?>
-<channels> </channels><channel> <item>
-<title>        [B] [COLOR yellow] BAIXE O ELEMENTUM PARA RODAR AS SERIES[/COLOR][/B]   </title>
-<link>https://</link>
+
+<channels> </channels>
+<channel> 
+<name>[B][COLOR gold]FILMES [COLOR lime]TORRENT [COLOR white]LANÇAMENTOS [COLOR gold] 2019 & 2020 [COLOR white]Infotec-IPTV[/COLOR][/B]</name>****************** <item>
+<item>
+<title>[B][COLOR gold]FILMES [COLOR lime]TORRENT [COLOR white]LANÇAMENTOS [COLOR gold] 2019 & 2020 [COLOR white]Infotec-IPTV[/COLOR][/B]</title>
+<link>http://</link>
+<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
+<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
+<info>
+Filme Torrent Legendados e Dublados ANO 2019 & 2020
+A instalação do Plugin Elementum, Universal. Disponivel no 
+site:
+https://infotec-kodi-online.webnode.com/
+https://kodinfonline.weebly.com/
+</info>
+<genre>ALL</genre>
+</item>
+<channels> </channels>
+
+<channels> </channels>
+<item>
+<title>[B][COLOR white]7500 [COLOR gold](2019) [COLOR lime]Leg.[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B409566DB455FF81FF120CDA5D898B72D1504A5B</link>
+<thumbnail>https://image.tmdb.org/t/p/original/m89V2BCNUhiQgBflnBb5o2worGm.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/y6nOwPsMzEj5DmwPtr2OsH6EiGS.jpg</fanart>
+<info>[B]
+7500 (2019)
+01/06/2020 (US)
+THRILLER, DRAMA
+1h 32m
+Sinopse
+A aeronave de um piloto é roubada por terroristas.[/B]</info>
+<genre>THRILLER, DRAMA</genre>
+</item>
+
+<channels> </channels>
+
+<channels> </channels>
+
+<channel>
+<name>Next Page >></name>
 <thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/COLONYEP01</externallink>
 <fanart></fanart>
 <info></info>
-<genre></genre>
-</item> 
-<name>[B][COLOR yellow]APROVEITE NOSSAS SERIES [/COLOR][/B] -  KING BR </name>****************** <item>
-<title>[B]       [/B][COLOR yellow][B][/COLOR][/B]</title> 
-<link>https://</link> <thumbnail></thumbnail> 
-<fanart></fanart>
-<info> INSTALE O ELEMENTUM PARA ODAR NOSSAS SERIES</info>
-</item> <channels> </channels>
-
-
-<channels> </channels><channel> 
-<name>[B] teste one drive[/B] -  KING BR </name>****************** <item>
-<title>[B]1 teste[/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>https://hii9w-my.sharepoint.com/:v:/g/personal/kodinfotec_od_wulel_com/Eb3FrsWO6l1AphOrVXYPxhgBY67pK4NTiBFRZ8XDWj19Cg?download=1</link>
-<thumbnail>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2019/08/preview_Breaking-Bad.jpg</thumbnail> 
-<fanart>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2019/08/preview_Breaking-Bad.jpg</fanart>
-<info>>[ BY EVERSON SANTOS ]
-    [B]SERIE SEM TRAVAMENTO[/B] 
- 
-Breaking Bad (A Química do Mal) primeira temporada dublada completa. Bryan Cranston, premiado com o Emmy, é a estrela da série no papel de Walter White, um professor de química que leva uma vida difícil e luta para pagar as contas sustentando a esposa (Anna Gunn) e o filho, que tem dificuldades físicas (RJ Mitte). Sua vida inteira muda diante de um diagnóstico perturbador: câncer do pulmão sem possibilidade de cura. Com poucos anos de vida e nada mais a perder, Walter usa seus conhecimentos de química para fazer e vender metanfetamina com um dos seus ex-alunos (Aaron Paul). Seus negócios crescem e as mentiras também, mas nada detém Walter em sua missão de assegurar o futuro da família após a sua morte, mesmo que ele tenha que arriscar a vida da família toda.</info>
-</item> 
-<item>
-    <title> Absentia</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rvlRg77ZWIyVeB5s-A8S6tgLabe7x_Vj/view</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[ BY [COLOR orange]INFOTEC-IPTV[/COLOR] ]
-[B]SERIE TOP D +[/B]
-Os 100 (2014)
-TV-14
-Sci-Fi & Fantasy, Drama, Action & Adventure
-43m
-A sobrevivência não é quem você é. É quem você se torna.
-Sinopse
-Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.</info>
-</item>
-    <item> <title>[B][COLOR white]AMEAÇA PROFUNDA [COLOR gold](2020) [/B][/COLOR]</title> <link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:ec151ca1a130315e6a99ea36de5c6d32a2a56b35</link> <thumbnail>https://image.tmdb.org/t/p/original/1ctXU1e6PIWeM6BZRpU61JvVBHh.jpg</thumbnail> <fanart>https://image.tmdb.org/t/p/original/fYPiQewg7ogbzro2XcCTACSB2KC.jpg</fanart> <info>Um grupo de pesquisadores se encontra em um laboratório subaquático a 11 mil metros de profundidade, quando um terremoto causa a destruição do veículo e expõe a equipe ao risco de morte. Eles são obrigados a caminhar nas profundezas marítimas, com quantidade insuficiente de oxigênio, para tentarem sobreviver.</info> <genre>TERROR, FICÇÃO CIENTÍFICA, AÇÃO, THRILLER</genre> </item>
-<channels> </channels>
-    <channels> </channels>
-<channel>
-<name>[B][COLOR gold]PRÓXIMO[COLOR lime][/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/PGSERIES02</externallink>
-<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
-<info>[B]AS MELHORES SÉRIES ATUALIZADAS EM TORRENTS LEGENDADOS E DUBLADOS LANÇAMENTOS USAR "[COLOR gold]PLUGIN ELEMENTUM UNIVERSAL[/COLOR]"[/B]</info>
 </channel>
-    <channels> </channels>
+<channels> </channels>
