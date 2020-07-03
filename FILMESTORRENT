@@ -3,7 +3,8 @@
 07.05.20202
 
 <channels> </channels>
-
+<channel>  
+<name>[B][/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
 <item>
 <title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME - [COLOR yellow] (2019)[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</Title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NpugiGdP0YVzM_G83aRvgAL4mwyR1Wr9/view$$lsname=[COLOR orange]HD[/COLOR] G DRIVE - LINK 1</link>
