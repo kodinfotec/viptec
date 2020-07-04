@@ -1,35 +1,32 @@
-<?xml version="1.0" encoding="UTF8" standalone="no" ?>
-<layoutype>thumbnail</layoutype>
-04.07.2020
-
-<channels> </channels><channel> <item>
-<title>[B][COLOR gold]FILMES [COLOR lime]TORRENT [COLOR white]LANÇAMENTOS [COLOR gold] 2020 [COLOR white]Infotec-IPTV[/COLOR][/B]</title>
-<link>http://VAZAJADAQUI</link>
-<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
-<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
-<info>
-Filme Torrent Legendados e Dublados ANO 2020
-A instalação do Plugin Elementum, Universal. Disponivel no 
-site:
-https://infotec-kodi-online.webnode.com/
-https://kodinfonline.weebly.com/
-</info>
-<genre>ALL</genre>
-</item> <name>[B][COLOR yellow]OS MELHORES FILMES 2020[/COLOR][/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
-<title>[B][COLOR white]AVES DE RAPINA: ARLEQUINA E SUA EMANCIPAÇÃO FANTABULOSA [COLOR gold](2020) [/B][COLOR lime]Dub.[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56732aa499dcfaa3277789d887da1d9c016cc806</link>
-<thumbnail>https://image.tmdb.org/t/p/original/oFfDC7ouX63C2hj6LsF9Cm7A5Nb.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/jiqD14fg7UTZOT6qgvzTmfRYpWI.jpg</fanart>
-<info>Arlequina, Canário Negro, Caçadora, Cassandra Cain e a policial Renée Montoya formam um grupo inusitado de heroínas. Quando um perigoso criminoso começa a causar destruição em Gotham, as cinco mulheres precisam se unir para defender a cidade.</info>
-<genre>AÇÃO, CRIME, COMÉDIA</genre>
- </item>
- 
+<genre></genre>
+</item> 
+<item> 
+<title>[B]BREAKING BAD 4-TEMPORADA [COLOR yellow](1 TEMPORADA COMPLETA)[/COLOR] - [COLOR lime](4k)[/COLOR] - KING BR[/B]</title> 
+<linkplugin://plugin.video.elementum/play?uri=>magnet:?xt=urn:btih:e3252dd6406daa753ca76e82820291fd2a0fec96&dn=Breaking+Bad+2011+4%C2%AA+Temporada+Completa+WWW.BLUDV.COM</link> <thumbnail>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2019/08/preview_Breaking-Bad.jpg</thumbnail> <fanart>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2019/08/preview_Breaking-Bad.jpg</fanart> <info>[ BY INFOTEC-IPTV ] [B]SERIE SEM TRAVAMENTO[/B] Breaking Bad (A Química do Mal) primeira temporada dublada completa. Bryan Cranston, premiado com o Emmy, é a estrela da série no papel de Walter White, um professor de química que leva uma vida difícil e luta para pagar as contas sustentando a esposa (Anna Gunn) e o filho, que tem dificuldades físicas (RJ Mitte). Sua vida inteira muda diante de um diagnóstico perturbador: câncer do pulmão sem possibilidade de cura. Com poucos anos de vida e nada mais a perder, Walter usa seus conhecimentos de química para fazer e vender metanfetamina com um dos seus ex-alunos (Aaron Paul). Seus negócios crescem e as mentiras também, mas nada detém Walter em sua missão de assegurar o futuro da família após a sua morte, mesmo que ele tenha que arriscar a vida da família toda.</info> 
+<genre></genre> 
+</item> 
+<item> 
+<title>[B]BREAKING BAD 5-TEMPORADA [COLOR yellow](1 TEMPORADA COMPLETA)[/COLOR] - [COLOR lime](4k)[/COLOR] - KING BR[/B]</title> 
+<link></link> 
+<thumbnail>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2019/08/preview_Breaking-Bad.jpg</thumbnail> 
+<fanart>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2019/08/preview_Breaking-Bad.jpg</fanart> 
+<info>[ BY INFOTEC-IPTV ] [B]SERIE SEM TRAVAMENTO[/B] Breaking Bad (A Química do Mal) primeira temporada dublada completa. Bryan Cranston, premiado com o Emmy, é a estrela da série no papel de Walter White, um professor de química que leva uma vida difícil e luta para pagar as contas sustentando a esposa (Anna Gunn) e o filho, que tem dificuldades físicas (RJ Mitte). Sua vida inteira muda diante de um diagnóstico perturbador: câncer do pulmão sem possibilidade de cura. Com poucos anos de vida e nada mais a perder, Walter usa seus conhecimentos de química para fazer e vender metanfetamina com um dos seus ex-alunos (Aaron Paul). Seus negócios crescem e as mentiras também, mas nada detém Walter em sua missão de assegurar o futuro da família após a sua morte, mesmo que ele tenha que arriscar a vida da família toda.</info> 
+<genre></genre> 
+</item> 
 <channels> </channels>
-<channel>
-<name>Next Page >></name>
-<thumbnail></thumbnail>
-<externallink>https://gitlab.com/infoteckodionline/infoteckodi2020/-/raw/master/FILMES/TORRENT/2020A</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels> </channels><channel> 
+<name>[B]DARK [/B] -  KING BR </name>****************** <item>
+<title>[B] DARK 1 TEMPORADA[/B][COLOR yellow][B][/COLOR][/B]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5140faa5fbb0a27be3c7bdc5354674f2eea510f</link> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail> 
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</fanart> 
+<info>Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.</info> 
+</item> <item> <title> [B] DARK 2 - Temporada - - [COLOR yellow](SERIE COMPLETA-)[/COLOR] - [COLOR lime](720p)[/COLOR] - KING BR[/B]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12ba417a923d0cc95f70b4f3e1cc17a262bf37f9</link> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail> 
+<info>[ BY INFOTEC-IPTV ] [B]SERIE SEM TRAVAMENTO[/B] Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.</info> <fanart>https://image.tmdb.org/t/p/original/uXktUd3KYSbwDGPTvjhP2mo0E7I.jpg</fanart> 
+</item> 
 <channels> </channels>
