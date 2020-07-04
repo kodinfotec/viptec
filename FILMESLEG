@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+02.07.2020
+
+<channels> </channels><channel> <item>
+<title>        [B] [COLOR yellow] BAIXE O ELEMENTUM PARA RODAR OS FILMES[/COLOR][/B]   </title>
+<link>https://</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item> <name>[B][COLOR yellow]AS MELHORES FILMES [/COLOR][/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
+<title>[B]       [/B][COLOR yellow][B][/COLOR][/B]</title> 
+<link>https://</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ <info> INSTALE O ELEMENTUM PARA RODAR OS FILMES</info>
+ </item>
+ <channels> </channels>
 
 <channels> </channels>
-<channel> 
-<name>[B][COLOR gold]FILMES [COLOR lime]TORRENT [COLOR white]LANÇAMENTOS [COLOR gold] 2019 & 2020 [COLOR white]Infotec-IPTV[/COLOR][/B]</name>****************** <item>
 <item>
-<title>[B][COLOR gold]FILMES [COLOR lime]TORRENT [COLOR white]LANÇAMENTOS [COLOR gold] 2019 & 2020 [COLOR white]Infotec-IPTV[/COLOR][/B]</title>
-<link>http://</link>
+<title>[B][COLOR gold]FILMES [COLOR lime]TORRENT [COLOR white]LANÇAMENTOS [COLOR gold] 2020 [COLOR white]Infotec-IPTV[/COLOR][/B]</title>
+<link>http://VAZAJADAQUI</link>
 <thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
 <info>
-Filme Torrent Legendados e Dublados ANO 2019 & 2020
+Filme Torrent Legendados e Dublados ANO 2020
 A instalação do Plugin Elementum, Universal. Disponivel no 
 site:
 https://infotec-kodi-online.webnode.com/
@@ -17,11 +33,6 @@ https://kodinfonline.weebly.com/
 </info>
 <genre>ALL</genre>
 </item>
-  <items></items>
-<channels> </channels>
-
-<channels> </channels>
-  <items> </items>
 <item>
 <title>[B][COLOR white]7500 [COLOR gold](2019) [COLOR lime]Leg.[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B409566DB455FF81FF120CDA5D898B72D1504A5B</link>
@@ -36,24 +47,4 @@ Sinopse
 A aeronave de um piloto é roubada por terroristas.[/B]</info>
 <genre>THRILLER, DRAMA</genre>
 </item>
-  <items> </items>
-  <items> </items>
-  <item>
-<title>[B][COLOR white]AMEAÇA PROFUNDA [COLOR gold](2020) [/B][/COLOR]</title>
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:ec151ca1a130315e6a99ea36de5c6d32a2a56b35</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1ctXU1e6PIWeM6BZRpU61JvVBHh.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/fYPiQewg7ogbzro2XcCTACSB2KC.jpg</fanart>
-<info>Um grupo de pesquisadores se encontra em um laboratório subaquático a 11 mil metros de profundidade, quando um terremoto causa a destruição do veículo e expõe a equipe ao risco de morte. Eles são obrigados a caminhar nas profundezas marítimas, com quantidade insuficiente de oxigênio, para tentarem sobreviver.</info>
-<genre>TERROR, FICÇÃO CIENTÍFICA, AÇÃO, THRILLER</genre>
-  </item>
-  <items> </items>
-  <items> </items>
-  <item>Next Page >> </item>*********************<channel>
-<name>Next Page >></name>
-<thumbnail>https://i.imgur.com/LG2ERSQ.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/COLONYEP01</externallink>
-<fanart></fanart>
-<info></info>
-  </channel>
-
 <channels> </channels>
