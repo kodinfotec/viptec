@@ -27,9 +27,15 @@
  <channels> </channels>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-<channels> </channels><channel> 
-<name>[B] BREAKING BAD[/B] -  KING BR </name>****************** <item>
+ <channels> </channels><channel>
+ <title>        [B] [COLOR yellow] BAIXE O ELEMENTUM PARA RODAR AS SERIES[/COLOR][/B]   </title>
+<link>https://</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item> 
+<name>[B][COLOR gold]FILMES [COLOR lime]TORRENT [COLOR white]LANÇAMENTOS [COLOR gold] 2019 [COLOR white]Infotec-IPTV[/COLOR][/B] </name>****************** <item>
 <title>[B]1 TEMPORADA[/B][COLOR yellow][B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c1f61689123b32edd923fc86d143bc8100769e4e&dn=Breaking+Bad+2008+-+1%C2%AA+Temporada+Completa+%5B4k%5D+WWW.BLUDV.COM</link>
 <thumbnail>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2019/08/preview_Breaking-Bad.jpg</thumbnail> 
