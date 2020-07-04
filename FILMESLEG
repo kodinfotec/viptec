@@ -25,8 +25,7 @@ https://kodinfonline.weebly.com/
  </item>
  <channels> </channels>
  
- <channels> </channels>
-<channel>
+ <channels> </channels><channel>
  <item>
 <title>[B][COLOR white]APANHADOR DE PESADELOS [COLOR gold](2020) [/B][COLOR lime]Dub.[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ED6E08FA164172D0ABDC170F71BB5AEF22BCD9E6</link>
@@ -37,8 +36,7 @@ https://kodinfonline.weebly.com/
 </item>
  <channels> </channels>
 
-<channels> </channels>
- <channel>
+<channels> </channels><channel>
 <item>
 <title>[B][COLOR white]AMEAÇA PROFUNDA [COLOR gold](2020) [/B][/COLOR]</title>
 <link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:ec151ca1a130315e6a99ea36de5c6d32a2a56b35</link>
@@ -49,8 +47,7 @@ https://kodinfonline.weebly.com/
 </item>
 <channels> </channels>
  
- <channels> </channels>
-<channel>
+ <channels> </channels><channel>
 <name>Next Page >></name>
 <thumbnail></thumbnail>
 <externallink>https://gitlab.com/infoteckodionline/infoteckodi2020/-/raw/master/FILMES/TORRENT/2020A</externallink>
