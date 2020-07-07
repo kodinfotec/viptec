@@ -17,12 +17,31 @@
 <genre>AÇÃO, CRIME, COMÉDIA</genre>
  </item>
  <item>
-<title>[B][COLOR white]BRAHMS: BONECO DO MAL II [COLOR gold](2020) [/B][COLOR lime]Leg.[/COLOR] </title>
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:8ff973dbabd1605356dbbcd2bff481d8df1af8a3</link>
-<thumbnail>https://image.tmdb.org/t/p/original/dJdi4lwKE1kmCdhQsU0JPtKQYLQ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rpGYHowXtjw37UxdwO1ZcK5E8IN.jpg</fanart>
-<info>Liza e sua jovem família se mudam para a Mansão Heelshire, em uma pequena vila na Inglaterra. Quando seu filho encontra um amigo no realista boneco Brahms, estranhos acontecimentos passam a cercar suas vidas de terror.</info>
-<genre>TERROR, MISTÉRIO, THRILLER</genre>
+<title>[COLOR khaki][B]CONEXÃO[/B][/COLOR] [COLOR magenta][B]TUBE[/B][/COLOR] [COLOR yellow][B]-[/COLOR][/B] [COLOR lime][B]MULTI[/B][/COLOR] [COLOR lime][B]ADD-ONS[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/olEBC9p.jpg</thumbnail>
+<fanart>https://i.imgur.com/X7D26F2.png</fanart>
+<genre>[COLOR White]COLETÂNEAS SÓ AS MELHORES AQUI NO 'CONEXÃO TUBE'.[/COLOR]</genre>
+</item>
+<item>
+<title>[COLOR aquamarine][B]CONEXÃO[/B][/COLOR] [COLOR crimson][B]TUBE[/B][/COLOR] [COLOR salmon][B]-[/B][/COLOR] [COLOR khaki][B]Busca Explosiva[/B][/COLOR] [COLOR salmon][B](2006-2017)[/B][/COLOR] [COLOR blue][B]|COLEÇÃO[/B][/COLOR] [COLOR gold][B](5 Itens)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bY2eg2NXFPC9vdKQ5OVhsqKwBVe0plpJ/view$nome=[COLOR gold][B]Busca Explosiva[/B][/COLOR] [COLOR magenta] [B](2006)[COLOR lime]->Gdrive[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1355bQMEmzXOIZdzlGBMqkBfE73FSGMRe/view$nome=[COLOR gold][B]Busca Explosiva 2[/B][/COLOR] [COLOR magenta] [B](2009)[COLOR lime]->Gdrive[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x1aN2EypljU744uTOb_gwiCNG78McXfC/view$nome=[COLOR gold][B]Busca Explosiva 3[/B][/COLOR] [COLOR magenta] [B](2013)[COLOR lime]->Gdrive[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Mxa4Bisj3OBcSSYWF9tsBGFuh_BEFSu8/view$nome=[COLOR gold][B]Busca Explosiva 4[/B][/COLOR] [COLOR magenta] [B](2015)[COLOR lime]->Gdrive[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-Q_o_7Cn8wdTT7c7mCyuCgUSQNRP-kzr/view$nome=[COLOR gold][B]Busca Explosiva 5 - Campo de Batalha[/B][/COLOR] [COLOR magenta] [B](2017)[COLOR lime]->Gdrive[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56732aa499dcfaa3277789d887da1d9c016cc806$nome=[COLOR gold][B]AVES DE RAPINA[/B][/COLOR] [COLOR magenta] [B](2020)[COLOR lime]->Elementum[/B][/COLOR]</link>
+
+<thumbnail>https://image.tmdb.org/t/p/original/sSgRduvxcBdwZzaFnI0adQBc4BR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eiJMxdnjruvBM4BcNPw5ePvF8Sw.jpg</fanart>
+<info></info>
+<genre>[COLOR purple][B]AÇÃO, AVENTURA, DRAMA, THRILLER[/B][/COLOR]</genre>
 </item>
  <channels> </channels>
 
