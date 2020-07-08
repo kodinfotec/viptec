@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 02.07.2020
 <item>
+<title>[B][COLOR lime]*NEW [/COLOR][/B]NOME - [COLOR yellow](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - AUDIO ORIGINAL[/B]</Title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Xx3IWCXPz_RC6-U41OojhJx-gv8U-frY/view?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>[B][COLOR white]PACIENTE ZERO [COLOR gold](2020) [COLOR lime]Dub.[/COLOR][/B] </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0136cbe22e704c2fce5ae164cec4512d299cafe7</link>
 <thumbnail>https://image.tmdb.org/t/p/original/oYgghR2MSMntmC621GxqG9ATCJc.jpg</thumbnail>
