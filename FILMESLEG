@@ -1,50 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-02.07.2020
-<item>
-<title>[B][COLOR lime]*NEW [/COLOR][/B]NOME - [COLOR yellow](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - AUDIO ORIGINAL[/B]</Title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Xx3IWCXPz_RC6-U41OojhJx-gv8U-frY/view?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<channels></channels>
+<channel>
+<name>[B][COLOR yellow]1BR (Legendado) [COLOR lime]Pikachu [COLOR white](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/aiYLasUoJXqOgJ9pnahDMELC9wf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dqGs8fWcaMiaMquLt289Is6bT7p.jpg</fanart>
+<genre>[COLOR firebrick]28/09/2019 (US), Drama, Terror, Thriller, 1h 30m[/COLOR]</genre>
+<info>[B][COLOR lime]Quando Sarah se hospeda em um doce dormitório no Asilo Del Mar Apartments, em Los Angeles, ela acha que ganhou o jackpot. Tem muito espaço, inquilinos amigáveis, churrascos de grupo e até um vizinho bonitinho ao lado. Nem tudo é o que parece: barulhos altos começam a mantê-la acordada à noite; o gato dela está desaparecido; todo mundo parece ser um pouco prestativo e amigável, exceto o esquisito, Lester. Logo Sarah descobre que não escolheu este apartamento - ele a escolheu.[/COLOR][COLOR yellow]28/09/2019 (US), Drama, Terror, Thriller, 1h 30m[/COLOR][/B]</info>
+ 
+ <item>
+<title>[B][COLOR yellow]1BR (Legendado)[COLOR lime]Pikachu [COLOR white](2020) Dual Áudio / Dublado 5.1 BluRay 720p | 1080p | 3D | 4K | 2160p[/COLOR][/B]</title>
+<maglink>magnet:?xt=urn:btih:E95855BE91F672D11414C423EC70DF6E945A4861&amp;dn=1BR.2019.1080p.WEBRip.Legendado.mkv&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</maglink>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/aiYLasUoJXqOgJ9pnahDMELC9wf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dqGs8fWcaMiaMquLt289Is6bT7p.jpg</fanart>
+<genre>[COLOR firebrick]28/09/2019 (US), Drama, Terror, Thriller, 1h 30m[/COLOR]</genre>
+<info>[B][COLOR lime]Quando Sarah se hospeda em um doce dormitório no Asilo Del Mar Apartments, em Los Angeles, ela acha que ganhou o jackpot. Tem muito espaço, inquilinos amigáveis, churrascos de grupo e até um vizinho bonitinho ao lado. Nem tudo é o que parece: barulhos altos começam a mantê-la acordada à noite; o gato dela está desaparecido; todo mundo parece ser um pouco prestativo e amigável, exceto o esquisito, Lester. Logo Sarah descobre que não escolheu este apartamento - ele a escolheu.[/COLOR][COLOR yellow]28/09/2019 (US), Drama, Terror, Thriller, 1h 30m[/COLOR][/B]</info>
 </item>
-
-<item>
-<title>[B][COLOR white]PACIENTE ZERO [COLOR gold](2020) [COLOR lime]Dub.[/COLOR][/B] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0136cbe22e704c2fce5ae164cec4512d299cafe7</link>
-<thumbnail>https://image.tmdb.org/t/p/original/oYgghR2MSMntmC621GxqG9ATCJc.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/xPWM5vtmTx71Sazfu8uYShTW9NC.jpg</fanart>
-<info>[B]
-Paciente Zero (2020)
-31/01/2020 (GB)
-Terror
-1h 46m
-Sinopse
-O filme segue um grupo de médicos, guardas e prisioneiros violentos na ilha de St Leonards, no Atlântico Norte, que devem se unir quando uma doença galopante ameaça as unidades de alta segurança.
-[/B]</info>
+  <item>
+<title>[B][COLOR yellow]Trailer[COLOR lime] Pikachu[/COLOR][/B]</title>
+<utube>P6yj23WfrmQ</utube>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/aiYLasUoJXqOgJ9pnahDMELC9wf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dqGs8fWcaMiaMquLt289Is6bT7p.jpg</fanart>
+<genre>[COLOR firebrick]28/09/2019 (US), Drama, Terror, Thriller, 1h 30m[/COLOR]</genre>
+<info>[B][COLOR lime]Quando Sarah se hospeda em um doce dormitório no Asilo Del Mar Apartments, em Los Angeles, ela acha que ganhou o jackpot. Tem muito espaço, inquilinos amigáveis, churrascos de grupo e até um vizinho bonitinho ao lado. Nem tudo é o que parece: barulhos altos começam a mantê-la acordada à noite; o gato dela está desaparecido; todo mundo parece ser um pouco prestativo e amigável, exceto o esquisito, Lester. Logo Sarah descobre que não escolheu este apartamento - ele a escolheu.[/COLOR][COLOR yellow]28/09/2019 (US), Drama, Terror, Thriller, 1h 30m[/COLOR][/B]</info>
 </item>
-<item>
-<title>[B][COLOR lime]*NEW [/COLOR][/B][B]IT CAP. 2 - [COLOR yellow] (2019)[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</Title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&url=https://drive.google.com/file/d/1Xx3IWCXPz_RC6-U41OojhJx-gv8U-frY/view?usp=sharing$texto=[COLOR orange]HD[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&url=https://drive.google.com/file/d/1dm-YHCuJ_Q7W8B_l4-1wKMEAisnFjI36/view?usp=sharing$texto=[COLOR orange]HD[/COLOR] - link 3</link>
-<thumbnail>https://image.tmdb.org/t/p/original/kELuciNhApVGJiQDJHzC7Okbu1S.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/8moTOzunF7p40oR5XhlDvJckOSW.jpg</fanart>
-<info>
-It: Capítulo Dois (2019)
-R
-06/09/2019 (US)
-Terror, Fantasia
-2h 49m
-Você Vai Flutuar de Novo
-Sinopse
-Vinte e sete anos depois dos eventos que chocaram os adolescentes que faziam parte do Clube dos Perdedores, os amigos realizam uma reunião. No entanto, o reencontro se torna uma verdadeira e sangrenta batalha quando Pennywise, o palhaço, retorna.
-</info>
-</item>
-<item>
-<title>[B]Por Lugares Incríveis - [COLOR gold]2020[/COLOR] - [COLOR gold][FULL HD][/COLOR] - [COLOR white][DUBLADO][/COLOR][COLOR gold]IMDB 6,5[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dm-YHCuJ_Q7W8B_l4-1wKMEAisnFjI36/view?usp=sharing$texto=[COLOR orange]HD[/COLOR] - PLAYER 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dm-YHCuJ_Q7W8B_l4-1wKMEAisnFjI36/view?usp=sharing$texto=[COLOR orange]HD[/COLOR] - PLAYER 2</link>
-<thumbnail>https://tinyurl.com/rqfpv6s</thumbnail>
-<fanart>https://tinyurl.com/rqfpv6s</fanart>
-<info>[COLOR lime]Traduzido do inglês-All the Bright Places é um filme de drama romântico adolescente americano de 2020, dirigido por Brett Haley, a partir de um roteiro de Jennifer Niven e Liz Hannah, baseado no romance de mesmo nome de Niven.[/COLOR][COLOR gold]IMDB 6,5[/COLOR]</info>
-</item>
-
+</channel>
