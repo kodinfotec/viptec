@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-</item> 
-<name>[B][COLOR gold]FILMES [COLOR lime]TORRENT [COLOR white]LANÇAMENTOS [COLOR gold] 2019 [COLOR white]Infotec-IPTV[/COLOR][/B] </name>****************** <item>
-<title>[B][COLOR white]7500 [COLOR gold](2019) [COLOR lime]Leg.[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=bWFnbmV0Oj94dD11cm46YnRpaDpCNDA5NTY2REI0NTVGRjgxRkYxMjBDREE1RDg5OEI3MkQxNTA0QTVC</link>
-<thumbnail>https://image.tmdb.org/t/p/original/m89V2BCNUhiQgBflnBb5o2worGm.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/y6nOwPsMzEj5DmwPtr2OsH6EiGS.jpg</fanart>
-<info>[B]
-7500 (2019)
-01/06/2020 (US)
-THRILLER, DRAMA
-1h 32m
-Sinopse
-A aeronave de um piloto é roubada por terroristas.[/B]</info>
-<genre>THRILLER, DRAMA</genre>
+<item> 
+<title>[COLOR=white][B]Efeito Borboleta[/B][/COLOR]</title> 
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1J1y-TO5GLBvXd89ClwOhYl4GHuIzlgTo$nome=[B][COLOR white] Efeito Borboleta 1[/COLOR][/B] [B][COLOR lime] 2004[/COLOR][/B]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1sEYdqx3EddR-3HIbW-niPISE9TAjgCtp$nome=[B][COLOR white] Efeito Borboleta 2[/COLOR][/B] [B][COLOR lime] 2006[/COLOR][/B]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1afz0Hf7YdBd9clxOCc4i7xebnVghpK_o$nome=[B][COLOR white] Efeito Borboleta 3[/COLOR][/B] [B][COLOR lime] 2009[/COLOR][/B]</link>
+<thumbnail>https://4.bp.blogspot.com/-7kawU49_zuA/V3D8YNZEz4I/AAAAAAAAAdk/a8p1bdsJi4U5bgPnDML5GBzFSxkHD-ClwCLcB/s1600/933b79bbc417088546b8fa5ce1cd7ccf_XL.jpg</thumbnail>
+<genre>Drama,Suspense</genre>
+<info>Efeito Borboleta</info>
+<date></date>
 </item>
