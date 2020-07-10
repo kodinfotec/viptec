@@ -11,8 +11,7 @@
 </item>
 <item>
 <title>[COLOR silver][B]Coringa [/COLOR][/B][COLOR yellow][B](IMDB 8.9)[/COLOR][/B]</title>
-<link>$doregex[mfilm]coringats-dub-720p.mp4|Referer=https://www.mmfilmes.tv.com$$lsname=[COLOR white][B]OPCAO 2[/COLOR][/B]</link>
-<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://goo.gl/fmBTiU</page></regex>  
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1afz0Hf7YdBd9clxOCc4i7xebnVghpK_o$$lsname=[COLOR white][B]OPCAO 2[/COLOR][/B]</link>
 <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6cc1c258c2673089df2a47ed3017bb6cf23336e8$$lsname=[COLOR cadetblue][B]TORRENT[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cc1c258c2673089df2a47ed3017bb6cf23336e8$$lsname=[COLOR cadetblue][B]ELEMENTUM[/COLOR][/B]</link>
 <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/tNMAhvD6IvEQk6xUn1qweyvmt00.jpg</thumbnail>
