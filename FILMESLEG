@@ -9,3 +9,11 @@
 <info>Efeito Borboleta</info>
 <date></date>
 </item>
+<item>
+<title>[COLOR silver][B]Coringa [/COLOR][/B][COLOR yellow][B](IMDB 8.9)[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6cc1c258c2673089df2a47ed3017bb6cf23336e8$$lsname=[COLOR cadetblue][B]TORRENT[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cc1c258c2673089df2a47ed3017bb6cf23336e8$$lsname=[COLOR cadetblue][B]ELEMENTUM[/COLOR][/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/tNMAhvD6IvEQk6xUn1qweyvmt00.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg</fanart>
+<info>Coringa é uma história original do vilão nunca antes vista no cinema. Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante. A versão de Phillips sobre Arthur Fleck, um homem desprezado pela sociedade, não é só uma visão realista do personagem, mas também uma lição de vida.</info>
+</item>
