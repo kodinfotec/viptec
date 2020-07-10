@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<item> 
-<title>[COLOR=white][B]Efeito Borboleta[/B][/COLOR]</title> 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1J1y-TO5GLBvXd89ClwOhYl4GHuIzlgTo$nome=[B][COLOR white] Efeito Borboleta 1[/COLOR][/B] [B][COLOR lime] 2004[/COLOR][/B]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1sEYdqx3EddR-3HIbW-niPISE9TAjgCtp$nome=[B][COLOR white] Efeito Borboleta 2[/COLOR][/B] [B][COLOR lime] 2006[/COLOR][/B]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1afz0Hf7YdBd9clxOCc4i7xebnVghpK_o$nome=[B][COLOR white] Efeito Borboleta 3[/COLOR][/B] [B][COLOR lime] 2009[/COLOR][/B]</link>
-<thumbnail>https://4.bp.blogspot.com/-7kawU49_zuA/V3D8YNZEz4I/AAAAAAAAAdk/a8p1bdsJi4U5bgPnDML5GBzFSxkHD-ClwCLcB/s1600/933b79bbc417088546b8fa5ce1cd7ccf_XL.jpg</thumbnail>
-<genre>Drama,Suspense</genre>
-<info>Efeito Borboleta</info>
-<date></date>
-</item>
-<item>
-<title>[COLOR silver][B]Coringa [/COLOR][/B][COLOR yellow][B](IMDB 8.9)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1afz0Hf7YdBd9clxOCc4i7xebnVghpK_o$$lsname=[COLOR white][B]OPCAO 2[/COLOR][/B]</link>
-<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6cc1c258c2673089df2a47ed3017bb6cf23336e8$$lsname=[COLOR cadetblue][B]TORRENT[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cc1c258c2673089df2a47ed3017bb6cf23336e8$$lsname=[COLOR cadetblue][B]ELEMENTUM[/COLOR][/B]</link>
-<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/tNMAhvD6IvEQk6xUn1qweyvmt00.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg</fanart>
-<info>Coringa é uma história original do vilão nunca antes vista no cinema. Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante. A versão de Phillips sobre Arthur Fleck, um homem desprezado pela sociedade, não é só uma visão realista do personagem, mas também uma lição de vida.</info>
-</item>
+<layoutype>thumbnail</layoutype>
+10.07.20202
+
+<channels> </channels><channel> <item>
+<title>        [B] [COLOR yellow] SERIES G-DRIVE [/COLOR][/B]   </title>
+<link>https://</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item> <name>[B][COLOR white]SÉRIES | [COLOR orange]INFOTEC-IPTV[/COLOR] [/B]</name>****************** <item>
+<title>[B]  NOSFERATO | [COLOR orange]2019[B][/COLOR][/B]</title> 
+<link>https://</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ <info> INSTALE O DRIVE PARA RODAR AS SERIES</info>
+ </item>
+ <channels> </channels>
