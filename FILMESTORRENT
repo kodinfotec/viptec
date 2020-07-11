@@ -2,23 +2,7 @@
 <layoutype>thumbnail</layoutype>
 11.07.2020
 
-<channels> </channels><channel> <item>
-<title>[B] [COLOR yellow] BAIXE O G-DRIVE PARA RODAR AS SÉRIES[/COLOR][/B] </title>
-<link>https://</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre>ALL</genre>
-</item> <name>[B][COLOR yellow]AS MELHORES SÉRIES [/COLOR][/B] - [COLOR ogange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
- <title>[B] [/B][COLOR yellow][B][/COLOR][/B]</title>
- <link>https://</link>
- <thumbnail></thumbnail>
- <fanart></fanart>
- <info> INSTALE O G DRIVE PARA ODAR AS SÉRIES</info>
- </item>
- <channels> </channels>
- 
- <channels> </channels><channel> <name>[B] NOS4A2[/B] - [COLOR ogange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
+<channels> </channels><channel> <name>[B] NOS4A2[/B] - [COLOR ogange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
  <title>[B]1 TEMPORADA | [COLOR gold]2019[B][/COLOR]DUBLADA[/B]</title>
  <link>http://</link>
  <thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
