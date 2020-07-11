@@ -3,8 +3,8 @@
 11.07.2020
 
 
- <channels> </channels><channel> <name>[B] NOS4A2 [/B] - [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
- <title>[B]1 TEMPORADA | [COLOR gold] 2019 [B][/COLOR] DUBLADA [/B]</title>
+ <channels> </channels><channel> <name>[B] NOS4A2 [/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
+ <title>[B]1ª TEMPORADA [COLOR yellow]|||[/COLOR] 2019 [/B]</title>
  <link>http://</link>
  <thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
  <fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
@@ -18,68 +18,68 @@
 </info>
  </item>
 <item>
-  <title>[B]EP - 01 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+  <title>[B]EP - 01 [/B]</title>
   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I07oGnrZhIgkOTr03mXIKtcLjIC2VnqJ/view</link>
   <thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
   </item>
 </item>
 <item>
-<title>[B]EP - 02 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<title>[B]EP - 02 </title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-C3mnkYPOw1o9DHdkVfN0phw0vIHS4-F/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
 </item>
 <item>
-<title>[B]EP - 03 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<title>[B]EP - 03 </title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16spgpEv6WUMahV2_7U18W8LkNfRHx18m/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
 </item>
 <item>
-<title>[B]EP - 04 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<title>[B]EP - 04 </title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SBYPnh3YRTHX-TJinlq05om9kY8Lya6e/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
 </item>
 <item>
-<title>[B]EP - 05 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<title>[B]EP - 05 </title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nOwfzoV-UiOuBpQoXIj7vEbAoAbXi3X3/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
 </item>
 <item>
-<title>[B]EP - 06 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<title>[B]EP - 06 </title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1F670I76wBiWwXjZ7i9MG-gC88F3zKeH_/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
 </item>
 <item>
-<title>[B]EP - 07 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<title>[B]EP - 07 </title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_ZHPmx8IouWqzNzPtP0WwpeEaqnIeTP_/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
 </item>
 <item>
-<title>[B]EP - 08 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<title>[B]EP - 08 </title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M6XZQFp6PmZeDwyXMC2oZdO5XQ4Jvi4f/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
 </item>
 <item>
-<title>[B]EP - 09 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<title>[B]EP - 09 </title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RlkOc4NeqSIdt0ZqzwiT-5jzd7HVF11s/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
 </item>
 <item>
-<title>[B]EP - 10 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<title>[B]EP - 10 </title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Jv74oIk6C6YrO6QXZCranOL8L8DUtqCu/view</link>
 <thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
 </item>
  <item>
- <title>[B]2 TEMPORADA | [COLOR gold]2020[B][/COLOR]LEGENDADA[/B]</title>
+ <title>[B]2ª TEMPORADA [COLOR yellow]|||[/COLOR] 2020 [/B]</title>
  <link>http://</link>
  <thumbnail>https://image.tmdb.org/t/p/original/z83ZWIvyPl8JUBwlfxJIxUvugKf.jpg</thumbnail>
  <fanart>https://image.tmdb.org/t/p/original/u8jBPto2MeE5f7lX3iSKdIuHhsi.jpg</fanart>
@@ -87,25 +87,25 @@
  <genre>DRAMA, SCI-FI & FANTASY</genre>
  </item>
 <item>
-  <title>[B]EP - 01 | [COLOR gold]LEGENDADO[/COLOR][/B]</title>
+  <title>[B]EP - 01 [/B]</title>
   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XJSt_Vq2fehFxK0QMHh54x1W0s3h5TIn/view</link>
   <thumbnail>https://image.tmdb.org/t/p/original/z83ZWIvyPl8JUBwlfxJIxUvugKf.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/u8jBPto2MeE5f7lX3iSKdIuHhsi.jpg</fanart>
   </item>
 <item>
-  <title>[B]EP - 02 | [COLOR gold]LEGENDADO[/COLOR][/B]</title>
+  <title>[B]EP - 02 [/B]</title>
   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DMTWTjw370vuo4S2L7cn1cNzpvZrgpHX/view</link>
   <thumbnail>https://image.tmdb.org/t/p/original/z83ZWIvyPl8JUBwlfxJIxUvugKf.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/u8jBPto2MeE5f7lX3iSKdIuHhsi.jpg</fanart>
   </item>
 <item>
-  <title>[B]EP - 03 | [COLOR gold]LEGENDADO[/COLOR][/B]</title>
+  <title>[B]EP - 03 [/B]</title>
   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JrRofpvd9jkN29lynBQ0avhawVx3yTpc/view</link>
   <thumbnail>https://image.tmdb.org/t/p/original/z83ZWIvyPl8JUBwlfxJIxUvugKf.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/u8jBPto2MeE5f7lX3iSKdIuHhsi.jpg</fanart>
   </item>
 <item>
-  <title>[B]EP - 04 | [COLOR gold]LEGENDADO[/COLOR][/B]</title>
+  <title>[B]EP - 04 [/B]</title>
   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
   <thumbnail>https://image.tmdb.org/t/p/original/z83ZWIvyPl8JUBwlfxJIxUvugKf.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/u8jBPto2MeE5f7lX3iSKdIuHhsi.jpg</fanart>
