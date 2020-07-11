@@ -4,7 +4,7 @@
 
 <channels> </channels><channel>
 <name>[B][COLOR white]SÉRIES | [COLOR orange]INFOTEC-IPTV[/COLOR] [/B]</name>****************** <item>
-<title>[B]  NOSFERATO | [COLOR orange]2019[B][/COLOR][/B]</title> 
+<title>[B]  NOSFERATO 2ª Temporada | [COLOR orange]2019[B][/COLOR][/B]</title> 
 <link>http://</link>
  <thumbnail></thumbnail>
  <fanart></fanart>
@@ -12,7 +12,7 @@
  </item>
  <item>
 <title>[COLOR yellow][B]EPISÓDIO -> 01 [/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=17jBsP0l1l6B0MzxD5DJAtFIH6_T6QTrS</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vbNgqclcLi5MZMzm70I9DueFqMZKD0U_/view?usp=sharing</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91w0mRyzqHL._SY445_.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/91+FH+DaU5L._RI_.jpg</fanart>
 </item>
