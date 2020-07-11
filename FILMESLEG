@@ -1,34 +1,123 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <layoutype>thumbnail</layoutype>
-10.07.20202
+11.07.2020
 
-<channels> </channels><channel>
-<name>[B][COLOR white]SÉRIES | [COLOR orange]INFOTEC-IPTV[/COLOR] [/B]</name>****************** <item>
-<title>[B]  NOSFERATO 2ª Temporada | [COLOR orange]2019[B][/COLOR][/B]</title> 
+<item>
+<title>[B][COLOR gold]SÉRIE[/COLOR] | [COLOR white]NOS4A2[/COLOR] | [COLOR gold]1ª TEMPORADA[/COLOR] | [COLOR white]2019[/COLOR] | [COLOR orange]INFOTEC-IPTV[/COLOR][/B]</title>
 <link>http://</link>
- <thumbnail></thumbnail>
- <fanart></fanart>
- <info> INSTALE O DRIVE PARA RODAR AS SERIES</info>
- </item>
- <item>
-<title>[COLOR yellow][B]EPISÓDIO -> 01 [/B][/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vbNgqclcLi5MZMzm70I9DueFqMZKD0U_/view?usp=sharing</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91w0mRyzqHL._SY445_.jpg</thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/I/91+FH+DaU5L._RI_.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
+<info>
+NOS4A2 (2019)
+16
+DRAMA, SCI-FI & FANTASY
+43m
+Sinopse
+Vic McQueen é uma jovem talentosa que descobre possuir uma habilidade sobrenatural de encontrar coisas perdidas. Essa habilidade a coloca em conflito direto com o maligno e imortal Charlie Manx.
+</info>
+<genre>DRAMA, SCI-FI & FANTASY</genre>
 </item>
- <item>
-<title>[B]teste A [COLOR yellow]2014[/COLOR] | [COLOR lime]HD | HDTV[/COLOR] | [COLOR orange]INFOTEC-IPTV[/COLOR][/B]</title>
-<link>https://hii9w-my.sharepoint.com/:v:/g/personal/kodinfotec_od_wulel_com/EZ_YSOXxoOVFpRGonAfh_wQBon16DqixAHaFix2tQJEvCQ? 1download</link>
-<thumbnail>https://image.tmdb.org/t/p/original/uYt6XfKSKJsrAdWT23nwjohcHCk.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/zvZeHqaN1QH43qM622oDQF10VTi.jpg</fanart>
+
+<item>
+  <title>[B]EP - 01 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I07oGnrZhIgkOTr03mXIKtcLjIC2VnqJ/view</link>
+  <thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
+  </item>
 </item>
- <channels> </channels>
- 
- <channels> </channels><channel> <item><name>[B][COLOR white]SÉRIES | [COLOR orange]INFOTEC-IPTV[/COLOR] [/B]</name>****************** <item>
- <title>[B] NÃO FALE COM ESTRANHOS | [COLOR orange]2019[B][/COLOR][/B]</title> 
- <link>https://</link>
- <thumbnail></thumbnail>
- <fanart></fanart>
- <info> INSTALE O DRIVE PARA RODAR AS SERIES</info>
- </item>
- <channels> </channels>
+<item>
+<title>[B]EP - 02 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-C3mnkYPOw1o9DHdkVfN0phw0vIHS4-F/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
+</item>
+<item>
+<title>[B]EP - 03 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16spgpEv6WUMahV2_7U18W8LkNfRHx18m/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
+</item>
+<item>
+<title>[B]EP - 04 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SBYPnh3YRTHX-TJinlq05om9kY8Lya6e/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
+</item>
+<item>
+<title>[B]EP - 05 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nOwfzoV-UiOuBpQoXIj7vEbAoAbXi3X3/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
+</item>
+<item>
+<title>[B]EP - 06 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1F670I76wBiWwXjZ7i9MG-gC88F3zKeH_/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
+</item>
+<item>
+<title>[B]EP - 07 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_ZHPmx8IouWqzNzPtP0WwpeEaqnIeTP_/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
+</item>
+<item>
+<title>[B]EP - 08 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M6XZQFp6PmZeDwyXMC2oZdO5XQ4Jvi4f/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
+</item>
+<item>
+<title>[B]EP - 09 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RlkOc4NeqSIdt0ZqzwiT-5jzd7HVF11s/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
+</item>
+<item>
+<title>[B]EP - 10 | [COLOR gold]DUBLADO[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Jv74oIk6C6YrO6QXZCranOL8L8DUtqCu/view</link>
+<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[B][COLOR gold]SÉRIE[/COLOR] | [COLOR white]NOS4A2[/COLOR] | [COLOR gold]2ª TEMPORADA[/COLOR] | [COLOR white]2020[/COLOR] | [COLOR orange]INFOTEC-IPTV[/COLOR][/B]</title>
+<link>http://</link>
+<thumbnail>https://image.tmdb.org/t/p/original/z83ZWIvyPl8JUBwlfxJIxUvugKf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/u8jBPto2MeE5f7lX3iSKdIuHhsi.jpg</fanart>
+<info>
+NOS4A2 (2020)
+16
+DRAMA, SCI-FI & FANTASY
+43m
+Sinopse
+Vic McQueen é uma jovem talentosa que descobre possuir uma habilidade sobrenatural de encontrar coisas perdidas. Essa habilidade a coloca em conflito direto com o maligno e imortal Charlie Manx.
+</info>
+<genre>DRAMA, SCI-FI & FANTASY</genre>
+</item>
+<item>
+  <title>[B]EP - 01 | [COLOR gold]LEGENDADO[/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XJSt_Vq2fehFxK0QMHh54x1W0s3h5TIn/view</link>
+  <thumbnail>https://image.tmdb.org/t/p/original/z83ZWIvyPl8JUBwlfxJIxUvugKf.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/u8jBPto2MeE5f7lX3iSKdIuHhsi.jpg</fanart>
+  </item>
+<item>
+  <title>[B]EP - 02 | [COLOR gold]LEGENDADO[/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DMTWTjw370vuo4S2L7cn1cNzpvZrgpHX/view</link>
+  <thumbnail>https://image.tmdb.org/t/p/original/z83ZWIvyPl8JUBwlfxJIxUvugKf.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/u8jBPto2MeE5f7lX3iSKdIuHhsi.jpg</fanart>
+  </item>
+<item>
+  <title>[B]EP - 03 | [COLOR gold]LEGENDADO[/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JrRofpvd9jkN29lynBQ0avhawVx3yTpc/view</link>
+  <thumbnail>https://image.tmdb.org/t/p/original/z83ZWIvyPl8JUBwlfxJIxUvugKf.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/u8jBPto2MeE5f7lX3iSKdIuHhsi.jpg</fanart>
+  </item>
+<item>
+  <title>[B]EP - 04 | [COLOR gold]LEGENDADO[/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+  <thumbnail>https://image.tmdb.org/t/p/original/z83ZWIvyPl8JUBwlfxJIxUvugKf.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/u8jBPto2MeE5f7lX3iSKdIuHhsi.jpg</fanart>
+</item>
