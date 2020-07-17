@@ -16,12 +16,18 @@ Um júri formado por doze cidadãos comuns deve decidir o destino de uma mulher 
 </info>
 <genre>DRAMA</genre>
 </item>
+<title>Temporada 2</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE70B81744F76F9E0280246AA1B105A35EC7CFEE&dn=The.Good.Doctor.S02E01-10.720p.WEB-DL.x264.DUAL-WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU3NDc3ODE2M15BMl5BanBnXkFtZTgwNTk1OTYzNjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanar>https://m.media-amazon.com/images/M/MV5BMTU3NDc3ODE2M15BMl5BanBnXkFtZTgwNTk1OTYzNjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg</fanart>
+</item>
+
+
 <item>
-<title></title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
+<title>Temporada 1</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54FF7706A62F54A9E56A0BC44F9715F8C52ECA75&dn=The%20Good%20Doctor%202018%201%C2%AA%20Temporada%20Completa%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>http://br.web.img3.acsta.net/r_640_600/b_1_d6d6d6/pictures/17/08/15/16/43/485839.jpg</thumbnail>
+<fanar>http://br.web.img3.acsta.net/r_640_600/b_1_d6d6d6/pictures/17/08/15/16/43/485839.jpg</fanart>
 </item>
 </channels> <channels>
+<item>
