@@ -2,7 +2,7 @@
 
 
 <channels> </channels><channel> <name>[B] BREAKING BAD[/B] [COLOR orange]INFOTEC IPTV[/COLOR] </name>****************** <item>
-<title>[B]1ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
+<title> [B]1ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c1f61689123b32edd923fc86d143bc8100769e4e&dn=Breaking+Bad+2008+-+1%C2%AA+Temporada+Completa+%5B4k%5D+WWW.BLUDV.COM</link>
 <thumbnail>https://image.tmdb.org/t/p/original/bQkJ7THLSk3wBKK8ziGWwvk7TUJ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wKHImjeHwVIiWJWFIJtWUKkA5QJ.jpg</fanart>
@@ -16,7 +16,7 @@ Sinopse
 <genre>DRAMA</genre>
 </item>
 <item>
-<title>[B]2ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
+<title> [B]2ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aedddc140106f33f13a1c870b7d7cb779d73c6ce&dn=Breaking+Bad+2010+2%C2%AA+Temporada+Completa+WWW.BLUDV.COM</link>
 <thumbnail>https://image.tmdb.org/t/p/original/wm2vIEbb6lmyj8MF2PfKc0Gte3U.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/lKODbE8ARPJEPnjTBfiIJ98I3YL.jpg</fanart>
@@ -30,7 +30,7 @@ Walter e Jesse sobem rápido no mundo das drogas, atraindo a atenção de carté
 <genre>DRAMA</genre>
 </item>
 <item>
-<title>[B]3ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
+<title> [B]3ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2520f7b502ef0ef745f8e0831085f80876e47195&dn=Breaking+Bad+2010+3%C2%AA+Temporada+WWW.BLUDV.COM</link>
 <thumbnail>https://image.tmdb.org/t/p/original/ReYdHeVjpC2f47heAVzqsMvfri.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wuwcaQlk6ldGXgQiVgV0MshOxHE.jpg</fanart>
@@ -44,7 +44,7 @@ Para sustentar sua família, Walter continua a fabricar metanfetamina às escond
 <genre>DRAMA</genre>
 </item>
 <item>
-<title>[B]4ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
+<title> [B]4ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=>magnet:?xt=urn:btih:e3252dd6406daa753ca76e82820291fd2a0fec96&dn=Breaking+Bad+2011+4%C2%AA+Temporada+Completa+WWW.BLUDV.COM</link>
 <thumbnail>https://image.tmdb.org/t/p/original/miAH1yeT7XIqUpXBDpVfoVybFl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/nPJ1quzQIDhu4u5tqjE6baKcOMT.jpg</fanart>
@@ -58,7 +58,7 @@ Bryan Cranston está de volta em mais uma temporada como Walter White, que conti
 <genre>DRAMA</genre>
 </item>
 <item>
-<title>[B]5ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
+<title> [B]5ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
 <link></link>
 <thumbnail>https://image.tmdb.org/t/p/original/b5wn600jumP0FcrvAcJkvIz1CrK.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/zQp0DoO0zcTDZSci7AgcRvdmWZi.jpg</fanart>
@@ -132,9 +132,107 @@ Um júri formado por doze cidadãos comuns deve decidir o destino de uma mulher 
 </info>
 <genre>DRAMA</genre>
 </item>
+ <channels> </channels>
+ 
+<channels> </channels><channel> <name>[B]MANIFEST [/B] [COLOR ogange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
+<title> [B]1ª TEMPORADA  [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SRFNICB7JJXQ2WNZD7ZYUIKRUITLTMHK&dn=Manifest%201%C2%AA%20Temporada%20Completa%202019%20%5B720p%5D%20%5BWEB-DL%5D%20%5BDUAL%5D</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eN3RtP0zPHrbUxhQAAN0kWHfVmF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6PwZyC9BGlLxif5J3EUUxyCH8Wo.jpg</fanart>
+<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+[COLOR yellow]MANIFEST: O Mistério do Voo 828[/COLOR] - 2018 / 2020
+12
+42m
+Sinopse
+Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.
+</info>
+<genre>DRAMA, MISTÉRIO</genre>
+</item>
+<item>
+<title> [B]2ª TEMPORADA  [COLOR lime]HD[/COLOR][/B]</title>
+<link></link>
+<thumbnail>https://image.tmdb.org/t/p/original/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hTIGrZkH9k8flGOS1yo7esFZEqK.jpg</fanart>
+<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+[COLOR yellow]MANIFEST: O Mistério do Voo 828[/COLOR] - 2018 / 2020
+12
+42m
+Sinopse
+</info>
+<genre>DRAMA, MISTÉRIO</genre>
+</item>
+<channels> </channels>
+ 
+<channels> </channels><channel> <name>[B]THE 100 [/B] [COLOR ogange]INFOTEC-IPTV[/COLOR] </name>****************** <item> <title>[B][COLOR lime]BAIXE O ELEMENTUM PARA RODAR AS SERIES[/B][COLOR yellow][B][/COLOR][/B]</title>
+<link>https://</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[ BY INFOTEC IPTV ]
+
+</info>
+</item><item>
+<title>[B]1ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5319135e7b23011cc2b23162e3e0ae8c31c99955</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]2ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b60b413a3d304ff088ea3e199b2b82e0ff03f06</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]3ª TEMPORADA [COLOR lime](1080p)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c14e5e63be4e321f0cc229452f3edf8d86c98a21</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+</info>
+<genre></genre>
+</item>
+ 
+<item>
+<title>[B]4ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f727a72a1147e73c2aa1b61a7d87dcf6404cba34</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+</info>
+<genre></genre>
+</item>
+ 
+<item>
+<title>[B]5ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3123f570c4625cd07a0684f1bc6b084c5ab006d3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]6ª TRMPORADA [COLOR lime](1080p)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a90cfde781f1a1f4cb104f586c48321391460530</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+</info>
+<genre></genre>
+</item><channels> </channels>
+
  
  
-<channels> <cahnnels> <channel> <name>[B] [/B] - [COLOR orange]INFOTEC IPTV[/COLOR]</name>******************<item>
+<channels> <cahnnels> <channel> <name>[B] [/B] [COLOR orange]INFOTEC IPTV[/COLOR]</name>******************<item>
 <title>
 <link></link>
 <thumbnail></thumbnail>
