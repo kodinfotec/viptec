@@ -1,245 +1,32 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8"?>
 
+<channels>
 
-<channels> </channels><channel> <name>[B] BREAKING BAD[/B] [COLOR orange]INFOTEC IPTV[/COLOR] </name>****************** <item>
-<title> [B]1ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c1f61689123b32edd923fc86d143bc8100769e4e&dn=Breaking+Bad+2008+-+1%C2%AA+Temporada+Completa+%5B4k%5D+WWW.BLUDV.COM</link>
-<thumbnail>https://image.tmdb.org/t/p/original/bQkJ7THLSk3wBKK8ziGWwvk7TUJ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/wKHImjeHwVIiWJWFIJtWUKkA5QJ.jpg</fanart>
+<channel>
+<name>[B][COLOR lime]●[COLOR orange] SÉRIES [COLOR salmon] TORRENT [COLOR white]ATUALIZADAS[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/BMeEO3z.png</thumbnail>
+<externallink>https://gitlab.com/infoteckodionline/infoteckodi2020/-/raw/master/SERIES/SERIESTORRENT/SERIESTORRENT03</externallink>
+<fanart>https://i.imgur.com/yu5HTqR.jpg</fanart>
 <info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[COLOR yellow]BREAKING BAD: A Química do Mal[/COLOR] - 2008 / 2009 / 2010 / 2011 / 2012
-18
-45m
-Sinopse
-À medida que Walter constrói seu império, sua esposa começa a suspeitar do seu comportamento. A polícia federal tenta descobrir quem é o novo cabeça.
 </info>
-<genre>[COLOR salmon]DRAMA[/COLOR]</genre>
-</item>
-<item>
-<title> [B]2ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aedddc140106f33f13a1c870b7d7cb779d73c6ce&dn=Breaking+Bad+2010+2%C2%AA+Temporada+Completa+WWW.BLUDV.COM</link>
-<thumbnail>https://image.tmdb.org/t/p/original/wm2vIEbb6lmyj8MF2PfKc0Gte3U.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/lKODbE8ARPJEPnjTBfiIJ98I3YL.jpg</fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[COLOR yellow]BREAKING BAD: A Química do Mal[/COLOR] - 2008 / 2009 / 2010 / 2011 / 2012
-18
-45m
-Sinopse
-Walter e Jesse sobem rápido no mundo das drogas, atraindo a atenção de cartéis rivais e ameaçando a vida de Hank, cunhado policial de Walter.
-</info>
-<genre>[COLOR salmon]DRAMA[/COLOR]</genre>
-</item>
-<item>
-<title> [B]3ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2520f7b502ef0ef745f8e0831085f80876e47195&dn=Breaking+Bad+2010+3%C2%AA+Temporada+WWW.BLUDV.COM</link>
-<thumbnail>https://image.tmdb.org/t/p/original/ReYdHeVjpC2f47heAVzqsMvfri.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/wuwcaQlk6ldGXgQiVgV0MshOxHE.jpg</fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[COLOR yellow]BREAKING BAD: A Química do Mal[/COLOR] - 2008 / 2009 / 2010 / 2011 / 2012
-18
-45m
-Sinopse
-Para sustentar sua família, Walter continua a fabricar metanfetamina às escondidas. Jesse, seu ex-aluno, fica viciado em heroína.
-</info>
-<genre>[COLOR salmon]DRAMA[/COLOR]</genre>
-</item>
-<item>
-<title> [B]4ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=>magnet:?xt=urn:btih:e3252dd6406daa753ca76e82820291fd2a0fec96&dn=Breaking+Bad+2011+4%C2%AA+Temporada+Completa+WWW.BLUDV.COM</link>
-<thumbnail>https://image.tmdb.org/t/p/original/miAH1yeT7XIqUpXBDpVfoVybFl.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/nPJ1quzQIDhu4u5tqjE6baKcOMT.jpg</fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[COLOR yellow]BREAKING BAD: A Química do Mal[/COLOR] - 2008 / 2009 / 2010 / 2011 / 2012
-18
-45m
-Sinopse
-Bryan Cranston está de volta em mais uma temporada como Walter White, que continua a fabricar cristal e tenta passar a perna no traficante Gus Fring.
-</info>
-<genre>[COLOR salmon]DRAMA[/COLOR]</genre>
-</item>
-<item>
-<title> [B]5ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/original/b5wn600jumP0FcrvAcJkvIz1CrK.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/zQp0DoO0zcTDZSci7AgcRvdmWZi.jpg</fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[COLOR yellow]BREAKING BAD: A Química do Mal[/COLOR] - 2008 / 2009 / 2010 / 2011 / 2012
-18
-45m
-Sinopse
-Nos episódios finais, Walt já não está mais apenas fingindo ser mau. Ele é agora um poderoso chefe do narcotráfico, pondo tudo e a todos em risco.
-</info>
-<genre>[COLOR salmon]DRAMA[/COLOR]</genre>
-</item>
-<channels> </channels>
+</channel>
 
+<channel>
+<name>[B][COLOR lime]●[COLOR orange] SÉRIES [COLOR salmon] TORRENT [COLOR white]AS MELHORES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/BMeEO3z.png</thumbnail>
+<externallink>https://gitlab.com/infoteckodionline/infoteckodi2020/-/raw/master/SERIES/SERIESTORRENT/SERIESTORRENT</externallink>
+<fanart>https://i.imgur.com/yu5HTqR.jpg</fanart>
+<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+</info>
+</channel>
 
-<channels> </channels><channel> <name>[B]DARK [/B] [COLOR orange]INFOTEC IPTV[/COLOR] </name>****************** <item>
-<title> [B]1ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5140faa5fbb0a27be3c7bdc5354674f2eea510f</link>
-<thumbnail>https://image.tmdb.org/t/p/original/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/75HgaphatW0PDI3XIHQWZUpbhn6.jpg</fanart>
+<channel>
+<name>[B][COLOR lime]●[COLOR orange] SÉRIES [COLOR salmo] G DRIVE [COLOR white]ATUALIZADAS[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/BMeEO3z.png</thumbnail>
+<externallink>https://gitlab.com/infoteckodionline/infoteckodi2020/-/raw/master/SERIES/SERIES_G-DRIVE</externallink>
+<fanart>https://i.imgur.com/yu5HTqR.jpg</fanart>
 <info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[COLOR yellow]Dark[/COLOR] - 2017 / 2019
-16
-53m
-Sinopse
-Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.
 </info>
-<genre>[COLOR salmon]SCI-FI & FANTASY, DRAMA, MISTÉRIO, CRIME[/COLOR]</genre>
-</item> 
-<item>
-<title> [B]2ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12ba417a923d0cc95f70b4f3e1cc17a262bf37f9</link>
-<thumbnail>https://image.tmdb.org/t/p/original/hirYBWzw63lYwZtbxq6cyEcdW7A.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/3lBDg3i6nn5R2NKFCJ6oKyUo2j5.jpg</fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[COLOR yellow]Dark[/COLOR] - 2017 / 2019
-16
-53m
-Sinopse
-Seis meses após o desaparecimento de Mikkel, Jonas e Ulrich, as coisas em Winden estão cada vez mais misteriosas — e põem em jogo o futuro do mundo .
-</info>
-<genre>[COLOR salmon]SCI-FI & FANTASY, DRAMA, MISTÉRIO, CRIME[/COLOR]</genre> 
-</item> 
-<item>
-<title> [B]3ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:861AD7F2DE96ADCF31BB5B6BAD24E715FFBE8B8A&dn=DARK%203%c2%aa%20Temporada%20%282020%29%20Dublado%20WEB-DL%201080p%20COMANDO4K.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mCekE85ukPTMJ0jN179TvAkCHqY.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/qDKb6hCDsQJRHn6jFQcH0vf76r6.jpg</fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[COLOR yellow]Dark[/COLOR] - 2017 / 2019
-16
-53m
-Sinopse
-Ao sair da caverna em 2019, Jonas encontra um mundo estranhamente familiar. É a cidade de Winden, ainda em choque pelo desaparecimento de um menino.
-</info>
-<genre>[COLOR salmon]SCI-FI & FANTASY, DRAMA, MISTÉRIO, CRIME[/COLOR]</genre>
-</item>
-<channels> </channels>
+</channel>
 
-
-<channels> </channels><channel> <name>[B]DOZE JURADOS [/B] [COLOR orange]INFOTEC IPTV[/COLOR] </name>****************** <item>
-<title> [B]1ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e30d65a5d703fb1024e44d796698f2d232f834fd&dn=COMANDO.TO%20-%20Doze%20Jurados%201%c2%aa%20Temporada%20Completa%202020%20%5b720p%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
-<thumbnail>https://image.tmdb.org/t/p/original/qn4hUvR6aYm9A52vO87q3Q7u1pU.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/70zM2u5ng1DK6G0APcFD5WWKFN7.jpg</fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[COLOR yellow]DOZE JURADOS[/COLOR] - 2019
-45m
-Sinopse
-Um júri formado por doze cidadãos comuns deve decidir o destino de uma mulher acusada de matar sua melhor amiga e sua
-</info>
-<genre>[COLOR salmon]DRAMA[/COLOR]</genre>
-</item>
- <channels> </channels>
- 
-<channels> </channels><channel> <name>[B]MANIFEST [/B] [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
-<title> [B]1ª TEMPORADA  [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SRFNICB7JJXQ2WNZD7ZYUIKRUITLTMHK&dn=Manifest%201%C2%AA%20Temporada%20Completa%202019%20%5B720p%5D%20%5BWEB-DL%5D%20%5BDUAL%5D</link>
-<thumbnail>https://image.tmdb.org/t/p/original/eN3RtP0zPHrbUxhQAAN0kWHfVmF.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/6PwZyC9BGlLxif5J3EUUxyCH8Wo.jpg</fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[COLOR yellow]MANIFEST: O Mistério do Voo 828[/COLOR] - 2018 / 2020
-12
-42m
-Sinopse
-Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.
-</info>
-<genre>[COLOR salmon]DRAMA, MISTÉRIO[/COLOR]</genre>
-</item>
-<item>
-<title> [B]2ª TEMPORADA  [COLOR lime]HD[/COLOR][/B]</title>
-<link></link>
-<thumbnail>https://image.tmdb.org/t/p/original/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/hTIGrZkH9k8flGOS1yo7esFZEqK.jpg</fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[COLOR yellow]MANIFEST: O Mistério do Voo 828[/COLOR] - 2018 / 2020
-12
-42m
-Sinopse
-</info>
-<genre>[COLOR salmon]DRAMA, MISTÉRIO[/COLOR]</genre>
-</item>
-<channels> </channels>
- 
-<channels> </channels><channel> <name>[B]THE 100 [/B] [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
-<title>[B]1ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5319135e7b23011cc2b23162e3e0ae8c31c99955</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-</info>
-<genre></genre>
-</item>
-
-<item>
-<title>[B]2ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b60b413a3d304ff088ea3e199b2b82e0ff03f06</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-</info>
-<genre></genre>
-</item>
-
-<item>
-<title>[B]3ª TEMPORADA [COLOR lime](1080p)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c14e5e63be4e321f0cc229452f3edf8d86c98a21</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-</info>
-<genre></genre>
-</item>
- 
-<item>
-<title>[B]4ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f727a72a1147e73c2aa1b61a7d87dcf6404cba34</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-</info>
-<genre></genre>
-</item>
- 
-<item>
-<title>[B]5ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3123f570c4625cd07a0684f1bc6b084c5ab006d3</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-</info>
-<genre></genre>
-</item>
-
-<item>
-<title>[B]6ª TRMPORADA [COLOR lime](1080p)[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a90cfde781f1a1f4cb104f586c48321391460530</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-</info>
-<genre></genre>
-</item><channels> </channels>
-
- 
- 
-<channels> <cahnnels> <channel> <name>[B] [/B] [COLOR orange]INFOTEC IPTV[/COLOR]</name>******************<item>
-<title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>
-</info>
-<genre></genre>
-</item>
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-</channels> <channels>
+</channels>
