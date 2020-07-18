@@ -163,14 +163,7 @@ Sinopse
 </item>
 <channels> </channels>
  
-<channels> </channels><channel> <name>[B]THE 100 [/B] [COLOR ogange]INFOTEC-IPTV[/COLOR] </name>****************** <item> <title>[B][COLOR lime]BAIXE O ELEMENTUM PARA RODAR AS SERIES[/B][COLOR yellow][B][/COLOR][/B]</title>
-<link>https://</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[ BY INFOTEC IPTV ]
-
-</info>
-</item><item>
+<channels> </channels><channel> <name>[B]THE 100 [/B] [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
 <title>[B]1ª TEMPORADA [COLOR lime]HD[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5319135e7b23011cc2b23162e3e0ae8c31c99955</link>
 <thumbnail></thumbnail>
