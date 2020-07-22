@@ -1,114 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-11.07.2020
+22.07.2020
 
-
- <channels> </channels><channel> <name>[B][COLOR lime]>>>[/COLOR] NOS4A2 [/B] | [COLOR orange]INFOTEC-IPTV[/COLOR] </name>****************** <item>
- <title>[B][COLOR orange]NOS4A2[/COLOR]   1ª TEMPORADA [COLOR yellow](2019)[/COLOR][/B]</title>
- <link>http://</link>
- <thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
- <fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
- <info>[ [COLOR orange]INFOTEC IPTV[/COLOR] ]
- NOS4A2 (2019)
- 16
- DRAMA, SCI-FI & FANTASY
- 43m
- Sinopse
- Vic McQueen é uma jovem talentosa que descobre possuir uma habilidade sobrenatural de encontrar coisas perdidas. Essa habilidade a coloca em conflito direto com o maligno e imortal Charlie Manx.
-</info>
-<genre>DRAMA, SCI-FI & FANTASY</genre>
- </item>
 <item>
-  <title>[B][COLOR lime]EP[/COLOR] ● [COLOR yellow]01[/COLOR] [COLOR white]Misterio[/COLOR][/B]</title>
-  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lE1RrFZ0-567c2BoQBxop-lpzSSlzkBF/view</link>
+<title>[B][COLOR=orange]<<• [COLOR=salmon]MISTÉRIOS SEM SOLUÇÃO [COLOR=white]1ª TEMPORADA [COLOR=orange]2020 •>>[/COLOR][/B]</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+MISTÉRIOS SEM SOLUÇÃO (2020)
+TV-MA
+[COLOR yellow]SINOPSE
+[COLOR white]Série reboot desenvolvida pela Netflix. Histórias imersivas e motivadas por personagens estão enraizadas nas experiências de pessoas comuns que viveram o impensável. Famílias, detetives e jornalistas esperam que os telespectadores possuam pistas para solucionar esses mistérios.
+[/COLOR]</info>
+<genre>[B][COLOR salmon]DRAMA, MISTÉRIO[/COLOR][/B]</genre>
+<genre></genre>
+</item>
+<item>
+  <title>[B][COLOR lime]EP[/COLOR] • [COLOR yellow]01[/COLOR] [COLOR white][/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <info></info>
 </item>
-</item>
-<item>
-<title>EP - 02 </title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-C3mnkYPOw1o9DHdkVfN0phw0vIHS4-F/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
-</item>
-<item>
-<title>EP - 03 </title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16spgpEv6WUMahV2_7U18W8LkNfRHx18m/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
-</item>
-<item>
-<title>EP - 04 </title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SBYPnh3YRTHX-TJinlq05om9kY8Lya6e/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
-</item>
-<item>
-<title>EP - 05 </title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nOwfzoV-UiOuBpQoXIj7vEbAoAbXi3X3/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
-</item>
-<item>
-<title>EP - 06 </title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1F670I76wBiWwXjZ7i9MG-gC88F3zKeH_/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
-</item>
-<item>
-<title>EP - 07 </title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_ZHPmx8IouWqzNzPtP0WwpeEaqnIeTP_/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
-</item>
-<item>
-<title>EP - 08 </title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M6XZQFp6PmZeDwyXMC2oZdO5XQ4Jvi4f/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
-</item>
-<item>
-<title>EP - 09 </title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RlkOc4NeqSIdt0ZqzwiT-5jzd7HVF11s/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
-</item>
-<item>
-<title>EP - 10 </title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Jv74oIk6C6YrO6QXZCranOL8L8DUtqCu/view</link>
-<thumbnail>https://image.tmdb.org/t/p/original/gnosVTTRTCqooJuipwU6C0bgOGf.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/enRS7bE43q7VmurYqlyroOeZLGa.jpg</fanart>
-</item>
- <item>
- <title>[B][COLOR orange]NOS4A2[/COLOR]   2ª TEMPORADA [COLOR yellow](2020)[/COLOR][/B]</title>
- <link>http://</link>
- <thumbnail>https://image.tmdb.org/t/p/original/z83ZWIvyPl8JUBwlfxJIxUvugKf.jpg</thumbnail>
- <fanart>https://image.tmdb.org/t/p/original/u8jBPto2MeE5f7lX3iSKdIuHhsi.jpg</fanart>
- <info>[ [COLOR orange]INFOTEC IPTV[/COLOR] ]</info>
- <genre>DRAMA, SCI-FI & FANTASY</genre>
- </item>
-<item>
-  <title>EP - 01 </title>
-  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XJSt_Vq2fehFxK0QMHh54x1W0s3h5TIn/view</link>
-  <thumbnail>https://image.tmdb.org/t/p/original/z83ZWIvyPl8JUBwlfxJIxUvugKf.jpg</thumbnail>
-  <fanart>https://image.tmdb.org/t/p/original/u8jBPto2MeE5f7lX3iSKdIuHhsi.jpg</fanart>
-  </item>
-<item>
-  <title>EP - 02 </title>
-  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DMTWTjw370vuo4S2L7cn1cNzpvZrgpHX/view</link>
-  <thumbnail>https://image.tmdb.org/t/p/original/z83ZWIvyPl8JUBwlfxJIxUvugKf.jpg</thumbnail>
-  <fanart>https://image.tmdb.org/t/p/original/u8jBPto2MeE5f7lX3iSKdIuHhsi.jpg</fanart>
-  </item>
-<item>
-  <title>EP - 03 </title>
-  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JrRofpvd9jkN29lynBQ0avhawVx3yTpc/view</link>
-  <thumbnail>https://image.tmdb.org/t/p/original/z83ZWIvyPl8JUBwlfxJIxUvugKf.jpg</thumbnail>
-  <fanart>https://image.tmdb.org/t/p/original/u8jBPto2MeE5f7lX3iSKdIuHhsi.jpg</fanart>
-  </item>
-<item>
-  <title>EP - 04 </title>
-  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
-  <thumbnail>https://image.tmdb.org/t/p/original/z83ZWIvyPl8JUBwlfxJIxUvugKf.jpg</thumbnail>
-  <fanart>https://image.tmdb.org/t/p/original/u8jBPto2MeE5f7lX3iSKdIuHhsi.jpg</fanart>
-</item>
- <channels> </channels>
