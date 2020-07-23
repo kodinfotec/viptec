@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <channel>
       <name>[COLOR=orange]<<•  [/COLOR][COLOR=white]INFOTEC-IPTV: TUDO QUE PRECISA ESTÁ AQUI. [COLOR gold]https://infotec-kodi-online.webnode.com [/COLOR][COLOR=orange]  •>>[/COLOR]</name>
   <thumbnail>https://i.imgur.com/O8UNNXL.jpg</thumbnail>
@@ -48,5 +50,5 @@
 1   <fanart></fanart>
 1   <info></info>  
 <link>http://ignoreme</link>
-   <externallink></externallink>
+   <externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/SERIESGDRIVE2</externallink>
 </item>
