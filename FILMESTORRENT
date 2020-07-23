@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <channel>
-      <name>[COLOR=orange]<<•  [/COLOR][COLOR=orange]INFOTEC-IPTV:  [COLOR gold]https://infotec-kodi-online.webnode.com [/COLOR][COLOR=orange]  •>>[/COLOR]</name>
+      <name>[COLOR=orange]<<•  [/COLOR][COLOR=white]INFOTEC-IPTV: TUDO QUE PRECISA ESTÁ AQUI. [COLOR gold]https://infotec-kodi-online.webnode.com [/COLOR][COLOR=orange]  •>>[/COLOR]</name>
   <thumbnail>https://i.imgur.com/O8UNNXL.jpg</thumbnail>
 <fanart>https://i.imgur.com/LAZ4rDd.jpg</fanart>
 <genre>[B][COLOR firebrick]SÉRIES ATUALIZADAS: [COLOR white]INFOTEC-IPTV[/COLOR][/B]</genre>
@@ -12,23 +10,7 @@
 ******************************************************************************************************
 <channels>
 </channels><channel>  
- [B][COLOR=orange]<<•  ABSENTIA [COLOR=white] ( 3 Temporadas ) [/COLOR][COLOR=orange] •>>[/COLOR][/B]
-<item>
-      <name>[B][COLOR orange]•   ABSENTIA [COLOR white] 3 Temporadas [/COLOR][/B]</name>
-  <thumbnail>https://image.tmdb.org/t/p/original/uy236cUbjkG0ncSmNeMz2f2OO9Q.jpg</thumbnail>
-1   <genre>[B][COLOR gold]CRIME, DRAMA, MISTÉRIO[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/OwDuNYVpVsC4kBcGvniaEraUM7.jpg</fanart>
-1   <info>[B][COLOR yellow] SINOPSE:
-[COLOR white]Emily Byrne (Stana Katic) é uma agente do FBI que assume a difícil missão de capturar um dos assassinos mais perigosos de Boston, mas, durante as investigações, ela acaba desaparecendo sem deixar pistas. Seis anos depois, ela é encontrada quase sem vida e sem memória dentro de uma cabana no meio da floresta. Ao voltar para a sua vida normal, no entanto, Emily descobre que além de seu marido ter se casado com outra mulher, levar uma vida longe de casos criminais será um sonho distante para ela. [/COLOR][/B]</info>  
-<link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/KYEiuxYe</externallink>
-</item>
-
- ***************************************************************************************************************************
-************************************
-<channels>
-</channels><channel>  
- [B][COLOR=orange]<<•  12 MONKEYS [COLOR=white] ( 4 Temporadas ) [/COLOR][COLOR=orange] •>>[/COLOR][/B]
+ [B][COLOR=orange]<<•  12 MONKEYS [COLOR=white]  4 Temporadas  [/COLOR][COLOR=orange] •>>[/COLOR][/B]
 <item>
       <name>[B][COLOR orange]•   12 MONKEYS [COLOR white] 4 Temporadas [/COLOR][/B]</name>
   <thumbnail>https://image.tmdb.org/t/p/original/tPX5Jg29XSx05qNterYGYGKbh3o.jpg</thumbnail>
@@ -39,6 +21,32 @@
 <link>http://ignoreme</link>
    <externallink>https://pastebin.com/raw/KYEiuxYe</externallink>
 </item>
-
  ***************************************************************************************************************************
 ************************************
+<channels>
+</channels><channel>  
+ [B][COLOR=orange]<<•  ABSENTIA [COLOR=white]  3 Temporadas  [/COLOR][COLOR=orange] •>>[/COLOR][/B]
+<item>
+      <name>[B][COLOR orange]•   ABSENTIA [COLOR white] 3 Temporadas [/COLOR][/B]</name>
+  <thumbnail>https://image.tmdb.org/t/p/original/uy236cUbjkG0ncSmNeMz2f2OO9Q.jpg</thumbnail>
+1   <genre>[B][COLOR gold]CRIME, DRAMA, MISTÉRIO[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/OwDuNYVpVsC4kBcGvniaEraUM7.jpg</fanart>
+1   <info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Emily Byrne (Stana Katic) é uma agente do FBI que assume a difícil missão de capturar um dos assassinos mais perigosos de Boston, mas, durante as investigações, ela acaba desaparecendo sem deixar pistas. Seis anos depois, ela é encontrada quase sem vida e sem memória dentro de uma cabana no meio da floresta. Ao voltar para a sua vida normal, no entanto, Emily descobre que além de seu marido ter se casado com outra mulher, levar uma vida longe de casos criminais será um sonho distante para ela. [/COLOR][/B]</info>  
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/KYEiuxYe</externallink>
+</item>
+***************************************************************************************************************************
+************************************
+<channels>
+</channels><channel>
+[B][COLOR=orange]<<•  PRÓXIMAS[COLOR=white] SÉRIES [/COLOR][COLOR=orange] •>>[/COLOR][/B]
+<item>
+      <name>[B][COLOR orange]•   PRÓXIMA [COLOR white]  [/COLOR][/B]</name>
+  <thumbnail></thumbnail>
+1   <genre>[B][COLOR gold]SEMPRE AS MELHORES SÉRIES[/COLOR][/B]</genre>
+1   <fanart></fanart>
+1   <info></info>  
+<link>http://ignoreme</link>
+   <externallink></externallink>
+</item>
