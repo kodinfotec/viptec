@@ -2,7 +2,7 @@
 
 <channels>
 </channels><channel>
-<name>[COLOR yellow][B]<<•  ABSENTIA  [COLOR white] [ 1ªTEMPORADA ]  [/B]>>[/COLOR]</name>
+<name>[COLOR orange][B]<<•  ABSENTIA  [COLOR white] [ 1ªTEMPORADA ]  [/B]>>[/COLOR]</name>
 <genre>[B][COLOR firebrick]Drama[/COLOR][/B]</genre>
 <info>[B][COLOR yellow] SINOPSE:
 [COLOR white]Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados.
@@ -17,3 +17,13 @@
 1	<info>[B][COLOR yellow] SINOPSE:
 [COLOR white]Os candidatos encontram uma oferta tentadora ao chegarem ao novo alojamento. Os que decidem ficar enfrentam testes individuais cada vez mais difíceis. (MrPikachu)[/COLOR][/B]</info>	
 </item>	
+<item>	
+2	<title>[B][COLOR white]• [COLOR lime]2 [COLOR white]- [COLOR yellow] Capitulo 02: Moedas[/B][/COLOR]</title>
+2	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gubKdeA9scjPCULbos_N6BYlAMDPvXzQ/view?usp=sharing</link>
+2	<thumbnail>https://image.tmdb.org/t/p/original/pcD1n9FnSkSzzlyH4frMlVzaI8I.jpg</thumbnail>
+2	<genre>[B][COLOR firebrick]MrPikachu, Drama[/COLOR][/B]</genre>
+2	<fanart>https://image.tmdb.org/t/p/original/sl9WvMXRhw2hobO0GAJMDykt2u.jpg</fanart>
+2	<info>[B][COLOR yellow] SINOPSE:
+[COLOR white]O exame médico de Fernando leva a uma incrível descoberta. Um desafio de lógica aumenta a tensão no grupo. Aline tenta descobrir o segredo de Ezequiel. (MrPikachu)[/COLOR][/B]</info>	
+</item>	
+<item>	
