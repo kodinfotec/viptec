@@ -1,13 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <channels>
-</channels><channel>  
- 
-<item>
-      <name>[B][COLOR=orange]<<•  3% [COLOR=white] 3ª Temporadas [/COLOR][COLOR=orange] •>>[/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/jVObyxtNxuPbG5czuKvm7pW56EV.jpg</thumbnail>
-1	<genre>[B]INFOTEC-IPTV [COLOR firebrick] DRAMA [/COLOR][/B]</genre>
-1	<fanart>https://image.tmdb.org/t/p/original/jEdce7g6VZHMoJ7DANX8NFQkVAW.jpg</fanart>
+</channels><channel>
+<name>[COLOR yellow][B]<<•  ABSENTIA  [COLOR white] [ 1ªTEMPORADA ]  [/B]>>[/COLOR]</name>
+<genre>[B][COLOR firebrick]Drama[/COLOR][/B]</genre>
+<info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados.
+[/COLOR][/B]</info>
+
+<item>	
+1	<title>[B][COLOR white]• [COLOR lime]1 [COLOR white]- [COLOR yellow] Capitulo 01: Cubo [/B][/COLOR]</title>
+1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17fIAssSTe70mSfH-fMnf4s_KO20PRPh-/view?usp=sharing</link>
+1	<thumbnail>https://image.tmdb.org/t/p/original/pcD1n9FnSkSzzlyH4frMlVzaI8I.jpg</thumbnail>
+1	<genre>[B][COLOR firebrick]MrPikachu, Drama[/COLOR][/B]</genre>
+1	<fanart>https://image.tmdb.org/t/p/original/sl9WvMXRhw2hobO0GAJMDykt2u.jpg</fanart>
 1	<info>[B][COLOR yellow] SINOPSE:
-[COLOR white]Toni Hamady planeja deixar para trás os negócios da família e viver uma vida sem crimes, com sua esposa e filha. (MrPikachu)...Faca sua Doacao...[COLOR yellow][ http://bit.ly/doarpikachu ] !!![/COLOR][/B]</info>	
-   <link>http://ignoreme</link>
-   <externallink>https://pastebin.com/raw/phFiDD3C</externallink>
-</item>
+[COLOR white]Os candidatos encontram uma oferta tentadora ao chegarem ao novo alojamento. Os que decidem ficar enfrentam testes individuais cada vez mais difíceis. (MrPikachu)[/COLOR][/B]</info>	
+</item>	
