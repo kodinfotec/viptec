@@ -26,4 +26,22 @@
 2	<info>[B][COLOR yellow] SINOPSE:
 [COLOR white]O exame médico de Fernando leva a uma incrível descoberta. Um desafio de lógica aumenta a tensão no grupo. Aline tenta descobrir o segredo de Ezequiel. (MrPikachu)[/COLOR][/B]</info>	
 </item>	
+<item>
+
+<channels>
+</channels><channel>
+<name>[COLOR orange][B]<<•  ABSENTIA  [COLOR white] [ 2ªTEMPORADA ]  [COLOR orange] •>>[/COLOR][/B]</name>
+<genre>[B][COLOR firebrick]Drama[/COLOR][/B]</genre>
+<info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados.
+[/COLOR][/B]</info>
+
 <item>	
+1	<title>[B][COLOR white]• [COLOR lime]1 [COLOR white]- [COLOR yellow] Capitulo 01: Cubo [/B][/COLOR]</title>
+1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17fIAssSTe70mSfH-fMnf4s_KO20PRPh-/view?usp=sharing</link>
+1	<thumbnail>https://image.tmdb.org/t/p/original/pcD1n9FnSkSzzlyH4frMlVzaI8I.jpg</thumbnail>
+1	<genre>[B][COLOR firebrick]MrPikachu, Drama[/COLOR][/B]</genre>
+1	<fanart>https://image.tmdb.org/t/p/original/sl9WvMXRhw2hobO0GAJMDykt2u.jpg</fanart>
+1	<info>[B][COLOR yellow] SINOPSE:
+[COLOR white]Os candidatos encontram uma oferta tentadora ao chegarem ao novo alojamento. Os que decidem ficar enfrentam testes individuais cada vez mais difíceis. (MrPikachu)[/COLOR][/B]</info>	
+</item>	
