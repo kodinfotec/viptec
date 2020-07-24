@@ -13,3 +13,10 @@ Depois de chegar em um novo planeta, nossos heróis encontraram um lugar onde es
 [/COLOR]</info>
 <genre>[COLOR white]FICÇÃO CIENTÍFICA, FANTASIA, DRAMA, AÇÃO, AVENTURA[/COLOR]</genre>
 </item>
+<item>
+  <title>[B][COLOR lime]EP[/COLOR] ● [COLOR yellow]01[/COLOR] [COLOR white]Vindo das cinzas[/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LF5hlH5VhG2XXu90kXOkoI2pajTftNCM/view</link>
+  <thumbnail>https://image.tmdb.org/t/p/original/oBxyJWUCqrZ9kjcK2yzzRsjehLH.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/zvZeHqaN1QH43qM622oDQF10VTi.jpg</fanart>
+  <info>Clarke e seus amigos tentam reconstruir Sanctum quando uma nova ameaça surge na floresta</info>
+</item>
