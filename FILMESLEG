@@ -1,47 +1,61 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <channels>
 </channels><channel>
-<name>[COLOR orange][B]<<•  ABSENTIA  [COLOR white] [ 1ªTEMPORADA ]  [COLOR orange] •>>[/COLOR][/B]</name>
-<genre>[B][COLOR firebrick]Drama[/COLOR][/B]</genre>
-<info>[B][COLOR yellow] SINOPSE:
-[COLOR white]Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados.
+<name>[COLOR orange][B]<<•  BREAKING BAD  [COLOR white] [ 5 TEMPORADA ]  [COLOR orange] •>>[/COLOR][/B]</name>
+<genre>[B][COLOR white]DRAMA[/COLOR][/B]</genre>
+<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+[B][COLOR yellow] SINOPSE:
+[COLOR white]
 [/COLOR][/B]</info>
 
 <item>	
-1	<title>[B][COLOR white]• [COLOR lime]1 [COLOR white]- [COLOR yellow] Capitulo 01: Cubo [/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17fIAssSTe70mSfH-fMnf4s_KO20PRPh-/view?usp=sharing</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/pcD1n9FnSkSzzlyH4frMlVzaI8I.jpg</thumbnail>
-1	<genre>[B][COLOR firebrick]MrPikachu, Drama[/COLOR][/B]</genre>
-1	<fanart>https://image.tmdb.org/t/p/original/sl9WvMXRhw2hobO0GAJMDykt2u.jpg</fanart>
-1	<info>[B][COLOR yellow] SINOPSE:
-[COLOR white]Os candidatos encontram uma oferta tentadora ao chegarem ao novo alojamento. Os que decidem ficar enfrentam testes individuais cada vez mais difíceis. (MrPikachu)[/COLOR][/B]</info>	
+1	<title>[B][COLOR orange]•  BREAKING BAD  [COLOR white] 1ª Temporada [/COLOR][/B]</title>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c1f61689123b32edd923fc86d143bc8100769e4e</link>
+1	<thumbnail>https://image.tmdb.org/t/p/original/bQkJ7THLSk3wBKK8ziGWwvk7TUJ.jpg</thumbnail>
+1	<genre>[B][COLOR white]DRAMA[/COLOR][/B]</genre>
+1	<fanart>https://image.tmdb.org/t/p/original/wKHImjeHwVIiWJWFIJtWUKkA5QJ.jpg</fanart>
+1	<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+[B][COLOR yellow] SINOPSE:
+[COLOR white]À medida que Walter constrói seu império, sua esposa começa a suspeitar do seu comportamento. A polícia federal tenta descobrir quem é o novo cabeça.[/COLOR][/B]</info>	
+</item>
+<item>	
+1	<title>[B][COLOR orange]•  BREAKING BAD  [COLOR white] 2ª Temporada [/COLOR][/B]</title>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aedddc140106f33f13a1c870b7d7cb779d73c6ce</link>
+1	<thumbnail>https://image.tmdb.org/t/p/original/wm2vIEbb6lmyj8MF2PfKc0Gte3U.jpg</thumbnail>
+1	<genre>[B][COLOR white]DRAMA[/COLOR][/B]</genre>
+1	<fanart>https://image.tmdb.org/t/p/original/lKODbE8ARPJEPnjTBfiIJ98I3YL.jpg</fanart>
+1	<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+[B][COLOR yellow] SINOPSE:
+[COLOR white]Walter e Jesse sobem rápido no mundo das drogas, atraindo a atenção de cartéis rivais e ameaçando a vida de Hank, cunhado policial de Walter.[/COLOR][/B]</info>	
 </item>	
 <item>	
-2	<title>[B][COLOR white]• [COLOR lime]2 [COLOR white]- [COLOR yellow] Capitulo 02: Moedas[/B][/COLOR]</title>
-2	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gubKdeA9scjPCULbos_N6BYlAMDPvXzQ/view?usp=sharing</link>
-2	<thumbnail>https://image.tmdb.org/t/p/original/pcD1n9FnSkSzzlyH4frMlVzaI8I.jpg</thumbnail>
-2	<genre>[B][COLOR firebrick]MrPikachu, Drama[/COLOR][/B]</genre>
-2	<fanart>https://image.tmdb.org/t/p/original/sl9WvMXRhw2hobO0GAJMDykt2u.jpg</fanart>
-2	<info>[B][COLOR yellow] SINOPSE:
-[COLOR white]O exame médico de Fernando leva a uma incrível descoberta. Um desafio de lógica aumenta a tensão no grupo. Aline tenta descobrir o segredo de Ezequiel. (MrPikachu)[/COLOR][/B]</info>	
+1	<title>[B][COLOR orange]•  BREAKING BAD  [COLOR white] 3ª Temporada [/COLOR][/B]</title>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2520f7b502ef0ef745f8e0831085f80876e47195</link>
+1	<thumbnail>https://image.tmdb.org/t/p/original/ReYdHeVjpC2f47heAVzqsMvfri.jpg</thumbnail>
+1	<genre>[B][COLOR white]DRAMA[/COLOR][/B]</genre>
+1	<fanart>https://image.tmdb.org/t/p/original/wuwcaQlk6ldGXgQiVgV0MshOxHE.jpg</fanart>
+1	<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+[B][COLOR yellow] SINOPSE:
+[COLOR white]Para sustentar sua família, Walter continua a fabricar metanfetamina às escondidas. Jesse, seu ex-aluno, fica viciado em heroína.[/COLOR][/B]</info>	
 </item>	
-<item>
-
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]<<•  ABSENTIA  [COLOR white] [ 2ªTEMPORADA ]  [COLOR orange] •>>[/COLOR][/B]</name>
-<genre>[B][COLOR firebrick]Drama[/COLOR][/B]</genre>
-<info>[B][COLOR yellow] SINOPSE:
-[COLOR white]Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados.
-[/COLOR][/B]</info>
-
 <item>	
-1	<title>[B][COLOR white]• [COLOR lime]1 [COLOR white]- [COLOR yellow] Capitulo 01: Cubo [/B][/COLOR]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17fIAssSTe70mSfH-fMnf4s_KO20PRPh-/view?usp=sharing</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/pcD1n9FnSkSzzlyH4frMlVzaI8I.jpg</thumbnail>
-1	<genre>[B][COLOR firebrick]MrPikachu, Drama[/COLOR][/B]</genre>
-1	<fanart>https://image.tmdb.org/t/p/original/sl9WvMXRhw2hobO0GAJMDykt2u.jpg</fanart>
-1	<info>[B][COLOR yellow] SINOPSE:
-[COLOR white]Os candidatos encontram uma oferta tentadora ao chegarem ao novo alojamento. Os que decidem ficar enfrentam testes individuais cada vez mais difíceis. (MrPikachu)[/COLOR][/B]</info>	
+1	<title>[B][COLOR orange]•  BREAKING BAD  [COLOR white] 4ª Temporada [/COLOR][/B]</title>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3252dd6406daa753ca76e82820291fd2a0fec96</link>
+1	<thumbnail>https://image.tmdb.org/t/p/original/miAH1yeT7XIqUpXBDpVfoVybFl.jpg</thumbnail>
+1	<genre>[B][COLOR white]DRAMA[/COLOR][/B]</genre>
+1	<fanart>https://image.tmdb.org/t/p/original/nPJ1quzQIDhu4u5tqjE6baKcOMT.jpg</fanart>
+1	<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+[B][COLOR yellow] SINOPSE:
+[COLOR white]Bryan Cranston está de volta em mais uma temporada como Walter White, que continua a fabricar cristal e tenta passar a perna no traficante Gus Fring.[/COLOR][/B]</info>	
+</item>	
+<item>	
+1	<title>[B][COLOR orange]•  BREAKING BAD  [COLOR white] 5ª Temporada [/COLOR][/B]</title>
+1	<link>plugin://plugin.video.elementum/play?uri=</link>
+1	<thumbnail>https://image.tmdb.org/t/p/original/b5wn600jumP0FcrvAcJkvIz1CrK.jpg</thumbnail>
+1	<genre>[B][COLOR white]DRAMA[/COLOR][/B]</genre>
+1	<fanart>https://image.tmdb.org/t/p/original/zQp0DoO0zcTDZSci7AgcRvdmWZi.jpg</fanart>
+1	<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+[B][COLOR yellow] SINOPSE:
+[COLOR white]Nos episódios finais, Walt já não está mais apenas fingindo ser mau. Ele é agora um poderoso chefe do narcotráfico, pondo tudo e a todos em risco.[/COLOR][/B]</info>	
 </item>	
