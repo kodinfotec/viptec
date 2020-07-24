@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 17.07.2020
-
-<item>
-<title>[COLOR orange]<<[B]•  THE 100 [ 2020 ] [COLOR white] [ 7ª TEMPORADA ]  [/B]>>[/COLOR]</title>
-<link>http://</link>
+<channels>
+</channels><channel>
+<name>[COLOR orange]<<[B]•  THE 100 [ 2020 ] [COLOR white] [ 7ª TEMPORADA ]  [/B]>>[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/9OfbNi3mzyn0rd0vnCP8gj4szW0.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/zvZeHqaN1QH43qM622oDQF10VTi.jpg</fanart>
-<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+<genre>[COLOR white]FICÇÃO CIENTÍFICA, FANTASIA, DRAMA, AÇÃO, AVENTURA[/COLOR]</genre>
+<info> BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
 [COLOR yellow] SINOPSE:
 [COLOR white]
 Depois de chegar em um novo planeta, nossos heróis encontraram um lugar onde esperavam tentar novamente. Clarke e Bellamy levaram um grupo a este mundo misterioso para começar de novo, mas nem tudo no Sanctum era tão perfeito quanto parecia. Apesar de sua determinação em fazer melhor, ameaças vistas e invisíveis novamente os forçaram a lutar por suas vidas e pelo futuro da humanidade..
-[/COLOR]</info>
-<genre>[COLOR white]FICÇÃO CIENTÍFICA, FANTASIA, DRAMA, AÇÃO, AVENTURA[/COLOR]</genre>
-</item>
+[/COLOR]
+</info>
 <item>
   <title>[B][COLOR lime]EP[/COLOR] ● [COLOR yellow]01[/COLOR] [COLOR white]Vindo das cinzas[/COLOR][/B]</title>
   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LF5hlH5VhG2XXu90kXOkoI2pajTftNCM/view</link>
