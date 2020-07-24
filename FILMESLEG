@@ -1,20 +1,51 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-17.07.2020
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+23.07.2020
+
+***************************************************************************************************************************
+************************************
 <channels>
-</channels><channel>
-<name>[COLOR orange]<<[B]•  THE 100 [ 2020 ] [COLOR white] [ 7ª TEMPORADA ]  [/B]>>[/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/9OfbNi3mzyn0rd0vnCP8gj4szW0.jpg</thumbnail>
-<genre>[COLOR white]FICÇÃO CIENTÍFICA, FANTASIA, DRAMA, AÇÃO, AVENTURA[/COLOR]</genre>
-<info> BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[COLOR yellow] SINOPSE:
-[COLOR white]
-Depois de chegar em um novo planeta, nossos heróis encontraram um lugar onde esperavam tentar novamente. Clarke e Bellamy levaram um grupo a este mundo misterioso para começar de novo, mas nem tudo no Sanctum era tão perfeito quanto parecia. Apesar de sua determinação em fazer melhor, ameaças vistas e invisíveis novamente os forçaram a lutar por suas vidas e pelo futuro da humanidade..
-[/COLOR]
-</info>
+</channels><channel>  
+ [B][COLOR=orange]<<•  FILMES [COLOR=lime]  T[/COLOR] [COLOR=yellow]OP  [/COLOR][COLOR=orange] •>>[/COLOR][/B]
 <item>
-  <title>[B][COLOR lime]EP[/COLOR] ● [COLOR yellow]01[/COLOR] [COLOR white]Vindo das cinzas[/COLOR][/B]</title>
-  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LF5hlH5VhG2XXu90kXOkoI2pajTftNCM/view</link>
-  <thumbnail>https://image.tmdb.org/t/p/original/oBxyJWUCqrZ9kjcK2yzzRsjehLH.jpg</thumbnail>
-  <fanart>https://image.tmdb.org/t/p/original/zvZeHqaN1QH43qM622oDQF10VTi.jpg</fanart>
-  <info>Clarke e seus amigos tentam reconstruir Sanctum quando uma nova ameaça surge na floresta</info>
+      <name>[B][COLOR orange]•  FILMES  [COLOR white] LANÇAMENTOS  [/COLOR][/B]</name>
+  <thumbnail>https://i.imgur.com/O8UNNXL.jpg</thumbnail>
+1   <genre>[B][COLOR white]ALL[/COLOR][/B]</genre>
+1   <fanart>https://i.imgur.com/CJAX8rj.jpg</fanart>
+1   <info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+[B][COLOR yellow] KODI:
+[COLOR white]FILMES ATUALIZADOS TODA SEMANA[/COLOR][/B]</info>  
+<link>http://ignoreme</link>
+   <externallink></externallink>
+</item>
+***************************************************************************************************************************
+*************************
+<channels>
+</channels><channel>  
+ [B][COLOR=orange]<<•  FILMES [COLOR=lime]  T [/COLOR][COLOR=yellow]ORRENT  [/COLOR][COLOR=orange] •>>[/COLOR][/B]
+<item>
+      <name>[B][COLOR orange]•  FILMES  [COLOR white] LANÇAMENTOS  [/COLOR][/B]</name>
+  <thumbnail>https://i.imgur.com/PY2pCZL.jpg</thumbnail>
+1   <genre>[B][COLOR white]ALL[/COLOR][/B]</genre>
+1   <fanart>https://i.imgur.com/CJAX8rj.jpg</fanart>
+1   <info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+[B][COLOR yellow] KODI:
+[COLOR white]FILMES ATUALIZADOS TODA SEMANA[/COLOR][/B]</info>  
+<link>http://ignoreme</link>
+   <externallink></externallink>
+</item>
+***************************************************************************************************************************
+*************************
+<channels>
+</channels><channel>  
+ [B][COLOR=orange]<<•  FILMES [COLOR=lime]  G [/COLOR][COLOR=yellow]DRIVE  [/COLOR][COLOR=orange] •>>[/COLOR][/B]
+<item>
+      <name>[B][COLOR orange]•  FILMES  [COLOR white] LANÇAMENTOS  [/COLOR][/B]</name>
+  <thumbnail>https://i.imgur.com/YE7nALB.png</thumbnail>
+1   <genre>[B][COLOR white]ALL[/COLOR][/B]</genre>
+1   <fanart>https://i.imgur.com/CJAX8rj.jpg</fanart>
+1   <info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+[B][COLOR yellow] KODI:
+[COLOR white]FILMES ATUALIZADOS TODA SEMANA[/COLOR][/B]</info>  
+<link>http://ignoreme</link>
+   <externallink></externallink>
 </item>
