@@ -2,60 +2,20 @@
 
 <channels>
 </channels><channel>
-<name>[COLOR orange][B]<<•  BREAKING BAD  [COLOR white] [ 5 TEMPORADA ]  [COLOR orange] •>>[/COLOR][/B]</name>
+<name>[COLOR orange][B]<<•  DOZE JURADOS  [COLOR white] [ 1 TEMPORADA ]  [COLOR orange] •>>[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/qn4hUvR6aYm9A52vO87q3Q7u1pU.jpg</thumbnail>
 <genre>[B][COLOR white]DRAMA[/COLOR][/B]</genre>
 <info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
 [B][COLOR yellow] SINOPSE:
-[COLOR white]
+Um júri formado por doze cidadãos comuns deve decidir o destino de uma mulher acusada de matar sua melhor amiga e sua própria filha.
 [/COLOR][/B]</info>
-
 <item>	
-1	<title>[B][COLOR orange]•  BREAKING BAD  [COLOR white] 1ª Temporada [/COLOR][/B]</title>
-1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9876a1688fc774068fecc94a991f300f45cf2b7</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/bQkJ7THLSk3wBKK8ziGWwvk7TUJ.jpg</thumbnail>
+1	<title>[B][COLOR orange]•  DOZE JURADOS  [COLOR white] 1ª Temporada [/COLOR][/B]</title>
+1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e30d65a5d703fb1024e44d796698f2d232f834fd</link>
+1	<thumbnail>https://image.tmdb.org/t/p/original/qn4hUvR6aYm9A52vO87q3Q7u1pU.jpg</thumbnail>
 1	<genre>[B][COLOR white]DRAMA[/COLOR][/B]</genre>
-1	<fanart>https://image.tmdb.org/t/p/original/wKHImjeHwVIiWJWFIJtWUKkA5QJ.jpg</fanart>
+1	<fanart>https://image.tmdb.org/t/p/original/bgXCjLQEmqfi7JUD4DFv78sU6Fg.jpg</fanart>
 1	<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
 [B][COLOR yellow] SINOPSE:
-[COLOR white]À medida que Walter constrói seu império, sua esposa começa a suspeitar do seu comportamento. A polícia federal tenta descobrir quem é o novo cabeça.[/COLOR][/B]</info>	
+Um júri formado por doze cidadãos comuns deve decidir o destino de uma mulher acusada de matar sua melhor amiga e sua própria filha.[/COLOR][/B]</info>	
 </item>
-<item>	
-1	<title>[B][COLOR orange]•  BREAKING BAD  [COLOR white] 2ª Temporada [/COLOR][/B]</title>
-1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bc586d090eabf47e46902bec330697bf0d0c4f6</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/wm2vIEbb6lmyj8MF2PfKc0Gte3U.jpg</thumbnail>
-1	<genre>[B][COLOR white]DRAMA[/COLOR][/B]</genre>
-1	<fanart>https://image.tmdb.org/t/p/original/lKODbE8ARPJEPnjTBfiIJ98I3YL.jpg</fanart>
-1	<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[B][COLOR yellow] SINOPSE:
-[COLOR white]Walter e Jesse sobem rápido no mundo das drogas, atraindo a atenção de cartéis rivais e ameaçando a vida de Hank, cunhado policial de Walter.[/COLOR][/B]</info>	
-</item>	
-<item>	
-1	<title>[B][COLOR orange]•  BREAKING BAD  [COLOR white] 3ª Temporada [/COLOR][/B]</title>
-1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cb9c6ee323f0e58816972052f846599b88b8d6f</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/ReYdHeVjpC2f47heAVzqsMvfri.jpg</thumbnail>
-1	<genre>[B][COLOR white]DRAMA[/COLOR][/B]</genre>
-1	<fanart>https://image.tmdb.org/t/p/original/wuwcaQlk6ldGXgQiVgV0MshOxHE.jpg</fanart>
-1	<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[B][COLOR yellow] SINOPSE:
-[COLOR white]Para sustentar sua família, Walter continua a fabricar metanfetamina às escondidas. Jesse, seu ex-aluno, fica viciado em heroína.[/COLOR][/B]</info>	
-</item>	
-<item>	
-1	<title>[B][COLOR orange]•  BREAKING BAD  [COLOR white] 4ª Temporada [/COLOR][/B]</title>
-1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7eea76a201ec76ec20f4baa543f1a85f8c4fa30</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/miAH1yeT7XIqUpXBDpVfoVybFl.jpg</thumbnail>
-1	<genre>[B][COLOR white]DRAMA[/COLOR][/B]</genre>
-1	<fanart>https://image.tmdb.org/t/p/original/nPJ1quzQIDhu4u5tqjE6baKcOMT.jpg</fanart>
-1	<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[B][COLOR yellow] SINOPSE:
-[COLOR white]Bryan Cranston está de volta em mais uma temporada como Walter White, que continua a fabricar cristal e tenta passar a perna no traficante Gus Fring.[/COLOR][/B]</info>	
-</item>	
-<item>	
-1	<title>[B][COLOR orange]•  BREAKING BAD  [COLOR white] 5ª Temporada [/COLOR][/B]</title>
-1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:549bfcc4b07bd8fa2aa92b475dbd35682b13f56f</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/b5wn600jumP0FcrvAcJkvIz1CrK.jpg</thumbnail>
-1	<genre>[B][COLOR white]DRAMA[/COLOR][/B]</genre>
-1	<fanart>https://image.tmdb.org/t/p/original/zQp0DoO0zcTDZSci7AgcRvdmWZi.jpg</fanart>
-1	<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[B][COLOR yellow] SINOPSE:
-[COLOR white]Nos episódios finais, Walt já não está mais apenas fingindo ser mau. Ele é agora um poderoso chefe do narcotráfico, pondo tudo e a todos em risco.[/COLOR][/B]</info>	
-</item>	
