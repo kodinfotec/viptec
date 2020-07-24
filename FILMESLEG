@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+17.07.2020
 
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]<<•  DOZE JURADOS  [COLOR white] [ 1 TEMPORADA ]  [COLOR orange] •>>[/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/qn4hUvR6aYm9A52vO87q3Q7u1pU.jpg</thumbnail>
-<genre>[B][COLOR white]DRAMA[/COLOR][/B]</genre>
+<item>
+<title>[COLOR orange]<<[B]•  THE 100 [ 2020 ] [COLOR white] [ 7ª TEMPORADA ]  [/B]>>[/COLOR]</title>
+<link>http://</link>
+<thumbnail>https://image.tmdb.org/t/p/original/9OfbNi3mzyn0rd0vnCP8gj4szW0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zvZeHqaN1QH43qM622oDQF10VTi.jpg</fanart>
 <info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[B][COLOR yellow] SINOPSE:
-Um júri formado por doze cidadãos comuns deve decidir o destino de uma mulher acusada de matar sua melhor amiga e sua própria filha.
-[/COLOR][/B]</info>
-<item>	
-1	<title>[B][COLOR orange]•  DOZE JURADOS  [COLOR white] 1ª Temporada [/COLOR][/B]</title>
-1	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e30d65a5d703fb1024e44d796698f2d232f834fd</link>
-1	<thumbnail>https://image.tmdb.org/t/p/original/qn4hUvR6aYm9A52vO87q3Q7u1pU.jpg</thumbnail>
-1	<genre>[B][COLOR white]DRAMA[/COLOR][/B]</genre>
-1	<fanart>https://image.tmdb.org/t/p/original/bgXCjLQEmqfi7JUD4DFv78sU6Fg.jpg</fanart>
-1	<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[B][COLOR yellow] SINOPSE:
-Um júri formado por doze cidadãos comuns deve decidir o destino de uma mulher acusada de matar sua melhor amiga e sua própria filha.[/COLOR][/B]</info>	
+[COLOR yellow] SINOPSE:
+[COLOR white]
+Depois de chegar em um novo planeta, nossos heróis encontraram um lugar onde esperavam tentar novamente. Clarke e Bellamy levaram um grupo a este mundo misterioso para começar de novo, mas nem tudo no Sanctum era tão perfeito quanto parecia. Apesar de sua determinação em fazer melhor, ameaças vistas e invisíveis novamente os forçaram a lutar por suas vidas e pelo futuro da humanidade..
+[/COLOR]</info>
+<genre>[COLOR white]FICÇÃO CIENTÍFICA, FANTASIA, DRAMA, AÇÃO, AVENTURA[/COLOR]</genre>
 </item>
