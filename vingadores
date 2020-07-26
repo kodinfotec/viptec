@@ -2,7 +2,7 @@
 
 
 <item>
-1   <title>[B][COLOR orange]<<•[COLOR white]  VIGADORES  [COLOR lime]HD[/COLOR][COLOR white] 4 FILMES [COLOR orange]•>>[/COLOR][/B]</title>
+1   <title>[B][COLOR=orange]<<•[COLOR white]  VINGADORES [COLOR=lime]  4[/COLOR][COLOR=yellow] FILMES  [/COLOR][COLOR=orange] •>>[/COLOR][/B]</title>
 1   <link>http://nada</link>
 1   <thumbnail>https://image.tmdb.org/t/p/original/bvjltR2nDuhf1NlnwCrgNwvHuIh.jpg</thumbnail>
 1   <genre>[B][COLOR white]AÇÃO[/COLOR][/B]</genre>
@@ -14,7 +14,7 @@
 	</item>
 <item>
 2   <title>[B][COLOR white]•  OS VIGADORES  [COLOR lime]HD[/COLOR][/B]</title>
-2   <link>http://nada</link>
+2   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_aJXuKY0UDpRe_cntpcfW5Iqiurd4G0q/view</link>
 2   <thumbnail>https://image.tmdb.org/t/p/original/7UseIgJKzrw2hHHIAzSeSBAKjX5.jpg</thumbnail>
 2   <genre>[B][COLOR white]FICÇÃO CIENTÍFICA, AÇÃO, AVENTURA[/COLOR][/B]</genre>
 2   <fanart>https://image.tmdb.org/t/p/original/nNmJRkg8wWnRmzQDe2FwKbPIsJV.jpg</fanart>
@@ -26,7 +26,7 @@ Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roub
 	</item>
 	<item>
 3   <title>[B][COLOR white]•  VINGADORES: ERA DE ULTRON  [COLOR lime]HD[/COLOR][/B]</title>
-3   <link>http://nada</link>
+3   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 3   <thumbnail>https://image.tmdb.org/t/p/original/t1F8xnBHZlQMkSAacfhUUXhmcgo.jpg</thumbnail>
 3   <genre>[B][COLOR white]AÇÃO, AVENTURA, FICÇÃO CIENTÍFICA[/COLOR][/B]</genre>
 3   <fanart>https://image.tmdb.org/t/p/original/pJpdx8H0Z8uCPffrPMoA3pa6BeO.jpg</fanart>
@@ -38,7 +38,7 @@ Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de int
 	</item>
 	<item>
 4   <title>[B][COLOR white]•  VINGADORES: GUERRA INFINITA  [COLOR lime]HD[/COLOR][/B]</title>
-4   <link>http://nada</link>
+4   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_aJXuKY0UDpRe_cntpcfW5Iqiurd4G0q/view</link>
 4   <thumbnail>https://image.tmdb.org/t/p/original/dxuSsmfHRXJXFC86aEzHEuG59jf.jpg</thumbnail>
 4   <genre>[B][COLOR white]AVENTURA, AÇÃO, FICÇÃO CIENTÍFICA[/COLOR][/B]</genre>
 4   <fanart>https://image.tmdb.org/t/p/original/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg</fanart>
@@ -50,7 +50,7 @@ Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mai
 	</item>
 	<item>
 5   <title>[B][COLOR white]•  VINGADORES: ULTIMATO  [COLOR lime]HD[/COLOR][/B]</title>
-5   <link>http://nada</link>
+5   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 5   <thumbnail>https://image.tmdb.org/t/p/original/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg</thumbnail>
 5   <genre>[B][COLOR white]AVENTURA, FICÇÃO CIENTÍFICA, AÇÃO[/COLOR][/B]</genre>
 5   <fanart>https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg</fanart>
