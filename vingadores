@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<channels>
+</channels><channel>
+<name>[B][COLOR=orange]<<•  FILMES [COLOR=lime]  C[/COLOR][COLOR=yellow]OLETANEA  [/COLOR][COLOR=orange] •>>[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/YE7nALB.png</thumbnail>
+<genre>[B][COLOR white]VINGADORES[/COLOR][/B]</genre>
+<info>[ BY [B][COLOR orange]INFOTEC IPTV[/COLOR][/B] ]
+[B][COLOR yellow] KODI:
+[COLOR white]
+[/COLOR]ALL[/B]</info>
+<item>
+1   <title>[B][COLOR white]•  VIGADORES  [COLOR lime]HD[/COLOR][COLOR white] 4 FILMES[/COLOR][/B]</title>
+1   <link></link>
+1   <thumbnail>https://image.tmdb.org/t/p/original/bvjltR2nDuhf1NlnwCrgNwvHuIh.jpg</thumbnail>
+1   <genre>[B][COLOR white]AÇÃO[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/2UNUv4NJdC36E5myDHACBJ99EwL.jpg</fanart>
+1   <info>[ BY [B][COLOR orange]INFOTEC IPTV[/COLOR][/B] ]
+[B][COLOR yellow] SINOPSE:
+[COLOR white].[/COLOR]
+    </info>
+<item>
+2   <title>[B][COLOR white]•  OS VIGADORES  [COLOR lime]HD[/COLOR][/B]</title>
+2   <link></link>
+2   <thumbnail>https://image.tmdb.org/t/p/original/7UseIgJKzrw2hHHIAzSeSBAKjX5.jpg</thumbnail>
+2   <genre>[B][COLOR white]FICÇÃO CIENTÍFICA, AÇÃO, AVENTURA[/COLOR][/B]</genre>
+2   <fanart>https://image.tmdb.org/t/p/original/nNmJRkg8wWnRmzQDe2FwKbPIsJV.jpg</fanart>
+2   <info>[ BY [B][COLOR orange]INFOTEC IPTV[/COLOR][/B] ]
+[B][COLOR yellow] SINOPSE:
+[COLOR white]Os Vingadores (2012)
+Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.[/COLOR]
+    </info>
+	<item>
+3   <title>[B][COLOR white]•  VINGADORES: ERA DE ULTRON  [COLOR lime]HD[/COLOR][/B]</title>
+3   <link></link>
+3   <thumbnail>https://image.tmdb.org/t/p/original/t1F8xnBHZlQMkSAacfhUUXhmcgo.jpg</thumbnail>
+3   <genre>[B][COLOR white]AÇÃO, AVENTURA, FICÇÃO CIENTÍFICA[/COLOR][/B]</genre>
+3   <fanart>https://image.tmdb.org/t/p/original/pJpdx8H0Z8uCPffrPMoA3pa6BeO.jpg</fanart>
+3   <info>[ BY [B][COLOR orange]INFOTEC IPTV[/COLOR][/B] ]
+[B][COLOR yellow] SINOPSE:
+[COLOR white]Vingadores: Era de Ultron (2015)
+Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, os Vingadores terão que se unir para mais uma vez salvar a raça humana da extinção.[/COLOR]
+    </info>
+	<item>
+4   <title>[B][COLOR white]•  VINGADORES: GUERRA INFINITA  [COLOR lime]HD[/COLOR][/B]</title>
+4   <link></link>
+4   <thumbnail>https://image.tmdb.org/t/p/original/dxuSsmfHRXJXFC86aEzHEuG59jf.jpg</thumbnail>
+4   <genre>[B][COLOR white]AVENTURA, AÇÃO, FICÇÃO CIENTÍFICA[/COLOR][/B]</genre>
+4   <fanart>https://image.tmdb.org/t/p/original/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg</fanart>
+4   <info>[ BY [B][COLOR orange]INFOTEC IPTV[/COLOR][/B] ]
+[B][COLOR yellow] SINOPSE:
+[COLOR white]Vingadores: Guerra Infinita (2018)
+Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.[/COLOR]
+    </info>
+	<item>
+5   <title>[B][COLOR white]•  VINGADORES: ULTIMATO  [COLOR lime]HD[/COLOR][/B]</title>
+5   <link></link>
+5   <thumbnail>https://image.tmdb.org/t/p/original/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg</thumbnail>
+5   <genre>[B][COLOR white]AVENTURA, FICÇÃO CIENTÍFICA, AÇÃO[/COLOR][/B]</genre>
+5   <fanart>https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg</fanart>
+5   <info>[ BY [B][COLOR orange]INFOTEC IPTV[/COLOR][/B] ]
+[B][COLOR yellow] SINOPSE:
+[COLOR white]Vingadores: Ultimato (2019)
+Após os eventos devastadores de "Vingadores: Guerra Infinita", o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.[/COLOR]
+    </info>
