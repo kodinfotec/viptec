@@ -8,14 +8,12 @@
 <info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
 [B][COLOR yellow] SINOPSE:
 [COLOR white]FBI (2018)
-14
-
 A série acompanha os bastidores das operações do FBI em NY, onde os agentes Maggie Bell, Omar Adom e equipe buscam manter a cidade e o país a salvo. Assista agora, dublada ou legendada.
 [/COLOR][/B]</info>
 <item>	
 1	<title>[B][COLOR orange]•  FBI  [COLOR white] 1ª Temporada [/COLOR][/B]</title>
 1	<link>http://nada</link>
-1	<thumbnail></thumbnail>
+1	<thumbnail>https://image.tmdb.org/t/p/original/uJZUfoGqtiuGfGXtVgYqIafZ1Ii.jpg</thumbnail>
 1	<genre>[B][COLOR white]2018 • CRIME, DRAMA[/COLOR][/B]</genre>
 1	<fanart></fanart>
 1	<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
@@ -23,7 +21,79 @@ A série acompanha os bastidores das operações do FBI em NY, onde os agentes M
 [COLOR white][/COLOR][/B]</info>	
 </item>
 <item>
-  <title>[B][COLOR yellow]S01E01[/COLOR] • [COLOR white]Episódio 1[/COLOR][/B]</title>
+  <title>[B][COLOR white]S01E01 • Episódio 1[/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+  <thumbnail></thumbnail>
+  <genre>[B][COLOR white]2018 • CRIME, DRAMA[/COLOR][/B]</genre>
+  <fanart></fanart>
+  <info></info>
+</item>
+<item>
+  <title>[B][COLOR white]S01E02 • Episódio 2[/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+  <thumbnail></thumbnail>
+  <genre>[B][COLOR white]2018 • CRIME, DRAMA[/COLOR][/B]</genre>
+  <fanart></fanart>
+  <info></info>
+</item>
+<item>
+  <title>[B][COLOR white]S01E03 • Episódio 3[/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+  <thumbnail></thumbnail>
+  <genre>[B][COLOR white]2018 • CRIME, DRAMA[/COLOR][/B]</genre>
+  <fanart></fanart>
+  <info></info>
+</item>
+<item>
+  <title>[B][COLOR white]S01E04 • Episódio 4[/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+  <thumbnail></thumbnail>
+  <genre>[B][COLOR white]2018 • CRIME, DRAMA[/COLOR][/B]</genre>
+  <fanart></fanart>
+  <info></info>
+</item>
+<item>
+  <title>[B][COLOR white]S01E05 • Episódio 5[/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+  <thumbnail></thumbnail>
+  <genre>[B][COLOR white]2018 • CRIME, DRAMA[/COLOR][/B]</genre>
+  <fanart></fanart>
+  <info></info>
+</item>
+<item>
+  <title>[B][COLOR white]S01E06 • Episódio 6[/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+  <thumbnail></thumbnail>
+  <genre>[B][COLOR white]2018 • CRIME, DRAMA[/COLOR][/B]</genre>
+  <fanart></fanart>
+  <info></info>
+</item>
+<item>
+  <title>[B][COLOR white]S01E07 • Episódio 7[/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+  <thumbnail></thumbnail>
+  <genre>[B][COLOR white]2018 • CRIME, DRAMA[/COLOR][/B]</genre>
+  <fanart></fanart>
+  <info></info>
+</item>
+<item>
+  <title>[B][COLOR white]S01E08 • Episódio 8[/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+  <thumbnail></thumbnail>
+  <genre>[B][COLOR white]2018 • CRIME, DRAMA[/COLOR][/B]</genre>
+  <fanart></fanart>
+  <info></info>
+</item>
+<item>
+  <title>[B][COLOR white]S01E09 • Episódio 9[/COLOR][/B]</title>
+  <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+  <thumbnail></thumbnail>
+  <genre>[B][COLOR white]2018 • CRIME, DRAMA[/COLOR][/B]</genre>
+  <fanart></fanart>
+  <info></info>
+</item>
+<item>
+  <title>[B][COLOR white]S01E10 • Episódio 10[/COLOR][/B]</title>
   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
   <thumbnail></thumbnail>
   <genre>[B][COLOR white]2018 • CRIME, DRAMA[/COLOR][/B]</genre>
@@ -43,7 +113,7 @@ A série acompanha os bastidores das operações do FBI em NY, onde os agentes M
 [COLOR white][/COLOR][/B]</info>	
 </item>
 <item>
-  <title>[B][COLOR lime]EP[/COLOR]• [COLOR yellow]01[/COLOR] [COLOR white][/COLOR][/B]</title>
+  <title>[B][COLOR white]S01E01 • Episódio 1[/COLOR][/B]</title>
   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
   <thumbnail></thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/R94f82iRoi5nXhXnRfz42f6dKV.jpg</fanart>
