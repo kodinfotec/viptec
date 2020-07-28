@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+version="1.0" encoding="UTF-8" standalone="yes" ?>
 17.07.2020
 <channels>
 </channels><channel>
@@ -28,17 +28,6 @@
 </item>
 *****************************************************************************************************
 **************************
-<channels>
-</channels><channel>
-<name>[COLOR orange][B]<<•  FBI  [COLOR white] [ 2 TEMPORADAS ]  [COLOR orange] •>>[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<genre>[COLOR white]CRIME, DRAMA[/COLOR]</genre>
-<info> BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[COLOR yellow] SINOPSE:
-[COLOR white]FBI (2018)
-A série acompanha os bastidores das operações do FBI em NY, onde os agentes Maggie Bell, Omar Adom e equipe buscam manter a cidade e o país a salvo. Assista agora, dublada ou legendada
-[/COLOR]
-</info>
 <item>	
 1	<title>[B][COLOR orange]•  FBI  [COLOR white] 2ª Temporada [/COLOR][/B]</title>
 1	<link>http://nada</link>
