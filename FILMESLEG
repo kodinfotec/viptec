@@ -4,25 +4,29 @@
 </channels><channel>
 <name>[COLOR orange][B]<<•  FBI  [COLOR white] [ 2 TEMPORADA ]  [COLOR orange] •>>[/COLOR][/B]</name>
 <thumbnail></thumbnail>
-<genre>[B][COLOR white][/COLOR][/B]</genre>
+<genre>[B][COLOR white]2018 • CRIME, DRAMA[/COLOR][/B]</genre>
 <info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
 [B][COLOR yellow] SINOPSE:
-[COLOR white]
+[COLOR white]FBI (2018)
+14
+
+A série acompanha os bastidores das operações do FBI em NY, onde os agentes Maggie Bell, Omar Adom e equipe buscam manter a cidade e o país a salvo. Assista agora, dublada ou legendada.
 [/COLOR][/B]</info>
 <item>	
 1	<title>[B][COLOR orange]•  FBI  [COLOR white] 1ª Temporada [/COLOR][/B]</title>
 1	<link>http://nada</link>
 1	<thumbnail></thumbnail>
-1	<genre>[B][COLOR white][/COLOR][/B]</genre>
+1	<genre>[B][COLOR white]2018 • CRIME, DRAMA[/COLOR][/B]</genre>
 1	<fanart></fanart>
 1	<info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
 [B][COLOR yellow] SINOPSE:
 [COLOR white][/COLOR][/B]</info>	
 </item>
 <item>
-  <title>[B][COLOR lime]EP[/COLOR]• [COLOR yellow]01[/COLOR] [COLOR white][/COLOR][/B]</title>
+  <title>[B][COLOR white]S01[COLOR yellow]E01[/COLOR]• [COLOR white]Episódio 1[/COLOR][/B]</title>
   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
   <thumbnail></thumbnail>
+  <genre>[B][COLOR white]2018 • CRIME, DRAMA[/COLOR][/B]</genre>
   <fanart></fanart>
   <info></info>
 </item>
