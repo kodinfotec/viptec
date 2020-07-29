@@ -12,8 +12,8 @@
 
 <item>	
 1	<title>[B][COLOR white]•  A VELHA GUARDA  [COLOR lime]HD[/COLOR][/B]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wp9dbPf8qFyruyYnb824rmKAGAedf0tY/view$nome=[COLOR orange]G-Drive[/COLOR]</link>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b275617ec623cd4aa09b714407f8d1bc2e8fbbd5$nome=[COLOR lime]Torrent[/COLOR]</link>
+1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wp9dbPf8qFyruyYnb824rmKAGAedf0tY/view$nome=[B][COLOR lime]G[/COLOR]-[COLOR yellow]Drive[/COLOR][/B]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b275617ec623cd4aa09b714407f8d1bc2e8fbbd5$nome=[B][COLOR lime]T[COLOR yellow]orrent[/COLOR][/B]</link>
 1	<thumbnail>https://image.tmdb.org/t/p/original/pZOK1L88L7KoM5iNQVqNomdhjto.jpg</thumbnail>
 1	<genre>[B][COLOR white]AÇÃO, FANTASIA[/COLOR][/B]</genre>
 1	<fanart>https://image.tmdb.org/t/p/original/6f8vQN9Tx1pJOqUB12oAoKopFVz.jpg</fanart>
