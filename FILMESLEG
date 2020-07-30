@@ -50,7 +50,7 @@ Um oficial da inteligência de elite dos Estados Unidos, auxiliado por uma unida
     <item>
 7   <title>[B][COLOR white]•  22 MILHAS  [COLOR lime]HD[/COLOR][/B]</title>
 7   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nMHIfi7_hhbYCplqUCivnrAooNNjR5cF/view&dn;$nome=[B][COLOR lime]G[/COLOR]-[COLOR yellow]Drive[/COLOR] 1[/B]</link>
-7   <link>plugin://plugin.video.gdrive?mode=streamURL&url=https://drive.google.com/file/d/1CQv5xV3fNK6iEjEQoQ7JDM1XKa3eSxaN&dn;$nome=[B][COLOR lime]G[/COLOR]-[COLOR yellow]Drive[/COLOR] 2[/B]</link>
+7   <link>plugin://plugin.video.gdrive?mode=streamURL&url=https://drive.google.com/file/d/1CQv5xV3fNK6iEjEQoQ7JDM1XKa3eSxaN/view&dn;$nome=[B][COLOR lime]G[/COLOR]-[COLOR yellow]Drive[/COLOR] 2[/B]</link>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26c3aac596db4ff650e93cc0fb4c924256273798&dn;$nome=[B][COLOR lime]T[COLOR yellow]orrent[/COLOR] 1[/B]</link>
 	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88e60340acdb3b19b89cd215a31c0c233cace37f&dn;$nome=[B][COLOR lime]T[COLOR yellow]orrent[/COLOR] 2[/B]</link>
 7   <thumbnail>https://image.tmdb.org/t/p/w1280/fcHq8q0cW49YlACLhwtknMtBv23.jpg</thumbnail>
