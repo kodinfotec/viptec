@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-<channels>
-</channels><channel>
-<name>[B][COLOR=orange]<<•  FILMES [COLOR=lime]  G[/COLOR][COLOR=yellow]DRIVE  [/COLOR][COLOR=orange] •>>[/COLOR][/B]</name>
+<item>
+<title>[B][COLOR=orange]<<•  FILMES [COLOR=lime]  G[/COLOR][COLOR=yellow]DRIVE  [/COLOR][COLOR=orange] •>>[/COLOR][/B]</title>
 <thumbnail>https://i.imgur.com/YE7nALB.png</thumbnail>
+    <link>htpp://nada</link>
 <genre>[B][COLOR white]ALL[/COLOR][/B]</genre>
 <info>[ BY [B][COLOR orange]INFOTEC IPTV[/COLOR][/B] ]
 [B][COLOR yellow] KODI:
