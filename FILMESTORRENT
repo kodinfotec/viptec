@@ -1,52 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-***************************************************************************************************************************
-************************************
 <channels>
-</channels><channel>  
- [B][COLOR=orange]<<•  FILMES [COLOR=lime]  C[/COLOR][COLOR=yellow]OLETANEA  [/COLOR][COLOR=orange] •>>[/COLOR][/B]
-<item>
-      <name>[B][COLOR white]•  VIGADORES  [COLOR lime]HD[/COLOR][COLOR white] 4 FILMES[/COLOR][/B]</name>
-  <thumbnail>https://i.imgur.com/YE7nALB.png</thumbnail>
-1   <genre>[B][COLOR white]4 FILMES HD[/COLOR][/B]</genre>
-1   <fanart>https://i.imgur.com/CJAX8rj.jpg</fanart>
-1   <info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
+</channels><channel>
+<name>[B][COLOR=orange]<<•  FILMES [COLOR=lime]  G[/COLOR][COLOR=yellow]DRIVE  [/COLOR][COLOR=orange] •>>[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/YE7nALB.png</thumbnail>
+<genre>[B][COLOR white]ALL[/COLOR][/B]</genre>
+<info>[ BY [B][COLOR orange]INFOTEC IPTV[/COLOR][/B] ]
 [B][COLOR yellow] KODI:
-[COLOR white]AS MELHORES COLETANES[/COLOR][/B]</info>  
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/vingadores</externallink>
+[COLOR white]
+[/COLOR]ALL[/B]</info>
 </item>
-***************************************************************************************************************************
-*************************
-<channels>
-</channels><channel>  
- [B][COLOR=orange]<<•  FILMES [COLOR=lime]  C[/COLOR][COLOR=yellow]OLETANEA  [/COLOR][COLOR=orange] •>>[/COLOR][/B]
 <item>
-      <name>[B][COLOR white]•  OLHOS FAMINTOS  [COLOR lime]HD[/COLOR][COLOR white] 3 FILMES[/COLOR][/B]</name>
-  <thumbnail>https://i.imgur.com/YE7nALB.png</thumbnail>
-1   <genre>[B][COLOR white]3 FILMES HD[/COLOR][/B]</genre>
-1   <fanart>https://i.imgur.com/CJAX8rj.jpg</fanart>
-1   <info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[B][COLOR yellow] KODI:
-[COLOR white]AS MELHORES COLETANES[/COLOR][/B]</info>  
-<link>http://ignoreme</link>
-   <externallink>http://nada</externallink>
+1   <title>[B][COLOR lime]•  [COLOR white]ARRANHA-CÉU: CORAGEM SEM LIMITES  [COLOR lime]HD[/COLOR][/B]</title>
+1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10BRxE2hdSXD5wSBpo1SzdcXsHpiSCjFS/view</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/iCWFqns8tpBLdMwvLix8QjagiP8.jpg</thumbnail>
+1   <genre>[B][COLOR white]AÇÃO[/COLOR][/B]</genre>
+1   <fanart>https://image.tmdb.org/t/p/original/oMKFQmoVgB69fyXfSMu0lGlHJP2.jpg</fanart>
+1   <info>[ BY [B][COLOR orange]INFOTEC IPTV[/COLOR][/B] ]
+[B][COLOR yellow] SINOPSE:
+[COLOR white]Arranha-Céu: Coragem Sem Limite (2018)
+Responsável pela segurança de arranha-céus, o veterano de guerra americano e ex-líder da operação de resgate do FBI, Will Ford (Dwayne Johnson), é acusado de ter colocado o edifício mais alto e mais seguro da China em chamas. Cabe ao agente então achar os culpados pelo incêndio, salvar sua família que está presa dentro do prédio e limpar seu nome antes que seja tarde demais.[/COLOR]
+    </info>
 </item>
-***************************************************************************************************************************
-*************************
-<channels>
-</channels><channel>  
- [B][COLOR=orange]<<•  FILMES [COLOR=lime]  C[/COLOR][COLOR=yellow]OLETANEA  [/COLOR][COLOR=orange] •>>[/COLOR][/B]
-<item>
-      <name>[B][COLOR white]•  O GRITO  [COLOR lime]HD[/COLOR] [COLOR white] 3 FILMES[/COLOR][/B]</name>
-  <thumbnail>https://i.imgur.com/YE7nALB.png</thumbnail>
-1   <genre>[B][COLOR white]3 FILMES HD[/COLOR][/B]</genre>
-1   <fanart>https://i.imgur.com/CJAX8rj.jpg</fanart>
-1   <info>[ BY [COLOR orange]INFOTEC IPTV[/COLOR] ]
-[B][COLOR yellow] KODI:
-[COLOR white]AS MELHORES COLETANES[/COLOR][/B]</info>  
-<link>http://ignoreme</link>
-   <externallink>http://nada</externallink>
-</item>
-***************************************************************************************************************************
-*************************
