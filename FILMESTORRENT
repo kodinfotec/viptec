@@ -1,37 +1,37 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+#EXTINF:-1 JM-id="" tvg-name="|CONTATO| 55 12 98895-6559" tvg-logo="" ,[B][COLOR orangered] IPTV 1 | INFOTEC-IPTV[/B][/COLOR]
 
-<item>
-<title>[B][COLOR=orange]<<•  OS MELHORES FILMES [COLOR=lime]  G[COLOR=yellow]DRIVE  [/COLOR][COLOR=orange] •>>[/COLOR][/B]</title>
-<thumbnail>https://i.imgur.com/YE7nALB.png</thumbnail>
-    <link>htpp://nada</link>
-<genre>[B][COLOR white]ALL[/COLOR][/B]</genre>
-<info>[ BY [B][COLOR orange]INFOTEC IPTV[/COLOR][/B] ]
-[B][COLOR yellow] KODI:
-[COLOR white]
-[/COLOR]ALL[/B]</info>
-</item>
-<item>
-1   <title>[B][COLOR lime]•  [COLOR white]ARRANHA-CÉU: CORAGEM SEM LIMITES  [COLOR lime]HD[/COLOR][/B]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10BRxE2hdSXD5wSBpo1SzdcXsHpiSCjFS/view</link>
-    <thumbnail>https://image.tmdb.org/t/p/original/iCWFqns8tpBLdMwvLix8QjagiP8.jpg</thumbnail>
-1   <genre>[B][COLOR white]AÇÃO[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/oMKFQmoVgB69fyXfSMu0lGlHJP2.jpg</fanart>
-1   <info>[ BY [B][COLOR orange]INFOTEC IPTV[/COLOR][/B] ]
-[B][COLOR yellow] SINOPSE:
-[COLOR white]Arranha-Céu: Coragem Sem Limite (2018)
-Responsável pela segurança de arranha-céus, o veterano de guerra americano e ex-líder da operação de resgate do FBI, Will Ford (Dwayne Johnson), é acusado de ter colocado o edifício mais alto e mais seguro da China em chamas. Cabe ao agente então achar os culpados pelo incêndio, salvar sua família que está presa dentro do prédio e limpar seu nome antes que seja tarde demais.[/COLOR]
-    </info>
-</item>
-<item>
-1   <title>[B][COLOR lime]•  [COLOR white]ARRANHA-CÉU: CORAGEM SEM LIMITES  [COLOR lime]HD[/COLOR][/B]</title>
-1   <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10BRxE2hdSXD5wSBpo1SzdcXsHpiSCjFS/view</link>
-    <thumbnail>https://image.tmdb.org/t/p/original/iCWFqns8tpBLdMwvLix8QjagiP8.jpg</thumbnail>
-1   <genre>[B][COLOR white]AÇÃO[/COLOR][/B]</genre>
-1   <fanart>https://image.tmdb.org/t/p/original/oMKFQmoVgB69fyXfSMu0lGlHJP2.jpg</fanart>
-1   <info>[ BY [B][COLOR orange]INFOTEC IPTV[/COLOR][/B] ]
-[B][COLOR yellow] SINOPSE:
-[COLOR white]Arranha-Céu: Coragem Sem Limite (2018)
-Responsável pela segurança de arranha-céus, o veterano de guerra americano e ex-líder da operação de resgate do FBI, Will Ford (Dwayne Johnson), é acusado de ter colocado o edifício mais alto e mais seguro da China em chamas. Cabe ao agente então achar os culpados pelo incêndio, salvar sua família que está presa dentro do prédio e limpar seu nome antes que seja tarde demais.[/COLOR]
-    </info>
-</item>
-</channel>
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
+http://srvx.io:80/INFOTEC01/hG7Nt/2025
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Alternativos",A&E FHD [Alter]
+http://srvx.io:80/INFOTEC01/hG7Nt/45236
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD [H265]
+http://srvx.io:80/INFOTEC01/hG7Nt/25400
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Alternativos",A&E FHD [H265] [Alter]
+http://srvx.io:80/INFOTEC01/hG7Nt/29484
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E HD
+http://srvx.io:80/INFOTEC01/hG7Nt/1906
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Alternativos",A&E HD [Alter]
+http://srvx.io:80/INFOTEC01/hG7Nt/2402
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E SD
+http://srvx.io:80/INFOTEC01/hG7Nt/1907
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Alternativos",A&E SD [Alter]
+http://srvx.io:80/INFOTEC01/hG7Nt/2215
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD
+http://srvx.io:80/INFOTEC01/hG7Nt/2024
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Alternativos",AMC FHD [Alter]
+http://srvx.io:80/INFOTEC01/hG7Nt/45237
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD [H265]
+http://srvx.io:80/INFOTEC01/hG7Nt/25399
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Alternativos",AMC FHD [H265] [Alter]
+http://srvx.io:80/INFOTEC01/hG7Nt/29483
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC HD
+http://srvx.io:80/INFOTEC01/hG7Nt/1904
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Alternativos",AMC HD [Alter]
+http://srvx.io:80/INFOTEC01/hG7Nt/2401
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC SD
+http://srvx.io:80/INFOTEC01/hG7Nt/1905
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Alternativos",AMC SD [Alter]
+http://srvx.io:80/INFOTEC01/hG7Nt/2214
