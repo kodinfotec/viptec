@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-#EXTINF:-1 JM-id="" tvg-name="|CONTATO| 55 12 98895-6559" tvg-logo="" ,[B][COLOR gold] IPTV 1 [COLOR white] | [COLOR orange]INFOTEC-IPTV[/B][/COLOR]
-
-#EXTINF:-1 JM-id="" tvg-name="|CONTATO| 55 12 98895-6559" tvg-logo="" ,[B][COLOR gold] JM [COLOR white]| [COLOR lime] CONTATO [/COLOR] | [COLOR gold] 55 12 98895-6559[/B][/COLOR]
-
+#EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" ,[B][COLOR gold] IPTV 1 [COLOR white] | [COLOR orange]INFOTEC-IPTV[/B][/COLOR]
+http://
+#EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" ,[B][COLOR gold] JM [COLOR white]| [COLOR lime] CONTATO [/COLOR] | [COLOR gold] 55 12 98895-6559[/B][/COLOR]
+http://
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
