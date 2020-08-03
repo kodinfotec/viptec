@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-#EXTINF:-1 JM-id="" tvg-name="|CONTATO| 55 12 98895-6559" tvg-logo="" ,[B][COLOR orangered] IPTV 1 | INFOTEC-IPTV[/B][/COLOR]
+#EXTINF:-1 JM-id="" tvg-name="|CONTATO| 55 12 98895-6559" tvg-logo="" ,[B][COLOR gold] IPTV 1 [COLOR white] | [COLOR orange]INFOTEC-IPTV[/B][/COLOR]
+#EXTINF:-1 JM-id="" tvg-name="|CONTATO| 55 12 98895-6559" tvg-logo="" ,[B][COLOR gold] JM [COLOR white]| [COLOR lime] CONTATO [/COLOR] | [COLOR gold] 55 12 98895-6559[/B][/COLOR]
 
 
 #EXTM3U
