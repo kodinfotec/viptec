@@ -1,25 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-#EXTINF:-1,[COLOR lime]>>>[/COLOR] | [COLOR orange]CANAIS[/COLOR] | [COLOR gold]IPTV[/COLOR] | [COLOR springgreen]INFOTEC[/COLOR]
-07.03.2020 RDC
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+#EXTINF:-1 JM-id="" tvg-name="|CONTATO| 55 12 98895-6559" tvg-logo="" ,[B][COLOR orangered] IPTV 1 | INFOTEC-IPTV [/B][/COLOR]
+
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES SERIES",SPACE HD
-https://cdn4.canais.ink/hls1/space.m3u8?expires=1583607068&token=d3adb99471ebdfe1d25a3556da1c2060
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES",AMC HD
-https://cdn4.canais.ink/hls1/amc.m3u8?expires=1583607831&token=7a34a14282f18e84fd9b131136db6181
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",Discovery Channel HD
-https://cdn4.canais.ink/hls1/discovery.m3u8?expires=1583427097&token=457a3a7da3fda3f79241d9c802db4318
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",ID DISCOVERY HD
-https://cdn4.canais.ink/hls1/discovery.m3u8?expires=1583076803&token=a1cf7b9428aefaba18e847d17784980e
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: DOCUMENTARIOS",THE HISTORY
-https://cdn4.canais.ink/hls1/history.m3u8?expires=1583426862&token=2582a70b6a00c4fe5bdb591530e4088f
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: VARIEDADES",TLC HD
-https://cdn4.canais.ink/hls1/tlc.m3u8?expires=1582751041&token=7cf70d642302553c08d202fe821f772e
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS: FILMES",Telecine Action HD
-https://cdn4.canais.ink/hls1/telecineaction.m3u8?expires=1583426927&token=f612c9a6380f317c214de1ae37ec05ab
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
+http://srvx.io:80/INFOTEC01/hG7Nt/2025
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Alternativos",A&E FHD [Alter]
+http://srvx.io:80/INFOTEC01/hG7Nt/45236
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD [H265]
+http://srvx.io:80/INFOTEC01/hG7Nt/25400
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Alternativos",A&E FHD [H265] [Alter]
+http://srvx.io:80/INFOTEC01/hG7Nt/29484
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E HD
+http://srvx.io:80/INFOTEC01/hG7Nt/1906
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Alternativos",A&E HD [Alter]
+http://srvx.io:80/INFOTEC01/hG7Nt/2402
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E SD
+http://srvx.io:80/INFOTEC01/hG7Nt/1907
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Alternativos",A&E SD [Alter]
+http://srvx.io:80/INFOTEC01/hG7Nt/2215
