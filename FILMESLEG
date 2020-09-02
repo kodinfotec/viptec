@@ -17,8 +17,8 @@
 </item>
 <item>
 1	<title>[B][COLOR lime]•  [COLOR white]A VELHA GUARDA  [COLOR lime]HD[/COLOR][/B]</title>
-1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wp9dbPf8qFyruyYnb824rmKAGAedf0tY/view</link>
-1 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b275617ec623cd4aa09b714407f8d1bc2e8fbbd5</link>
+1	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wp9dbPf8qFyruyYnb824rmKAGAedf0tY/view$nome=[B][COLOR lime]G[/COLOR]-[COLOR yellow]Drive[/COLOR][/B]</link>
+1 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b275617ec623cd4aa09b714407f8d1bc2e8fbbd5$nome=[B][COLOR lime]T[COLOR yellow]orrent[/COLOR][/B]</link>
 1	<thumbnail>https://image.tmdb.org/t/p/original/pZOK1L88L7KoM5iNQVqNomdhjto.jpg</thumbnail>
 1	<genre>[B][COLOR orange]2020 • Ação, Fantasia[/COLOR][/B]</genre>
 1	<fanart>https://image.tmdb.org/t/p/original/6f8vQN9Tx1pJOqUB12oAoKopFVz.jpg</fanart>
