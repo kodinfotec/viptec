@@ -1,39 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-#EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" ,[B][COLOR gold] IPTV 1 [COLOR white] | [COLOR orange]INFOTEC-IPTV[/B][/COLOR]
-http://
-#EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="" ,[B][COLOR gold] JM [COLOR white]| [COLOR lime] CONTATO [/COLOR] | [COLOR gold] 55 12 98895-6559[/B][/COLOR]
-http://
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD
-http://srvx.io:80/INFOTEC01/hG7Nt/2025
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Alternativos",A&E FHD [Alter]
-http://srvx.io:80/INFOTEC01/hG7Nt/45236
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD [H265]
-http://srvx.io:80/INFOTEC01/hG7Nt/25400
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Alternativos",A&E FHD [H265] [Alter]
-http://srvx.io:80/INFOTEC01/hG7Nt/29484
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E HD
-http://srvx.io:80/INFOTEC01/hG7Nt/1906
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Alternativos",A&E HD [Alter]
-http://srvx.io:80/INFOTEC01/hG7Nt/2402
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E SD
-http://srvx.io:80/INFOTEC01/hG7Nt/1907
-#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Alternativos",A&E SD [Alter]
-http://srvx.io:80/INFOTEC01/hG7Nt/2215
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD
-http://srvx.io:80/INFOTEC01/hG7Nt/2024
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Alternativos",AMC FHD [Alter]
-http://srvx.io:80/INFOTEC01/hG7Nt/45237
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC FHD [H265]
-http://srvx.io:80/INFOTEC01/hG7Nt/25399
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Alternativos",AMC FHD [H265] [Alter]
-http://srvx.io:80/INFOTEC01/hG7Nt/29483
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC HD
-http://srvx.io:80/INFOTEC01/hG7Nt/1904
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Alternativos",AMC HD [Alter]
-http://srvx.io:80/INFOTEC01/hG7Nt/2401
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC SD
-http://srvx.io:80/INFOTEC01/hG7Nt/1905
-#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Alternativos",AMC SD [Alter]
-http://srvx.io:80/INFOTEC01/hG7Nt/2214
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]ANIMAL PLANET
+https://streaming.belugacdn.link/hls1/animalplanet.m3u8?expires=1606353594&token=b5d086cf884314b44d37a0dc316d889d
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]A&E
+https://streaming.belugacdn.link/hls1/aie.m3u8?expires=1606353567&token=fcb888bbc03031eeb99c271aa008c975
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]AXN
+https://streaming.belugacdn.link/hls1/axn.m3u8?expires=1606353674&token=ebd00da35cc0864f9d9b76f0e61042dc
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]COMBATE
+https://streaming.belugacdn.link/hls1/combate.m3u8?expires=1606353639&token=77c03f12eb1d3cbbeca2f951e3ac131b
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]CINEMAX
+https://streaming.belugacdn.link/hls1/cinemax.m3u8?expires=1606353904&token=fcd0da195c4c5612acca4ced24108e5f
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]DISCOVERY CHANNEL
+https://streaming.belugacdn.link/hls1/discovery.m3u8?expires=1606353855&token=271abc2a9f937403075caef9a102e4f4
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]FX
+https://streaming.belugacdn.link/hls1/fx.m3u8?expires=1606353814&token=852aa4b43dab6f463b45be16b5b616d3
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]HBO 2
+https://streaming.belugacdn.link/hls1/hbo2.m3u8?expires=1606353383&token=52225d3c08f217c9c7fc12d928968f83
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]HISTORY
+https://streaming.belugacdn.link/hls1/history.m3u8?expires=1606353972&token=ae0fe7b93673952ad314b9afc1e6b873
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]HISTORY 2
+https://streaming.belugacdn.link/hls1/history2.m3u8?expires=1606353540&token=4135c3ceaf88b7b5eb2fde8b3d4ae0bc
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGACAO-DISCOVERY" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]INVESTIGACAO-DISCOVERY
+https://streaming.belugacdn.link/hls1/investigacaodiscovery.m3u8?expires=1606353715&token=770aefff181a588a9232c27f2ca993e9
+#EXTINF:-1 tvg-id="" tvg-name="MEGA PIX" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]MEGA PIX
+https://streaming.belugacdn.link/hls1/megapix.m3u8?expires=1606353713&token=fdf2c63fa0d7fa4ef6a0b6dc87fb839c
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]NAT GEO WILD
+https://streaming.belugacdn.link/hls1/natgeowild.m3u8?expires=1606353485&token=3628af9fdc10f0120761d9cff242ef45
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]NATIONAL GEOGRAPHIC
+https://streaming.belugacdn.link/hls1/natgeo.m3u8?expires=1606353737&token=2875637b6d05b34fba2462b81f059378
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]SPACE
+https://streaming.belugacdn.link/hls1/space.m3u8?expires=1606353238&token=a138ca8b9e7b29637d54fdd84d837054
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="", [B][COLOR firebrick]  [/COLOR][COLOR lime]ONLINE [/B] [/COLOR]TNT
+https://streaming.belugacdn.link/hls1/tnt.m3u8?expires=1606353359&token=2ba46cb39606e38329afdd3023324ba6
