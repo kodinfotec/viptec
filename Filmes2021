@@ -1,0 +1,19 @@
+<item>
+<title>[I][B][COLOR=lime]¤ [COLOR=white]XXXXXXXXXXX [COLOR orange]IMDb: XXX[/COLOR] [/B] [/I]</title>
+<link>
+TRAILER <link>plugin://plugin.video.youtube/play/?video_id= LINK $nortv=[I][COLOR white]TRA[COLOR gold]ILER[/COLOR][/I]</link>
+ALTERNATIVO <link> $nortv=[I][COLOR blue]ALTER[COLOR gold]NATIVO[COLOR=white] PLAY[/COLOR][/I]</link>
+TORRENT <link>plugin://plugin.video.elementum/play?uri= LINK $nortv=[I][COLOR blue]TOR[COLOR gold]RENT[/COLOR] [COLOR orange]720p[/COLOR][/I]</link>
+TORRENT <link>plugin://plugin.video.elementum/play?uri= LINK $nortv=[I][COLOR blue]TOR[COLOR gold]RENT[/COLOR] [COLOR orange]1080p[/COLOR][/I]</link>
+TORRENT <link>plugin://plugin.video.elementum/play?uri= LINK $nortv=[I][COLOR blue]TOR[COLOR gold]RENT[/COLOR] [COLOR orange]2160p[/COLOR] [COLOR yellow]4K[/COLOR][/I]</link>
+</link>
+<thumbnail></thumbnail>
+<genre>[I][COLOR orange]XXXX • XXXXXXXXXXXXXXX[/COLOR][/I]</genre>
+<fanart></fanart>
+<info>[I] [ BY [B][COLOR=orange]INFOTEC[/COLOR]–[COLOR blue]KODI[/COLOR]–[COLOR lime]ONLINE[/COLOR] ® [/B] ][/I]
+[COLOR yellow] SINOPSE:
+[COLOR blue]XXXXXXXXXXX [COLOR gold](XXXX)
+[COLOR white]
+[/COLOR]
+</info>
+</item>
