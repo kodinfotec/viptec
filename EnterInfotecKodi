@@ -1,14 +1,35 @@
-<item>
-<title>[I][B][COLOR orange]<[COLOR lightskyblue]<[COLOR lime]<[COLOR orangered]•  [COLOR=white]SÉRIE [COLOR=orange]xxxx [COLOR orangered]  •[COLOR lime]>[COLOR lightskyblue]>[COLOR orange]>[/COLOR][/B][/I]</title>
-<link>nadaver</link>
-<thumbnail>https://i.imgur.com/sdoYUK9.jpg</thumbnail>
-<fanart>https://i.imgur.com/gmXTDP5.jpg</fanart>
-<externallink>http://</externallink>
-<info>[I][ BY [B][COLOR=orange]INFOTEC[/COLOR]-[COLOR lightskyblue]KODI[/COLOR]-[COLOR lime]ONLINE[/COLOR] ® [/B] ][/I]
-[COLOR yellow] COMUNICADO:
-[COLOR lightskyblue]Sua Contribuição, Ajuda No Site e no Addon. Desta forma estaremos sempre melhorando os conteúdos. Faça sua Contribuição. Qualquer Valor é importate
-[COLOR orange]Obs. As contribuições não são obrigatórias.
-[COLOR white]Caso queira ajudar, é só acessar o link. http://bit.ly/IKO2021
-[/COLOR]  [COLOR lime]TORRENT[/COLOR] [COLOR skylightskyblue]ATERNATIVO[/COLOR]
-</info>
-</item>
+<?xml version="1.0" encoding="utf-8"?>
+
+<channels>
+<channel>
+<name>[COLOR gold]º[/COLOR] [B][COLOR lime] CANAIS[/COLOR] [COLOR gold]IPTV[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/zhqq5sS.png</thumbnail>
+<externallink>https://gitlab.com/infoteckodionline/infoteckodi2020/-/raw/master/TESTES/link</externallink>
+<fanart>https://i.imgur.com/s25oMKq.png</fanart>
+<info>[B]OS MELHORES CANAIS GRÁTIS[/B]</info>
+</channel>
+
+<channel>
+<name>[COLOR gold]°[/COLOR] [B][COLOR lime]FILMES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/FILMESVIP</externallink>
+<fanart>https://i.imgur.com/s25oMKq.png</fanart>
+<info>[B]OS MELHORES FILMES[/B]</info>
+</channel>
+
+<channel>
+<name>[COLOR gold]°[/COLOR] [B][COLOR lime]SÉRIES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/Xisjdcg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/SERIESVIP</externallink>
+<fanart>https://i.imgur.com/s25oMKq.png</fanart>
+<info>[B]AS MELHORES SÉRIES[/B]</info>
+</channel>
+  
+<channel>
+<name>[COLOR gold]°[/COLOR] [B][COLOR lime]TESTE[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/Xisjdcg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/rdcteste</externallink>
+<fanart>https://i.imgur.com/s25oMKq.png</fanart>
+<info>[B]AS MELHORES SÉRIES[/B]</info>
+</channel>
+</channels>
