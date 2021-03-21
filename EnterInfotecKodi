@@ -1,15 +1,14 @@
-<channels>
-
-<channel>
-<name>[I][COLOR=white]TESTE [COLOR orange]IMDb: XXX [COLOR white](XXXX)[/COLOR] [/I]</name>
-<thumbnail></thumbnail>
+<item>
+<title>[I][B][COLOR orange]<[COLOR lightskyblue]<[COLOR lime]<[COLOR orangered]•  [COLOR=white]SÉRIE [COLOR=orange]xxxx [COLOR orangered]  •[COLOR lime]>[COLOR lightskyblue]>[COLOR orange]>[/COLOR][/B][/I]</title>
+<link>nadaver</link>
+<thumbnail>https://i.imgur.com/sdoYUK9.jpg</thumbnail>
+<fanart>https://i.imgur.com/gmXTDP5.jpg</fanart>
 <externallink>http://</externallink>
-<fanart></fanart>
-<info>[I] [ BY [B][COLOR=orange]INFOTEC[/COLOR]–[COLOR lightskyblue]KODI[/COLOR]–[COLOR lime]ONLINE[/COLOR] ® [/B] ][/I]
-[COLOR lightskyblue]XXXXX [COLOR white](XXXX)
-[COLOR orange]IMDb: XXX [COLOR lime]Sinopse:
-[COLOR white]
-[/COLOR] [COLOR lime]DUBLADO [COLOR orange]LEGENDADO[/COLOR]</info>
-</channel>
-
-</channels>
+<info>[I][ BY [B][COLOR=orange]INFOTEC[/COLOR]-[COLOR lightskyblue]KODI[/COLOR]-[COLOR lime]ONLINE[/COLOR] ® [/B] ][/I]
+[COLOR yellow] COMUNICADO:
+[COLOR lightskyblue]Sua Contribuição, Ajuda No Site e no Addon. Desta forma estaremos sempre melhorando os conteúdos. Faça sua Contribuição. Qualquer Valor é importate
+[COLOR orange]Obs. As contribuições não são obrigatórias.
+[COLOR white]Caso queira ajudar, é só acessar o link. http://bit.ly/IKO2021
+[/COLOR]  [COLOR lime]TORRENT[/COLOR] [COLOR skylightskyblue]ATERNATIVO[/COLOR]
+</info>
+</item>
