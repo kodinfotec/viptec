@@ -1,25 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<layoutype>thumbnail</layoutype>
-
-
-
-<item>
-<title>[B][COLOR red]ANIMAL PLANET[/COLOR][/B] </title>
-<link>https://geralorigin.eu-central-1.edge.mycdn.live/live/animalplanethd/video.m3u8|Referer=https://topcanais.com/</link>
-<thumbnail>https://cdn.canaismax.com/assistir-animal-planet-ao-vivo-online-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYjZiZGVhYjQyODZjOWExMDBiYjAwMzYyYjE4YTYwZDYucG5n</thumbnail>
-<referer>http://tv-msn.com/</referer>
-</item>
- 
-<item>
-<title>[B][COLOR red]DISCOVERY CHANNEL [/COLOR][/B] </title>
-<link>https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryhd/video.m3u8|Referer=https://topcanais.com/</link>
-<thumbnail>https://cdn.canaismax.com/assistir-discovery-channel-ao-vivo-24-horas-online/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvZWZlZjA1NGY5OGUyMGRkOTliZWY3YWFkMmRmMWE1MjIucG5n</thumbnail>
-<referer>http://tv-msn.com/</referer>
-</item>
- 
-<item>
-<title>[B][COLOR red]DISCOVERY INVESTIGATION [/COLOR][/B] </title>
-<link>https://geralorigin.eu-central-1.edge.mycdn.live/live/idhd/video.m3u8|Referer=https://topcanais.com/</link>
-<thumbnail>https://cdn.canaismax.com/assistir-investigacao-discovery-ao-vivo-discovery-id-gratis-online-24-horas/fit/130/98/no/1/aHR0cHM6Ly9jYW5haXNtYXguY29tL2ltZy9jYW5haXMvYzNlYzNhMzQ1MDViMzNhNjM0YTZiZWY2NTUwNjViOWMucG5n</thumbnail>
-<referer>http://tv-msn.com/</referer>
+<item>	
+<title>[I][COLOR=orange]Coroner [COLOR=white] 3ª Temporada [/COLOR][/I]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NrbcI2DcupM$nortv=[I][COLOR white]TRA[COLOR gold]ILER[/COLOR][/I]</link>
+<link>https://streamtape.com/v/4AZpAor7JmfdlK/Coroner.S03E01.1080p.WEBRip.x264-BAE.mp4&stream=1$nortv=[I][COLOR white]S03E01 [COLOR orange] LEGENDADO[/COLOR][/I]</link>
+<link>https://streamtape.com/e/dVAkqzKDrackJWb/Coroner.S03E02.1080p.WEBRip.x264-BAE.mp4&stream=1$nortv=[I][COLOR white]S03E02 [COLOR orange] LEGENDADO[/COLOR][/I]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6da1d5e86636cb218c0f741e0af8fc4a0d35d76c&dn=COMOEUBAIXO.COM.-LEGENDADO-.Coroner.S03E03.1080p.WEBRip.x264-BAE%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2930&tr=udp%3A%2F%2F9.rarbg.to%3A2910$nortv=[I][COLOR white]S03E03 [COLOR orange] LEGENDADO[/COLOR][/I]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a8ba33e235109b7c58b892bedc04031f42225e3&dn=COMOEUBAIXO.COM.-LEGENDADO-.Coroner.S03E04.1080p.WEBRip.x264-BAE%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2820&tr=udp%3A%2F%2F9.rarbg.to%3A2890$nortv=[I][COLOR white]S03E04 [COLOR orange] LEGENDADO[/COLOR][/I]</link>
+<imdb>7.8</imdb>
+<thumbnail>https://image.tmdb.org/t/p/original/xpc6lb41T1ctPTPiYdLMITEiveE.jpg</thumbnail>
+<genre>[I][COLOR white]2021 | 5 episódioso • Drama[/COLOR][/I]</genre>
+<fanart>https://www.themoviedb.org/t/p/original/6yfUHi52RMnVqx33z7E4hvl4vOY.jpg</fanart>
+<info>[I] [ BY [B][COLOR=orange]INFOTEC[/COLOR]–[COLOR blue]KODI[/COLOR]–[COLOR lime]ONLINE[/COLOR] ® [/B] ][/I]
+[COLOR yellow] SINOPSE:
+[COLOR blue]Coroner [COLOR gold](2021)
+[COLOR white]Uma médica legista recém-contratada investiga uma série de misteriosas mortes em Toronto.
+[/COLOR] [COLOR lime] DUBLADO[/COLOR] [COLOR orange]LEGENDADO[/COLOR]</info>
 </item>
